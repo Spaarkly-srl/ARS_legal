@@ -4,6 +4,8 @@ Canonical public source of the privacy policies for **Spaarkly s.r.l.** and the 
 
 All Spaarkly services reference the documents in this repository. **File paths are stable**: when a policy is updated, the content of the file changes but its URL does not — services pointing at these paths always serve the latest version.
 
+Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/privacy-policies/** (e.g. [/core/it/](https://spaarkly-srl.github.io/privacy-policies/core/it/), [/shopify-app/en/](https://spaarkly-srl.github.io/privacy-policies/shopify-app/en/)); the raw URLs below remain the canonical machine-readable endpoints.
+
 ## ARShades Core Privacy Policy
 
 Current version: **5.3** — last updated **6 July 2026** (see [CHANGELOG](CHANGELOG.md)).

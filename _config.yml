@@ -1,0 +1,9 @@
+title: Spaarkly / ARShades — Privacy Policies
+description: Canonical public source of the privacy policies for Spaarkly s.r.l. and the ARShades solutions
+theme: jekyll-theme-primer
+permalink: pretty
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
