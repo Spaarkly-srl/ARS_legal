@@ -16,6 +16,7 @@
 
 ## Shopify App Privacy Policy
 
-### 2026-07-06 — prima pubblicazione (EN)
+### 2026-07-06 — prima pubblicazione
 - Policy dedicata all'app "ARShades VTO for Shopify", limitata ai dati trattati in relazione a Shopify; esperienze ARShades regolate dalla core policy.
 - Include: compliance webhooks GDPR (30 giorni, shop/redact 48h post-uninstall), consent gating del Web Pixel, incident response, crittografia at rest, diritto di reclamo, DPA su richiesta.
+- Traduzioni: EN (testo autentico), IT, FR, DE, ES, JA.

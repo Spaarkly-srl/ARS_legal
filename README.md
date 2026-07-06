@@ -23,11 +23,16 @@ The Italian version is the authoritative text; translations are provided for con
 
 ## ARShades VTO for Shopify — App Privacy Policy
 
-| Language | File | Raw URL |
+| Language | File | Raw URL (for services) |
 |---|---|---|
 | English | [shopify-app/en.md](shopify-app/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/en.md` |
+| Italiano | [shopify-app/it.md](shopify-app/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/it.md` |
+| Français | [shopify-app/fr.md](shopify-app/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/fr.md` |
+| Deutsch | [shopify-app/de.md](shopify-app/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/de.md` |
+| Español | [shopify-app/es.md](shopify-app/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/es.md` |
+| 日本語 | [shopify-app/ja.md](shopify-app/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/ja.md` |
 
-The Shopify App policy is limited to data processed in connection with Shopify; the ARShades end-user experiences launched through the app are governed by the core policy above.
+The Shopify App policy is limited to data processed in connection with Shopify; the ARShades end-user experiences launched through the app are governed by the core policy above. For the Shopify App policy, the English version is the authoritative text; in case of discrepancy, the English version prevails.
 
 ## Versioning
 
