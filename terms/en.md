@@ -1,6 +1,6 @@
 # ARSHADES SERVICES — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.1 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
+*ARShades solutions* </br> *Version 1.2 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
 
 These Terms supersede the **"ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** dated 21 March 2025.
 
@@ -225,7 +225,7 @@ For Users residing in other countries, the savings clause in Section 13 applies:
 
 19.6 **Entire agreement.** These Terms — together with the Privacy Policy and, where applicable, the AR PD Meter Terms — constitute the entire agreement between you and Spaarkly regarding the Services and supersede any prior agreement relating to them, including the ARShades VTO Terms and Conditions of Use dated 21 March 2025.
 
-19.7 **Language.** These Terms are drawn up in English, which is the authoritative text. Translations may be provided for convenience; in case of discrepancy, the English version prevails.
+19.7 **Language.** These Terms are drawn up in Italian, which is the authoritative text ([terms/it.md](it.md)). This English version and any other translations are provided for convenience only; in case of discrepancy, the Italian version prevails.
 
 ## 20. CONTACT
 

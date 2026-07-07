@@ -1,11 +1,10 @@
 # ARShades VTO for Shopify Privacy Policy
 
-Draft version for Shopify submission  
-Last updated: July 6, 2026
+Last updated: July 7, 2026
 
 This Privacy Policy describes how **Spaarkly s.r.l.** ("Spaarkly", "ARShades", "we", "us", or "our") processes personal data and other information in connection with the **ARShades VTO for Shopify** app (the "Shopify App" or the "App").
 
-This policy is specific to the Shopify App and is limited to the data processed in connection with Shopify (merchant, store, product, configuration and attribution data). The processing performed by ARShades end-user services — such as Virtual Try-On, 3D/AR Viewer and AR PD Meter — that may be launched through the App is not covered by this policy and is governed by the **ARShades core Privacy Policy** (version 5.3), available at [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/en.md) and displayed to shoppers within the ARShades experiences.
+This policy is specific to the Shopify App and is limited to the data processed in connection with Shopify (merchant, store, product, configuration and attribution data). The processing performed by ARShades end-user services — such as Virtual Try-On, 3D/AR Viewer and AR PD Meter — that may be launched through the App is not covered by this policy and is governed by the **ARShades core Privacy Policy** (version 5.4), available at [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/en.md) and displayed to shoppers within the ARShades experiences.
 
 ## 1. Controller
 

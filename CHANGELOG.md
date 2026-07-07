@@ -2,6 +2,9 @@
 
 ## Repository
 
+### 2026-07-07 — policy lingua autentica
+- **L'italiano è il testo autentico di tutti i documenti legali**, con un'unica eccezione: la Privacy Policy dell'app Shopify resta EN-autentica (è il testo valutato da Shopify e letto dai merchant). Le altre lingue sono traduzioni di cortesia.
+
 ### 2026-07-07 — riorganizzazione come hub legale
 - Il repository passa da "solo privacy policy" a **hub dei documenti legali pubblici** (privacy, termini, cookie policy).
 - Rinominato `core/` → `privacy-policy/` e `shopify-app/` → `privacy-policy-shopify/` (aggiornati di conseguenza gli URL raw/Pages e i link interni).
@@ -10,6 +13,13 @@
 - Repo rinominato `privacy-policies` → `ARS_legal`; i servizi vanno ri-puntati ai nuovi URL.
 
 ## Core Privacy Policy
+
+### v5.4 — 2026-07-07
+- **Formula identificabilità AR PD Meter** (feedback consulente legale): sostituita in tutte le lingue la formulazione assoluta "dati tecnici derivati **non riconducibili all'identità dell'Utente**" (EN: "not traceable to the User's identity") con la formula qualificata "**non utilizzati per identificare l'Utente e non idonei, di per sé, a identificarlo**" (EN: "not used to identify the User and not capable, on their own, of identifying the User") — 11 occorrenze per lingua, allineata ai Termini AR PD Meter v1.1+.
+- **Intestazione §3**: "Dati di misurazione facciale ~~(non biometrici)~~" — rimossa la classificazione assoluta dal titolo in tutte le lingue; la descrizione del trattamento resta invariata.
+- **Elenco "a differenza delle tecnologie biometriche"**: riformulato in forma qualificata anche il punto sulle misurazioni ("non utilizza le misurazioni per identificare specifiche persone, né le misurazioni sono, di per sé, idonee a identificarle") in tutte le lingue.
+- Nessuna modifica ad architettura, flussi dati o addenda.
+- Lingue: IT (testo autentico), EN, FR, DE, ES, JA.
 
 ### v5.3 — 2026-07-06
 - **AR PD Meter**: reso esplicito il flusso dei dati tecnici derivati (landmark facciali, orientamento del volto, informazioni dispositivo) verso il backend ARShades nell'Unione Europea, utilizzati solo per restituire la misurazione e scartati dopo l'elaborazione; nelle esperienze ARShades Mirror l'elaborazione avviene sul backend locale del dispositivo, senza trasmissione cloud.
@@ -25,12 +35,21 @@
 
 ## Shopify App Privacy Policy
 
+### 2026-07-07 — allineamento
+- Rimossa da tutte le lingue la riga "Draft version for Shopify submission" (la policy è in vigore).
+- Aggiornato il riferimento alla core policy: versione 5.3 → 5.4.
+- Resta l'unico documento con **testo autentico inglese** (policy lingua del 2026-07-07).
+
 ### 2026-07-06 — prima pubblicazione
 - Policy dedicata all'app "ARShades VTO for Shopify", limitata ai dati trattati in relazione a Shopify; esperienze ARShades regolate dalla core policy.
 - Include: compliance webhooks GDPR (30 giorni, shop/redact 48h post-uninstall), consent gating del Web Pixel, incident response, crittografia at rest, diritto di reclamo, DPA su richiesta.
 - Traduzioni: EN (testo autentico), IT, FR, DE, ES, JA.
 
 ## Terms & Conditions (Servizi ARShades)
+
+### v1.2 — 2026-07-07 — italiano testo autentico
+- Pubblicata la **traduzione italiana integrale** (`terms/it.md`): l'**italiano diventa il testo autentico** e prevalente; l'inglese è declassato a traduzione di cortesia (clausola Lingua aggiornata in entrambe le versioni).
+- Nessuna modifica sostanziale alle clausole rispetto alla v1.1.
 
 ### v1.1 — 2026-07-07 — revisione post-feedback legale
 - **Gateway**: corretta la definizione (piattaforma standalone/hub, non app da store); le clausole store ora riguardano le **mobile app** ARShades (Android/iOS).
@@ -55,6 +74,11 @@
 - Scheletro dei Termini e Condizioni ARShades (it/en) con banner DRAFT e placeholder `[[…]]` da completare. Non ancora in vigore.
 
 ## AR PD Meter — Terms & Conditions
+
+### v1.2 — 2026-07-07 — italiano testo autentico
+- Pubblicata la **traduzione italiana integrale** (`terms-ar-pd-meter/it.md`): l'**italiano diventa il testo autentico** e prevalente; l'inglese è traduzione di cortesia (clausola Lingua aggiornata in entrambe le versioni).
+- §3.5: riferimento alla Privacy Policy aggiornato a "versione 5.4 o successiva".
+- Nessuna modifica sostanziale alle clausole rispetto alla v1.1.
 
 ### v1.1 — 2026-07-07 — revisione post-feedback legale
 - §1.3: finalità riformulata come **commercial convenience only** (rimosso il riferimento al "lens fitting"); esclusi espressamente usi medici/clinici/diagnostici e dispensazione di lenti su prescrizione.

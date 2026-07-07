@@ -10,10 +10,10 @@
       "key": "privacy-policy",
       "title": { "it": "Informativa Privacy", "en": "Privacy Policy" },
       "status": "published",
-      "version": "5.3",
+      "version": "5.4",
       "authoritative_language": "it",
-      "effective_date": "2026-07-06",
-      "updated": "2026-07-06",
+      "effective_date": "2026-07-07",
+      "updated": "2026-07-07",
       "languages": ["it", "en", "fr", "de", "es", "ja"],
       "page": {
         "it": "/privacy-policy/it/",
@@ -39,7 +39,7 @@
       "version": "1.0",
       "authoritative_language": "en",
       "effective_date": "2026-07-06",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "languages": ["en", "it", "fr", "de", "es", "ja"],
       "page": {
         "en": "/privacy-policy-shopify/en/",
@@ -62,35 +62,39 @@
       "key": "terms",
       "title": { "it": "Termini e Condizioni — Servizi ARShades", "en": "ARShades Services — Terms and Conditions of Use" },
       "status": "published",
-      "version": "1.1",
-      "authoritative_language": "en",
+      "version": "1.2",
+      "authoritative_language": "it",
       "effective_date": "2026-07-07",
       "updated": "2026-07-07",
-      "languages": ["en"],
+      "languages": ["it", "en"],
       "page": {
+        "it": "/terms/it/",
         "en": "/terms/en/"
       },
       "raw": {
+        "it": "/terms/it.md",
         "en": "/terms/en.md"
       },
-      "notes": "Covers VTO, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). Translations pending."
+      "notes": "Covers VTO, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). Italian authoritative; English courtesy translation."
     },
     {
       "key": "terms-ar-pd-meter",
       "title": { "it": "Termini e Condizioni — AR PD Meter", "en": "AR PD Meter — Terms and Conditions of Use" },
       "status": "published",
-      "version": "1.1",
-      "authoritative_language": "en",
+      "version": "1.2",
+      "authoritative_language": "it",
       "effective_date": "2026-07-07",
       "updated": "2026-07-07",
-      "languages": ["en"],
+      "languages": ["it", "en"],
       "page": {
+        "it": "/terms-ar-pd-meter/it/",
         "en": "/terms-ar-pd-meter/en/"
       },
       "raw": {
+        "it": "/terms-ar-pd-meter/it.md",
         "en": "/terms-ar-pd-meter/en.md"
       },
-      "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. Translations pending."
+      "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. Italian authoritative; English courtesy translation."
     },
     {
       "key": "cookie-policy",

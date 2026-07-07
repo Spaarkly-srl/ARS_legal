@@ -1,6 +1,6 @@
 # AR PD METER — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.1 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
+*ARShades solutions* </br> *Version 1.2 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
 
 These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature. They are **supplemental** to the [ARShades Services — Terms and Conditions of Use](../terms/en.md) (the "General Terms"), which are incorporated by reference and apply to AR PD Meter except as modified below. In case of conflict, these AR PD Meter Terms prevail with respect to AR PD Meter.
 
@@ -32,7 +32,7 @@ These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature
 
 3.4 When AR PD Meter is used within an **ARShades Mirror** experience, the processing takes place on the **local backend of the Mirror device**, and the data are deleted after processing; no cloud transmission occurs.
 
-3.5 Full details of the processing are provided in the [ARShades Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/) (version 5.3 or later), including the regional addenda applicable to your country.
+3.5 Full details of the processing are provided in the [ARShades Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/) (version 5.4 or later), including the regional addenda applicable to your country.
 
 ## 4. MEASUREMENT DISCLAIMER
 
@@ -70,7 +70,7 @@ For privacy matters: privacy@spaarkly.com (see the [Privacy Policy](https://spaa
 
 ## 9. LANGUAGE
 
-These AR PD Meter Terms are drawn up in English, which is the authoritative text. Translations may be provided for convenience; in case of discrepancy, the English version prevails.
+These AR PD Meter Terms are drawn up in Italian, which is the authoritative text ([terms-ar-pd-meter/it.md](it.md)). This English version and any other translations are provided for convenience only; in case of discrepancy, the Italian version prevails.
 
 ---
 

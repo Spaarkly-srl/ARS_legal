@@ -8,10 +8,10 @@ Fonte pubblica e canonica dei documenti legali di **Spaarkly s.r.l.** e delle so
 
 | Documento | Lingue | Stato |
 |---|---|---|
-| **Informativa Privacy** (core) | [IT](privacy-policy/it.md) · [EN](privacy-policy/en.md) · [FR](privacy-policy/fr.md) · [DE](privacy-policy/de.md) · [ES](privacy-policy/es.md) · [JA](privacy-policy/ja.md) | v5.3 · in vigore |
+| **Informativa Privacy** (core) | [IT](privacy-policy/it.md) · [EN](privacy-policy/en.md) · [FR](privacy-policy/fr.md) · [DE](privacy-policy/de.md) · [ES](privacy-policy/es.md) · [JA](privacy-policy/ja.md) | v5.4 · in vigore |
 | **Informativa Privacy — App Shopify** | [EN](privacy-policy-shopify/en.md) · [IT](privacy-policy-shopify/it.md) · [FR](privacy-policy-shopify/fr.md) · [DE](privacy-policy-shopify/de.md) · [ES](privacy-policy-shopify/es.md) · [JA](privacy-policy-shopify/ja.md) | in vigore |
-| **Termini e Condizioni — Servizi ARShades** | [EN](terms/en.md) · [IT](terms/it.md) *(in traduzione)* | v1.1 · in vigore |
-| **Termini e Condizioni — AR PD Meter** | [EN](terms-ar-pd-meter/en.md) | v1.1 · in vigore |
+| **Termini e Condizioni — Servizi ARShades** | [IT](terms/it.md) · [EN](terms/en.md) | v1.2 · in vigore |
+| **Termini e Condizioni — AR PD Meter** | [IT](terms-ar-pd-meter/it.md) · [EN](terms-ar-pd-meter/en.md) | v1.2 · in vigore |
 | **Cookie Policy** | [IT](cookie-policy/it.md) · [EN](cookie-policy/en.md) | 🚧 bozza |
 
 Elenco machine-readable per i servizi: [`manifest.json`](manifest.json).

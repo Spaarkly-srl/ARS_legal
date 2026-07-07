@@ -1,11 +1,10 @@
 # Informativa Privacy di ARShades VTO for Shopify
 
-Versione bozza per la presentazione a Shopify  
-Ultimo aggiornamento: 6 luglio 2026
+Ultimo aggiornamento: 7 luglio 2026
 
 La presente Informativa Privacy descrive le modalità con cui **Spaarkly s.r.l.** ("Spaarkly", "ARShades", "noi") tratta i dati personali e le altre informazioni in relazione all'applicazione **ARShades VTO for Shopify** (la "App Shopify" o l'"App").
 
-La presente informativa è specifica per l'App Shopify ed è circoscritta ai dati trattati in relazione a Shopify (dati relativi al merchant, allo store, ai prodotti, alla configurazione e all'attribuzione). I trattamenti effettuati dai servizi ARShades destinati agli utenti finali — quali Virtual Try-On, 3D/AR Viewer e AR PD Meter — che possono essere avviati tramite l'App non sono oggetto della presente informativa e sono disciplinati dall'**Informativa Privacy principale di ARShades** (versione 5.3), disponibile all'indirizzo [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/it.md) e mostrata agli acquirenti all'interno delle esperienze ARShades.
+La presente informativa è specifica per l'App Shopify ed è circoscritta ai dati trattati in relazione a Shopify (dati relativi al merchant, allo store, ai prodotti, alla configurazione e all'attribuzione). I trattamenti effettuati dai servizi ARShades destinati agli utenti finali — quali Virtual Try-On, 3D/AR Viewer e AR PD Meter — che possono essere avviati tramite l'App non sono oggetto della presente informativa e sono disciplinati dall'**Informativa Privacy principale di ARShades** (versione 5.4), disponibile all'indirizzo [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/it.md) e mostrata agli acquirenti all'interno delle esperienze ARShades.
 
 ## 1. Titolare del trattamento
 

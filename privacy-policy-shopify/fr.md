@@ -1,11 +1,10 @@
 # Politique de confidentialité d'ARShades VTO for Shopify
 
-Version préliminaire pour soumission à Shopify  
-Dernière mise à jour : 6 juillet 2026
+Dernière mise à jour : 7 juillet 2026
 
 La présente Politique de confidentialité décrit la manière dont **Spaarkly s.r.l.** (« Spaarkly », « ARShades », « nous » ou « notre ») traite les données à caractère personnel et d'autres informations dans le cadre de l'application **ARShades VTO for Shopify** (l'« application Shopify » ou l'« App »).
 
-La présente politique est propre à l'application Shopify et se limite aux données traitées en lien avec Shopify (données relatives au marchand, à la boutique, aux produits, à la configuration et à l'attribution). Les traitements réalisés par les services destinés aux utilisateurs finaux d'ARShades — tels que Virtual Try-On, le 3D/AR Viewer et l'AR PD Meter — susceptibles d'être lancés via l'App ne sont pas couverts par la présente politique et sont régis par la **Politique de confidentialité principale d'ARShades** (version 5.3), disponible à l'adresse [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/fr.md) et présentée aux acheteurs au sein des expériences ARShades.
+La présente politique est propre à l'application Shopify et se limite aux données traitées en lien avec Shopify (données relatives au marchand, à la boutique, aux produits, à la configuration et à l'attribution). Les traitements réalisés par les services destinés aux utilisateurs finaux d'ARShades — tels que Virtual Try-On, le 3D/AR Viewer et l'AR PD Meter — susceptibles d'être lancés via l'App ne sont pas couverts par la présente politique et sont régis par la **Politique de confidentialité principale d'ARShades** (version 5.4), disponible à l'adresse [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/fr.md) et présentée aux acheteurs au sein des expériences ARShades.
 
 ## 1. Responsable du traitement
 

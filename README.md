@@ -8,7 +8,7 @@ Human-readable versions are published via GitHub Pages at **https://spaarkly-srl
 
 ## ARShades Core Privacy Policy
 
-Current version: **5.3** — last updated **6 July 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
+Current version: **5.4** — last updated **7 July 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
 
 | Language | File | Raw URL (for services) |
 |---|---|---|
@@ -34,19 +34,20 @@ Limited to data processed in connection with Shopify; the ARShades end-user expe
 
 ## ARShades Services — Terms & Conditions
 
-Current version: **1.1** — effective **7 July 2026**. Covers ARShades Virtual Try-On, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The English version is the authoritative text; translations will follow.
+Current version: **1.2** — effective **7 July 2026**. Covers ARShades Virtual Try-On, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; the English version is a courtesy translation.
 
 | Language | File | Raw URL |
 |---|---|---|
+| Italiano | [terms/it.md](terms/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/it.md` |
 | English | [terms/en.md](terms/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/en.md` |
-| Italiano | translation in progress — [terms/it.md](terms/it.md) points to the English text | — |
 
 ## AR PD Meter — Terms & Conditions
 
-Current version: **1.1** — effective **7 July 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. English authoritative; translations will follow.
+Current version: **1.2** — effective **7 July 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. The Italian version is the authoritative text; the English version is a courtesy translation.
 
 | Language | File | Raw URL |
 |---|---|---|
+| Italiano | [terms-ar-pd-meter/it.md](terms-ar-pd-meter/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/it.md` |
 | English | [terms-ar-pd-meter/en.md](terms-ar-pd-meter/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/en.md` |
 
 ## Cookie Policy — 🚧 DRAFT

@@ -1,6 +1,6 @@
 # ARSHADES-DATENSCHUTZERKLÄRUNG
 
-*ARShades-Lösungen* </br> *Zuletzt aktualisiert: 06. Juli 2026*
+*ARShades-Lösungen* </br> *Zuletzt aktualisiert: 07. Juli 2026*
 
 **Gemäß** der Verordnung (EU) 2016/679 („**DSGVO**"), der **UK GDPR**, dem **California Consumer Privacy Act („CCPA")** und dessen Änderungen, darunter dem **California Privacy Rights Act („CPRA")**, den weiteren **US-amerikanischen einzelstaatlichen Datenschutzgesetzen**, darunter dem **Virginia Consumer Data Protection Act („VCDPA")**, dem **Colorado Privacy Act („CPA")**, dem **Connecticut Data Privacy Act („CTDPA")**, dem **Utah Consumer Privacy Act („UCPA")**, dem **Montana Consumer Data Privacy Act („MCDPA")**, dem **Oregon Consumer Privacy Act („OCPA")** sowie den weiteren anwendbaren einzelstaatlichen US-Datenschutzvorschriften, dem **Illinois Biometric Information Privacy Act („BIPA")**, dem **Texas Capture or Use of Biometric Identifier Act („CUBI")**, dem kanadischen **Personal Information Protection and Electronic Documents Act („PIPEDA")**, dem australischen **Privacy Act**, dem brasilianischen **Lei Geral de Proteção de Dados („LGPD")**, dem schweizerischen **Federal Act on Data Protection („FADP")**, dem japanischen **Act on the Protection of Personal Information („APPI")**, dem chinesischen **Personal Information Protection Law („PIPL")**, dem südafrikanischen **Protection of Personal Information Act („POPIA")**, dem indischen **Digital Personal Data Protection Act („DPDP")**, der **DIFC Data Protection Law** der Vereinigten Arabischen Emirate, dem **Saudi Personal Data Protection Law („PDPL")**, dem **New Zealand Privacy Act 2020**, dem **Singapore Personal Data Protection Act („PDPA")**, dem **Philippines Data Privacy Act („DPA")**, dem **Malaysia Personal Data Protection Act („PDPA")** sowie den weiteren anwendbaren internationalen Gesetzen zum Schutz personenbezogener Daten, zusammenfassend bezeichnet als „**Internationale Datenschutzvorschriften**".
 
@@ -90,7 +90,7 @@ Wir nehmen keine eindeutige Identifizierung des Nutzers auf Grundlage des Gesich
 Anders als biometrische Technologien, die mit Einzelpersonen verknüpfte eindeutige Kennungen erzeugen, arbeitet unser System wie folgt:
 
 * Es arbeitet mit anonymen mathematischen Punkten, die allen Gesichtern gemeinsam sind;
-* es ermöglicht keinen Rückschluss von den Messwerten auf die Identität bestimmter Personen;
+* es verwendet die Messwerte weder zur Identifizierung bestimmter Personen, noch sind die Messwerte für sich genommen zu deren Identifizierung geeignet;
 * es verwendet und speichert keine Daten zu Zwecken der Gesichtserkennung;
 * es verarbeitet die Gesichtsdaten des Virtual Try-On lokal auf dem Gerät des Nutzers, ohne serverseitige Speicherung;
 * beim AR PD Meter verwendet es vorübergehend abgeleitete technische Daten auf dem ARShades-Backend allein zur Berechnung und Rückgabe des PD-Ergebnisses und verwirft sie nach der Verarbeitung.
@@ -109,7 +109,7 @@ Die Nutzer können ihre **Einwilligung** jederzeit **widerrufen**, indem sie den
 
 ## 3\. KATEGORIEN DER VERARBEITETEN PERSONENBEZOGENEN DATEN
 
-### Daten der Gesichtsvermessung (nicht biometrisch)
+### Daten der Gesichtsvermessung
 
 Das System berechnet in Echtzeit die folgenden Gesichtsmaße:
 
@@ -540,7 +540,7 @@ Einwohner dieser Bundesstaaten genießen Rechte, die den nach dem **CCPA** vorge
 * ARShades verarbeitet ausschließlich **mathematische Punkte von Gesichtslandmarken** zu Zwecken des Virtual Try-On und, mittels AR PD Meter, zur Berechnung der Pupillendistanz, welche:
   *  **nicht zur eindeutigen Identifizierung** einer Person verwendet werden können;
   * beim Virtual Try-On **lokal auf dem Gerät des Nutzers verarbeitet** und niemals gespeichert werden;
-  * beim **AR PD Meter** vorübergehend, als der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten, an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und **nach der Verarbeitung verworfen** werden, ohne jemals gespeichert zu werden;
+  * beim **AR PD Meter** vorübergehend, als nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten, an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und **nach der Verarbeitung verworfen** werden, ohne jemals gespeichert zu werden;
   *  **keine mit einer Einzelperson verknüpfte dauerhafte Kennung erzeugen**.
 
 #### 4\. Weitere US-Bundesstaaten
@@ -600,7 +600,7 @@ Nutzer in **Kanada** werden durch den **Personal Information Protection and Elec
 
 **Spaarkly ist in Kanada tätig und hält sich an die PIPEDA-Grundsätze**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -665,7 +665,7 @@ Nutzer in **Australien** und **Neuseeland** werden durch die jeweiligen allgemei
 
 **Spaarkly ist in Australien und Neuseeland tätig und hält sich an die Grundsätze der Datenschutzgesetze dieser Rechtsordnungen**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -734,7 +734,7 @@ Nutzer in der **Region Asien-Pazifik** werden durch verschiedene allgemeine nati
 
 **Spaarkly ist in der Region Asien-Pazifik tätig und hält sich an die in den Datenschutzgesetzen dieser Rechtsordnungen festgelegten Grundsätze**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -816,7 +816,7 @@ Nutzer in **Brasilien** und **Lateinamerika** werden durch verschiedene allgemei
 
 **Spaarkly ist in Lateinamerika tätig und hält sich an die in den Datenschutzgesetzen dieser Rechtsordnungen festgelegten Grundsätze**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -894,7 +894,7 @@ Nutzer in **Japan** werden durch den **Act on the Protection of Personal Informa
 
 **Spaarkly ist in Japan tätig und hält sich an die im APPI festgelegten Grundsätze**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -967,7 +967,7 @@ Nutzer in **China** werden durch das **Personal Information Protection Law (PIPL
 
 **Spaarkly ist in China tätig und hält sich an die PIPL-Grundsätze**. Ihr derzeitiges Verarbeitungsmodell ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **keine Erhebung biometrischer oder sensibler Daten**: Spaarkly erhebt keine biometrischen Kennungen, Klarnamen, Kontaktdaten oder andere eindeutig den Nutzer identifizierende Daten;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert.
 
@@ -1026,7 +1026,7 @@ Nutzer in **Südafrika** werden durch den **Protection of Personal Information A
 
 **Spaarkly ist in Südafrika tätig und hält sich an die POPIA-Grundsätze**. Ihr derzeitiges Verarbeitungsmodell ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -1080,7 +1080,7 @@ Nutzer in **Indien** werden durch den **Digital Personal Data Protection Act (DP
 
 **Spaarkly ist in Indien tätig und hält sich an die DPDP-Grundsätze**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -1136,7 +1136,7 @@ Nutzer im **Nahen Osten** werden durch verschiedene nationale Datenschutzgesetze
 
 **Spaarkly ist im Nahen Osten tätig und hält sich an die anwendbaren Datenschutzvorschriften**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
@@ -1194,7 +1194,7 @@ Nutzer in **Ländern, die nicht ausdrücklich von den vorstehenden Abschnitten e
 
 **Spaarkly ist weltweit tätig und hält sich an international anerkannte Grundsätze des Datenschutzes**. Ihr **derzeitiges Modell der Datenverarbeitung** ist wie folgt:
 
-*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können der Identität des Nutzers nicht zuzuordnende abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
+*  die für das Virtual Try-On verwendeten **Gesichtsdaten** werden **lokal auf dem Gerät verarbeitet** und nicht gespeichert; beim **AR PD Meter** können nicht zur Identifizierung des Nutzers verwendete und für sich genommen zu dessen Identifizierung nicht geeignete abgeleitete technische Daten vorübergehend an das in der Europäischen Union befindliche ARShades-Backend übermittelt, ausschließlich zur Rückgabe des Messergebnisses verwendet und nach der Verarbeitung verworfen werden;
 *  **es werden keine biometrischen oder eindeutig identifizierenden Daten** erhoben, ebenso wenig Namen, Kontaktdaten oder Nutzerprofile;
 *  die **Sitzungs- und Gerätedaten** (einschließlich der IP-Adresse) werden auf **Servern in der Europäischen Union** aufbewahrt und innerhalb von 14 Monaten anonymisiert; die etwaig vom Nutzer von In-Store-Geräten angeforderten fertigen Fotos werden innerhalb von 24 Stunden gelöscht. Dies kann eine Übermittlung dieser Daten in die EU mit sich bringen, mit den im Abschnitt „Internationale Datenübermittlungen" des vorliegenden Addendums beschriebenen Garantien.
 
