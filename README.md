@@ -1,44 +1,66 @@
-# Spaarkly / ARShades — Privacy Policies
+# Spaarkly / ARShades — Legal Documents
 
-Canonical public source of the privacy policies for **Spaarkly s.r.l.** and the **ARShades** solutions (Virtual Try-On, VTO Explorer, AR PD Meter, Mirror, Gateway).
+Canonical public source of the **legal documents** for **Spaarkly s.r.l.** and the **ARShades** solutions (Virtual Try-On, VTO Explorer, AR PD Meter, Mirror, Gateway): privacy policies, terms & conditions and cookie policy.
 
-All Spaarkly services reference the documents in this repository. **File paths are stable**: when a policy is updated, the content of the file changes but its URL does not — services pointing at these paths always serve the latest version.
+All Spaarkly services reference the documents in this repository. **File paths are stable**: when a document is updated, the content of the file changes but its URL does not — services pointing at these paths always serve the latest version.
 
-Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/privacy-policies/** (e.g. [/core/it/](https://spaarkly-srl.github.io/privacy-policies/core/it/), [/shopify-app/en/](https://spaarkly-srl.github.io/privacy-policies/shopify-app/en/)); the raw URLs below remain the canonical machine-readable endpoints.
+Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/ARS_legal/** (e.g. [/privacy-policy/it/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), [/privacy-policy-shopify/en/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy-shopify/en/)); the raw URLs below remain the canonical machine-readable endpoints. A machine-readable index of all documents is available in [`manifest.json`](manifest.json).
 
 ## ARShades Core Privacy Policy
 
-Current version: **5.3** — last updated **6 July 2026** (see [CHANGELOG](CHANGELOG.md)).
+Current version: **5.3** — last updated **6 July 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
 
 | Language | File | Raw URL (for services) |
 |---|---|---|
-| Italiano | [core/it.md](core/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/core/it.md` |
-| English | [core/en.md](core/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/core/en.md` |
-| Français | [core/fr.md](core/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/core/fr.md` |
-| Deutsch | [core/de.md](core/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/core/de.md` |
-| Español | [core/es.md](core/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/core/es.md` |
-| 日本語 | [core/ja.md](core/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/core/ja.md` |
-
-The Italian version is the authoritative text; translations are provided for convenience. In case of discrepancy, the Italian version prevails.
+| Italiano | [privacy-policy/it.md](privacy-policy/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/it.md` |
+| English | [privacy-policy/en.md](privacy-policy/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/en.md` |
+| Français | [privacy-policy/fr.md](privacy-policy/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/fr.md` |
+| Deutsch | [privacy-policy/de.md](privacy-policy/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/de.md` |
+| Español | [privacy-policy/es.md](privacy-policy/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/es.md` |
+| 日本語 | [privacy-policy/ja.md](privacy-policy/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/ja.md` |
 
 ## ARShades VTO for Shopify — App Privacy Policy
 
+Limited to data processed in connection with Shopify; the ARShades end-user experiences launched through the app are governed by the core policy above. The English version is the authoritative text; in case of discrepancy, the English version prevails.
+
 | Language | File | Raw URL (for services) |
 |---|---|---|
-| English | [shopify-app/en.md](shopify-app/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/en.md` |
-| Italiano | [shopify-app/it.md](shopify-app/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/it.md` |
-| Français | [shopify-app/fr.md](shopify-app/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/fr.md` |
-| Deutsch | [shopify-app/de.md](shopify-app/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/de.md` |
-| Español | [shopify-app/es.md](shopify-app/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/es.md` |
-| 日本語 | [shopify-app/ja.md](shopify-app/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/privacy-policies/main/shopify-app/ja.md` |
+| English | [privacy-policy-shopify/en.md](privacy-policy-shopify/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/en.md` |
+| Italiano | [privacy-policy-shopify/it.md](privacy-policy-shopify/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/it.md` |
+| Français | [privacy-policy-shopify/fr.md](privacy-policy-shopify/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/fr.md` |
+| Deutsch | [privacy-policy-shopify/de.md](privacy-policy-shopify/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/de.md` |
+| Español | [privacy-policy-shopify/es.md](privacy-policy-shopify/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/es.md` |
+| 日本語 | [privacy-policy-shopify/ja.md](privacy-policy-shopify/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/ja.md` |
 
-The Shopify App policy is limited to data processed in connection with Shopify; the ARShades end-user experiences launched through the app are governed by the core policy above. For the Shopify App policy, the English version is the authoritative text; in case of discrepancy, the English version prevails.
+## Terms & Conditions — 🚧 DRAFT
+
+Work in progress, not yet in force. Contains `[[…]]` placeholders to complete before production.
+
+| Language | File | Raw URL |
+|---|---|---|
+| Italiano | [terms/it.md](terms/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/it.md` |
+| English | [terms/en.md](terms/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/en.md` |
+
+## Cookie Policy — 🚧 DRAFT
+
+Work in progress, not yet in force. Contains `[[…]]` placeholders to complete before production.
+
+| Language | File | Raw URL |
+|---|---|---|
+| Italiano | [cookie-policy/it.md](cookie-policy/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/it.md` |
+| English | [cookie-policy/en.md](cookie-policy/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/en.md` |
 
 ## Versioning
 
-- Each policy release is recorded in [CHANGELOG.md](CHANGELOG.md) and tagged in git (e.g. `v5.3`).
+- Each document release is recorded in [CHANGELOG.md](CHANGELOG.md) and tagged in git (e.g. `v5.3` for the core policy).
 - Historical versions are available through git history and tags.
 - The "Last updated" date inside each document identifies the version in force.
+
+## Consuming from services
+
+- **Direct link** (recommended for the Shopify listing / apps): use the GitHub Pages URLs.
+- **Fetch the source**: use the raw URLs above (served as `text/plain`).
+- **Programmatic index**: read [`manifest.json`](manifest.json) for the full list of documents, languages, versions and paths.
 
 ## Contact
 

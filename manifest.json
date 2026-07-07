@@ -1,0 +1,98 @@
+{
+  "entity": "Spaarkly s.r.l.",
+  "brand": "ARShades",
+  "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
+  "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
+  "contact": "privacy@spaarkly.com",
+  "updated": "2026-07-07",
+  "documents": [
+    {
+      "key": "privacy-policy",
+      "title": { "it": "Informativa Privacy", "en": "Privacy Policy" },
+      "status": "published",
+      "version": "5.3",
+      "authoritative_language": "it",
+      "effective_date": "2026-07-06",
+      "updated": "2026-07-06",
+      "languages": ["it", "en", "fr", "de", "es", "ja"],
+      "page": {
+        "it": "/privacy-policy/it/",
+        "en": "/privacy-policy/en/",
+        "fr": "/privacy-policy/fr/",
+        "de": "/privacy-policy/de/",
+        "es": "/privacy-policy/es/",
+        "ja": "/privacy-policy/ja/"
+      },
+      "raw": {
+        "it": "/privacy-policy/it.md",
+        "en": "/privacy-policy/en.md",
+        "fr": "/privacy-policy/fr.md",
+        "de": "/privacy-policy/de.md",
+        "es": "/privacy-policy/es.md",
+        "ja": "/privacy-policy/ja.md"
+      }
+    },
+    {
+      "key": "privacy-policy-shopify",
+      "title": { "it": "Informativa Privacy — App Shopify", "en": "Privacy Policy — Shopify App" },
+      "status": "published",
+      "version": "1.0",
+      "authoritative_language": "en",
+      "effective_date": "2026-07-06",
+      "updated": "2026-07-06",
+      "languages": ["en", "it", "fr", "de", "es", "ja"],
+      "page": {
+        "en": "/privacy-policy-shopify/en/",
+        "it": "/privacy-policy-shopify/it/",
+        "fr": "/privacy-policy-shopify/fr/",
+        "de": "/privacy-policy-shopify/de/",
+        "es": "/privacy-policy-shopify/es/",
+        "ja": "/privacy-policy-shopify/ja/"
+      },
+      "raw": {
+        "en": "/privacy-policy-shopify/en.md",
+        "it": "/privacy-policy-shopify/it.md",
+        "fr": "/privacy-policy-shopify/fr.md",
+        "de": "/privacy-policy-shopify/de.md",
+        "es": "/privacy-policy-shopify/es.md",
+        "ja": "/privacy-policy-shopify/ja.md"
+      }
+    },
+    {
+      "key": "terms",
+      "title": { "it": "Termini e Condizioni", "en": "Terms & Conditions" },
+      "status": "draft",
+      "version": "0.1.0-draft",
+      "authoritative_language": "it",
+      "effective_date": null,
+      "updated": "2026-07-07",
+      "languages": ["it", "en"],
+      "page": {
+        "it": "/terms/it/",
+        "en": "/terms/en/"
+      },
+      "raw": {
+        "it": "/terms/it.md",
+        "en": "/terms/en.md"
+      }
+    },
+    {
+      "key": "cookie-policy",
+      "title": { "it": "Cookie Policy", "en": "Cookie Policy" },
+      "status": "draft",
+      "version": "0.1.0-draft",
+      "authoritative_language": "it",
+      "effective_date": null,
+      "updated": "2026-07-07",
+      "languages": ["it", "en"],
+      "page": {
+        "it": "/cookie-policy/it/",
+        "en": "/cookie-policy/en/"
+      },
+      "raw": {
+        "it": "/cookie-policy/it.md",
+        "en": "/cookie-policy/en.md"
+      }
+    }
+  ]
+}

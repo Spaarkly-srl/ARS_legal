@@ -1,5 +1,14 @@
 # Changelog
 
+## Repository
+
+### 2026-07-07 — riorganizzazione come hub legale
+- Il repository passa da "solo privacy policy" a **hub dei documenti legali pubblici** (privacy, termini, cookie policy).
+- Rinominato `core/` → `privacy-policy/` e `shopify-app/` → `privacy-policy-shopify/` (aggiornati di conseguenza gli URL raw/Pages e i link interni).
+- Aggiunte le bozze `terms/` e `cookie-policy/` (it/en, DRAFT con placeholder).
+- Aggiunti `manifest.json` (indice machine-readable) e `index.md` (landing Pages).
+- Repo rinominato `privacy-policies` → `ARS_legal`; i servizi vanno ri-puntati ai nuovi URL.
+
 ## Core Privacy Policy
 
 ### v5.3 — 2026-07-06
@@ -20,3 +29,13 @@
 - Policy dedicata all'app "ARShades VTO for Shopify", limitata ai dati trattati in relazione a Shopify; esperienze ARShades regolate dalla core policy.
 - Include: compliance webhooks GDPR (30 giorni, shop/redact 48h post-uninstall), consent gating del Web Pixel, incident response, crittografia at rest, diritto di reclamo, DPA su richiesta.
 - Traduzioni: EN (testo autentico), IT, FR, DE, ES, JA.
+
+## Terms & Conditions
+
+### v0.1.0-draft — 2026-07-07 — prima bozza
+- Scheletro dei Termini e Condizioni ARShades (it/en) con banner DRAFT e placeholder `[[…]]` da completare. Non ancora in vigore.
+
+## Cookie Policy
+
+### v0.1.0-draft — 2026-07-07 — prima bozza
+- Scheletro della Cookie Policy ARShades (it/en) con banner DRAFT e placeholder `[[…]]` da completare. Non ancora in vigore.

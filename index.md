@@ -1,0 +1,18 @@
+---
+title: Spaarkly / ARShades — Documenti legali
+---
+
+# Documenti legali — Spaarkly s.r.l. (ARShades)
+
+Fonte pubblica e canonica dei documenti legali di **Spaarkly s.r.l.** e delle soluzioni **ARShades** (Virtual Try-On, VTO Explorer, AR PD Meter, Mirror, Gateway). I percorsi dei file sono stabili: quando un documento viene aggiornato cambia il contenuto, non l’URL.
+
+| Documento | Lingue | Stato |
+|---|---|---|
+| **Informativa Privacy** (core) | [IT](privacy-policy/it.md) · [EN](privacy-policy/en.md) · [FR](privacy-policy/fr.md) · [DE](privacy-policy/de.md) · [ES](privacy-policy/es.md) · [JA](privacy-policy/ja.md) | v5.3 · in vigore |
+| **Informativa Privacy — App Shopify** | [EN](privacy-policy-shopify/en.md) · [IT](privacy-policy-shopify/it.md) · [FR](privacy-policy-shopify/fr.md) · [DE](privacy-policy-shopify/de.md) · [ES](privacy-policy-shopify/es.md) · [JA](privacy-policy-shopify/ja.md) | in vigore |
+| **Termini e Condizioni** | [IT](terms/it.md) · [EN](terms/en.md) | 🚧 bozza |
+| **Cookie Policy** | [IT](cookie-policy/it.md) · [EN](cookie-policy/en.md) | 🚧 bozza |
+
+Elenco machine-readable per i servizi: [`manifest.json`](manifest.json).
+
+Contatto privacy: **privacy@spaarkly.com** — Spaarkly s.r.l., Via della Tecnica n. 18, 85100 Potenza (Italia).

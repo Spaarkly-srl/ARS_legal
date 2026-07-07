@@ -5,7 +5,7 @@ Shopify 申請用ドラフト版
 
 本プライバシーポリシーは、**Spaarkly s.r.l.**（以下「Spaarkly」、「ARShades」、「当社」といいます）が **ARShades VTO for Shopify** アプリ（以下「Shopify アプリ」または「本アプリ」といいます）に関連して個人データその他の情報をどのように取り扱うかを説明するものである。
 
-本ポリシーは Shopify アプリに固有のものであり、Shopify に関連して取り扱われるデータ（マーチャント、ストア、商品、設定および帰属に関するデータ）に限定される。本アプリを通じて起動される場合がある ARShades のエンドユーザー向けサービス（Virtual Try-On、3D/AR Viewer および AR PD Meter など）が行う取扱いは、本ポリシーの対象外であり、**ARShades コアプライバシーポリシー**（バージョン5.3）によって規律される。同ポリシーは [https://github.com/Spaarkly-srl/privacy-policies](https://github.com/Spaarkly-srl/privacy-policies/blob/main/core/ja.md) にて入手可能であり、ARShades エクスペリエンス内でショッパーに対して表示される。
+本ポリシーは Shopify アプリに固有のものであり、Shopify に関連して取り扱われるデータ（マーチャント、ストア、商品、設定および帰属に関するデータ）に限定される。本アプリを通じて起動される場合がある ARShades のエンドユーザー向けサービス（Virtual Try-On、3D/AR Viewer および AR PD Meter など）が行う取扱いは、本ポリシーの対象外であり、**ARShades コアプライバシーポリシー**（バージョン5.3）によって規律される。同ポリシーは [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/ja.md) にて入手可能であり、ARShades エクスペリエンス内でショッパーに対して表示される。
 
 ## 1. 管理者
 
