@@ -30,10 +30,27 @@
 - Include: compliance webhooks GDPR (30 giorni, shop/redact 48h post-uninstall), consent gating del Web Pixel, incident response, crittografia at rest, diritto di reclamo, DPA su richiesta.
 - Traduzioni: EN (testo autentico), IT, FR, DE, ES, JA.
 
-## Terms & Conditions
+## Terms & Conditions (Servizi ARShades)
+
+### v1.0 — 2026-07-07
+- Prima versione unificata **"ARShades Services — Terms and Conditions of Use"** (EN, testo autentico): copre VTO, VTO Explorer, Mirror, Gateway e Campaign Catalogue. **Sostituisce** i "ARShades VTO — Terms and Conditions of Use" del 21 marzo 2025.
+- Architettura regionale a tre livelli: corpo conforme al diritto dei consumatori UE + clausola di salvezza dei diritti indisponibili (§13) + addenda regionali (EEA/UK, USA, Australia/NZ).
+- Rimossi i residui USA globali del vecchio documento: class action waiver e jury waiver ora **solo nell'addendum USA**; eliminato il riferimento alla clausola arbitrale inesistente (nessun arbitrato, per scelta).
+- Foro di Potenza con salvezza espressa del foro del consumatore (Reg. UE 1215/2012); garanzie/limitazioni con carve-out (dolo, colpa grave ex art. 1229 c.c., danni alla persona); indennizzo limitato e non applicabile dove vietato; modifiche ai Termini con preavviso (≥15 giorni ove praticabile); cap di responsabilità: maggiore tra corrispettivi 12 mesi ed EUR 100.
+- Sezione privacy allineata alla PP v5.3: "facial landmark coordinates" (non "facial mesh"), elaborazione locale dichiarata solo per i servizi core; AR PD Meter escluso e rinviato ai termini dedicati.
+- Aggiunte sezioni mancanti: minori (età consenso digitale, in Italia 14), app store/terze parti, forza maggiore, cessione, notifiche, lingua autentica (EN).
+- Traduzioni: in preparazione (segnaposto IT che rinvia al testo EN).
 
 ### v0.1.0-draft — 2026-07-07 — prima bozza
 - Scheletro dei Termini e Condizioni ARShades (it/en) con banner DRAFT e placeholder `[[…]]` da completare. Non ancora in vigore.
+
+## AR PD Meter — Terms & Conditions
+
+### v1.0 — 2026-07-07 — prima pubblicazione
+- Termini dedicati (EN, testo autentico), supplementari ai Termini dei Servizi ARShades e prevalenti per AR PD Meter.
+- Consenso espresso via casella di accettazione (valido come written release BIPA/CUBI/RCW 19.375); flusso dati allineato alla PP v5.3: immagini mai trasmesse, dati tecnici derivati → backend UE, cancellazione immediata post-elaborazione; nel Mirror elaborazione sul backend locale del dispositivo.
+- Disclaimer di misura: stima indicativa, **non dispositivo medico**, non sostituisce la misurazione di un professionista; età minima 18 anni (o consenso del genitore); limitazione di responsabilità specifica sull'affidamento nella misura.
+- Traduzioni: in preparazione.
 
 ## Cookie Policy
 

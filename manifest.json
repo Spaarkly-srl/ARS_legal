@@ -60,21 +60,37 @@
     },
     {
       "key": "terms",
-      "title": { "it": "Termini e Condizioni", "en": "Terms & Conditions" },
-      "status": "draft",
-      "version": "0.1.0-draft",
-      "authoritative_language": "it",
-      "effective_date": null,
+      "title": { "it": "Termini e Condizioni — Servizi ARShades", "en": "ARShades Services — Terms and Conditions of Use" },
+      "status": "published",
+      "version": "1.0",
+      "authoritative_language": "en",
+      "effective_date": "2026-07-07",
       "updated": "2026-07-07",
-      "languages": ["it", "en"],
+      "languages": ["en"],
       "page": {
-        "it": "/terms/it/",
         "en": "/terms/en/"
       },
       "raw": {
-        "it": "/terms/it.md",
         "en": "/terms/en.md"
-      }
+      },
+      "notes": "Covers VTO, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). Translations pending."
+    },
+    {
+      "key": "terms-ar-pd-meter",
+      "title": { "it": "Termini e Condizioni — AR PD Meter", "en": "AR PD Meter — Terms and Conditions of Use" },
+      "status": "published",
+      "version": "1.0",
+      "authoritative_language": "en",
+      "effective_date": "2026-07-07",
+      "updated": "2026-07-07",
+      "languages": ["en"],
+      "page": {
+        "en": "/terms-ar-pd-meter/en/"
+      },
+      "raw": {
+        "en": "/terms-ar-pd-meter/en.md"
+      },
+      "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. Translations pending."
     },
     {
       "key": "cookie-policy",

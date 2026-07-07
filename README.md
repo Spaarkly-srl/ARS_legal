@@ -32,14 +32,22 @@ Limited to data processed in connection with Shopify; the ARShades end-user expe
 | Español | [privacy-policy-shopify/es.md](privacy-policy-shopify/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/es.md` |
 | 日本語 | [privacy-policy-shopify/ja.md](privacy-policy-shopify/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy-shopify/ja.md` |
 
-## Terms & Conditions — 🚧 DRAFT
+## ARShades Services — Terms & Conditions
 
-Work in progress, not yet in force. Contains `[[…]]` placeholders to complete before production.
+Current version: **1.0** — effective **7 July 2026**. Covers ARShades Virtual Try-On, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The English version is the authoritative text; translations will follow.
 
 | Language | File | Raw URL |
 |---|---|---|
-| Italiano | [terms/it.md](terms/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/it.md` |
 | English | [terms/en.md](terms/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/en.md` |
+| Italiano | translation in progress — [terms/it.md](terms/it.md) points to the English text | — |
+
+## AR PD Meter — Terms & Conditions
+
+Current version: **1.0** — effective **7 July 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. English authoritative; translations will follow.
+
+| Language | File | Raw URL |
+|---|---|---|
+| English | [terms-ar-pd-meter/en.md](terms-ar-pd-meter/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/en.md` |
 
 ## Cookie Policy — 🚧 DRAFT
 
