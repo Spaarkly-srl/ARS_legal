@@ -32,6 +32,16 @@
 
 ## Terms & Conditions (Servizi ARShades)
 
+### v1.1 — 2026-07-07 — revisione post-feedback legale
+- **Gateway**: corretta la definizione (piattaforma standalone/hub, non app da store); le clausole store ora riguardano le **mobile app** ARShades (Android/iOS).
+- **Apple App Store**: aggiunti i termini minimi richiesti da Apple (licenza limitata, nessun obbligo di manutenzione Apple, claim prodotto/IP a carico Spaarkly, dichiarazione export/embargo USA, Apple third-party beneficiary) — §10.2.
+- **VTO Explorer**: carve-out allineato alla PP v5.3 — immagini di sessione elaborate localmente; upload temporaneo solo delle foto finali scelte dall'Utente da dispositivi in luoghi pubblici (Shoot & Share), cancellate ≤24h — §6.2.
+- **Consumatori EEA/UK**: cap di responsabilità (€100) e indemnity dichiarati non applicabili — §18.1(d).
+- **Minori**: formulazione allineata alla PP ("general audience" + età del consenso digitale) — §9.1.
+- **Ruolo di Spaarkly**: esplicitato non-venditore / non-marketplace / non-ottico — §8.3.
+- **Modifiche**: ri-accettazione in-flow per i Termini aggiornati; modifiche al trattamento AR PD Meter efficaci solo con nuovo consenso espresso — §15.3–15.4.
+- **Scope AR PD Meter**: "not covered" → "not governed solely by" (coerenza con l'incorporation) — Welcome.
+
 ### v1.0 — 2026-07-07
 - Prima versione unificata **"ARShades Services — Terms and Conditions of Use"** (EN, testo autentico): copre VTO, VTO Explorer, Mirror, Gateway e Campaign Catalogue. **Sostituisce** i "ARShades VTO — Terms and Conditions of Use" del 21 marzo 2025.
 - Architettura regionale a tre livelli: corpo conforme al diritto dei consumatori UE + clausola di salvezza dei diritti indisponibili (§13) + addenda regionali (EEA/UK, USA, Australia/NZ).
@@ -45,6 +55,11 @@
 - Scheletro dei Termini e Condizioni ARShades (it/en) con banner DRAFT e placeholder `[[…]]` da completare. Non ancora in vigore.
 
 ## AR PD Meter — Terms & Conditions
+
+### v1.1 — 2026-07-07 — revisione post-feedback legale
+- §1.3: finalità riformulata come **commercial convenience only** (rimosso il riferimento al "lens fitting"); esclusi espressamente usi medici/clinici/diagnostici e dispensazione di lenti su prescrizione.
+- §2.4 (nuovo): contrattualizzato il contenuto del flow di consenso — versione/data dei termini, dati trattati, finalità, retention, modalità di revoca. Diventa requisito per la UI.
+- §3.3: formula biometrica rafforzata e allineata alla PP v5.3 (immagini/video non conservati, nessun template facciale, nessun enrollment in database identificativi, no facial recognition); mantenuta la qualificazione "not capable, on their own, of identifying you" (posizione carve-out BIPA).
 
 ### v1.0 — 2026-07-07 — prima pubblicazione
 - Termini dedicati (EN, testo autentico), supplementari ai Termini dei Servizi ARShades e prevalenti per AR PD Meter.

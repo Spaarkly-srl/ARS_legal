@@ -1,6 +1,6 @@
 # ARSHADES SERVICES — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.0 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
+*ARShades solutions* </br> *Version 1.1 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
 
 These Terms supersede the **"ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** dated 21 March 2025.
 
@@ -8,7 +8,7 @@ These Terms supersede the **"ARShades Virtual Try-On (VTO) Service — Terms and
 
 The ARShades Services are augmented-reality software solutions developed by **Spaarkly s.r.l.** that allow you to virtually try on, view and explore eyewear on websites, mobile applications, in-store devices and other digital platforms. By clicking the "Accept" button, ticking the acceptance box, or by using any ARShades Service embedded in a website, application or device, you agree to be bound by these Terms and Conditions ("Terms").
 
-> **AR PD Meter is not covered by these Terms.** The AR PD Meter feature is governed by its own [AR PD Meter — Terms and Conditions of Use](../terms-ar-pd-meter/en.md), which supplement these Terms.
+> **AR PD Meter is not governed solely by these Terms.** The AR PD Meter feature is governed by its own [AR PD Meter — Terms and Conditions of Use](../terms-ar-pd-meter/en.md), which incorporate and supplement these Terms and prevail over them with respect to AR PD Meter.
 
 ## 1. DEFINITIONS
 
@@ -18,7 +18,7 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
    - **ARShades Virtual Try-On ("VTO")** — the virtual try-on solution enabling the virtual fitting of eyewear through augmented reality;
    - **ARShades VTO Explorer ("VTO Explorer")** — a module or feature integrable in ARShades web, mobile, catalogue, e-commerce, mirror, showroom or in-store experiences;
    - **ARShades Mirror ("Mirror")** — the in-store or showroom experience delivered through a dedicated device;
-   - **ARShades Gateway ("Gateway")** — the standalone application distributed through app stores;
+   - **ARShades Gateway ("Gateway")** — the standalone ARShades platform providing, among other things, virtual try-on experiences and unified access to ARShades experiences and branded stores; it may optionally use geolocation, subject to consent;
    - **Campaign Catalogue** — a curated digital catalogue experience through which a Client presents selected eyewear collections or campaigns, which may embed VTO, 3D viewing or other ARShades features.
 
 1.3 **"Client"** refers to the business entity that has entered into an agreement with Spaarkly to embed and offer one or more ARShades Services on its website, application, premises or other digital platform.
@@ -47,7 +47,7 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 3.2 Mobile experiences may require additional hardware (such as depth-sensing cameras) and an operating system version supporting augmented reality. Your device must be AR-compatible and configured according to the manufacturer's specifications.
 
-3.3 The Gateway is distributed through third-party app stores and its installation is additionally subject to the applicable store terms (see Section 10).
+3.3 Some Services are also available as **mobile applications** distributed through third-party app stores (such as the Apple App Store and Google Play); their download and installation are additionally subject to the applicable store terms (see Section 10).
 
 3.4 The Mirror experience is delivered through a device made available by the Client at its premises; availability and physical conditions of use are the Client's responsibility.
 
@@ -82,13 +82,15 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 ## 6. PRIVACY AND DATA
 
-6.1 Camera-based Services (VTO, VTO Explorer, Mirror) use your device's camera to detect **facial landmark coordinates and face orientation data** for the sole purpose of positioning the virtual eyewear. For these Services, this processing occurs **in real time, locally on your device**: the landmark data are not stored and are not transmitted to Spaarkly's servers.
+6.1 Camera-based Services (VTO, VTO Explorer, Mirror) use the camera of the device used for the experience to detect **facial landmark coordinates and face orientation data** for the sole purpose of positioning the virtual eyewear and generating your previews. This processing occurs **in real time, locally on the device**: the landmark data are not stored and are not transmitted to Spaarkly's servers.
 
-6.2 We also process technical data such as device information, session data and usage statistics, as described in the Privacy Policy.
+6.2 **VTO Explorer** may ask you to capture a limited number of images during the session to generate personalised previews of multiple products. These images are processed locally on the device used for the experience and are **not automatically uploaded** to Spaarkly's servers. Where the experience runs on a device installed in a point of sale, showroom, event venue or other public place and you choose to obtain, download or share the final photos (through "Shoot & Share" or equivalent functions), **only the final photos you select** are temporarily uploaded to Spaarkly's servers, solely to make them available to you, and are deleted as described in the Privacy Policy (at the latest within 24 hours, if you do not delete them earlier).
 
-6.3 Data processed by the **AR PD Meter** feature follow a different flow (including transmission of derived technical data to Spaarkly's backend in the European Union) and are governed by the AR PD Meter Terms and by the Privacy Policy.
+6.3 We also process technical data such as device information, session data and usage statistics, as described in the Privacy Policy.
 
-6.4 The [Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/) describes in detail how we collect, use and protect data in connection with the Services. Please review it before using the Services. By accepting these Terms you acknowledge that you have had the opportunity to read it.
+6.4 Data processed by the **AR PD Meter** feature follow a different flow (including transmission of derived technical data to Spaarkly's backend in the European Union) and are governed by the AR PD Meter Terms and by the Privacy Policy.
+
+6.5 The [Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/) describes in detail how we collect, use and protect data in connection with the Services. Please review it before using the Services. By accepting these Terms you acknowledge that you have had the opportunity to read it.
 
 ## 7. USER OBLIGATIONS
 
@@ -107,9 +109,11 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 8.2 Spaarkly is not responsible for the content, privacy practices or policies of the Client's platform. Any purchases or other transactions you enter into with the Client are governed exclusively by the Client's terms and conditions.
 
+8.3 Spaarkly is **not the seller** of the eyewear products presented through the Services, does not operate a marketplace, and is not an optician, optometrist or other eye-care provider. Spaarkly is not responsible for product prices, availability, prescriptions, product claims, or the conclusion and performance of any sale.
+
 ## 9. MINORS
 
-9.1 The Services are not directed to children below the age at which they can validly consent to information society services in their country of residence (in Italy, 14 years).
+9.1 The Services are designed for a general audience. Users below the age at which they can validly consent to information society services in their country of residence (in Italy, 14 years) may use the Services only with the consent or authorisation of a parent or legal guardian, where required by applicable law.
 
 9.2 If you are under 18, you should review these Terms with a parent or legal guardian and use the Services only with their approval. We encourage parents and guardians to monitor their children's use of digital services.
 
@@ -117,11 +121,13 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 ## 10. THIRD-PARTY SERVICES AND APP STORES
 
-10.1 The Gateway is distributed through third-party app stores (such as Apple App Store or Google Play). Your download and use of the Gateway are also subject to the applicable store's terms, and the store operator is not a party to these Terms and has no obligations towards you in respect of the Services.
+10.1 ARShades **mobile applications** are distributed through third-party app stores (Apple App Store, Google Play). Your download and use of a mobile application are also subject to the applicable store's terms. The store operator is not a party to these Terms, is not responsible for the Services and has no obligation to furnish maintenance or support for them.
 
-10.2 The Services may include third-party software components licensed under their own terms.
+10.2 **Apple App Store.** If you downloaded a mobile application from the Apple App Store, the following applies in addition: (a) these Terms are concluded between you and Spaarkly only, not with Apple Inc. ("Apple"); (b) your licence is limited to a non-transferable licence to use the application on Apple-branded products that you own or control, as permitted by the App Store usage rules; (c) in the event of any failure of the application to conform to an applicable warranty, you may notify Apple and Apple will refund any purchase price paid for the application; to the maximum extent permitted by applicable law, Apple has no other warranty obligation with respect to the application; (d) Apple is not responsible for addressing any claim by you or a third party relating to the application, including product-liability claims, claims that the application fails to conform to legal or regulatory requirements, and consumer-protection or similar claims; (e) in the event of a third-party claim that the application or your use of it infringes intellectual-property rights, Spaarkly — not Apple — is responsible for the investigation, defence, settlement and discharge of such claim to the extent required by these Terms; (f) you represent that you are not located in a country subject to a U.S. Government embargo or designated by the U.S. Government as a "terrorist supporting" country, and that you are not listed on any U.S. Government list of prohibited or restricted parties; (g) Apple and its subsidiaries are **third-party beneficiaries** of these Terms and, upon your acceptance, Apple has the right to enforce these Terms against you as a third-party beneficiary.
 
-10.3 Spaarkly is not responsible for third-party services, websites or content accessed through the Services.
+10.3 The Services may include third-party software components licensed under their own terms.
+
+10.4 Spaarkly is not responsible for third-party services, websites or content accessed through the Services.
 
 ## 11. DISCLAIMER OF WARRANTIES
 
@@ -155,7 +161,9 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 15.2 Spaarkly may revise these Terms. For material changes we will give reasonable advance notice (at least 15 days where practicable) by posting the updated Terms — identified by version number and date — through the Services, on the Client's platform, or at the address where these Terms are published.
 
-15.3 Your continued use of the Services after the stated effective date constitutes acceptance of the updated Terms. If you do not agree with the changes, you must stop using the Services.
+15.3 Your continued use of the Services after the stated effective date constitutes acceptance of the updated Terms. Where a Service collects acceptance through an in-flow mechanism, the updated Terms will be presented for renewed acceptance. If you do not agree with the changes, you must stop using the Services.
+
+15.4 Changes affecting the data processing described in the AR PD Meter Terms do not apply to you until you have renewed your express consent as described there.
 
 ## 16. SUSPENSION AND TERMINATION
 
@@ -179,7 +187,7 @@ The provisions of this Section apply only to Users residing in the regions indic
 
 ### 18.1 European Economic Area and United Kingdom
 
-If you are a consumer residing in the EEA or the UK: (a) you retain all mandatory rights and conformity remedies provided by applicable consumer law, including — where the Services qualify as digital content or digital services — those under Directive (EU) 2019/770 as implemented in your country (in Italy, Articles 135-octies et seq. of the Consumer Code) or under the UK Consumer Rights Act 2015; (b) you may bring proceedings in the courts of your country of residence; and (c) nothing in these Terms limits rights under national rules implementing EU consumer-protection law.
+If you are a consumer residing in the EEA or the UK: (a) you retain all mandatory rights and conformity remedies provided by applicable consumer law, including — where the Services qualify as digital content or digital services — those under Directive (EU) 2019/770 as implemented in your country (in Italy, Articles 135-octies et seq. of the Consumer Code) or under the UK Consumer Rights Act 2015; (b) you may bring proceedings in the courts of your country of residence; (c) nothing in these Terms limits rights under national rules implementing EU consumer-protection law; and (d) **Sections 12.2 (liability cap) and 14 (indemnification) do not apply to you** — your rights and Spaarkly's liability are governed by the applicable statutory rules, without prejudice to Sections 12.1 and 12.3.
 
 ### 18.2 United States
 
