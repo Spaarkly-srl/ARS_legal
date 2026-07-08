@@ -13,6 +13,7 @@ Fonte pubblica e canonica dei documenti legali di **Spaarkly s.r.l.** e delle so
 | **Termini e Condizioni — Servizi ARShades** | [IT](terms/it.md) · [EN](terms/en.md) | v1.2 · in vigore |
 | **Termini e Condizioni — AR PD Meter** | [IT](terms-ar-pd-meter/it.md) · [EN](terms-ar-pd-meter/en.md) | v1.2 · in vigore |
 | **Cookie Policy** | [IT](cookie-policy/it.md) · [EN](cookie-policy/en.md) | 🚧 bozza |
+| **Modello T&C Cliente — Integrazione ARShades** | [IT (GitHub)](https://github.com/Spaarkly-srl/ARS_legal/tree/main/client-terms-template) | 🧩 modello v0.1 · non è un documento in vigore |
 
 Elenco machine-readable per i servizi: [`manifest.json`](manifest.json).
 

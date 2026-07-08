@@ -4,7 +4,7 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "documents": [
     {
       "key": "privacy-policy",
@@ -95,6 +95,29 @@
         "en": "/terms-ar-pd-meter/en.md"
       },
       "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. Italian authoritative; English courtesy translation."
+    },
+    {
+      "key": "client-terms-template",
+      "title": { "it": "Modello — Termini di integrazione ARShades per Clienti", "en": "Client ARShades Integration Terms — Template" },
+      "status": "template",
+      "version": "0.1.0",
+      "authoritative_language": "it",
+      "effective_date": null,
+      "updated": "2026-07-08",
+      "languages": ["it"],
+      "page": {},
+      "raw": {
+        "it": "/client-terms-template/full/it.md"
+      },
+      "artifacts": {
+        "full": "/client-terms-template/full/it.md",
+        "short_clause": "/client-terms-template/short-clause/it.md",
+        "microcopy": "/client-terms-template/microcopy/it.md",
+        "intake_checklist": "/client-terms-template/intake-checklist/it.md",
+        "schema": "/client-terms-template/schema.json",
+        "readme": "/client-terms-template/README.md"
+      },
+      "notes": "Template, not published legal terms: parametric model (mustache {{...}} variables, JSON Schema in artifacts.schema) used to generate per-client ARShades integration terms. Generated instances are NOT published in this repository and must be reviewed by the client's counsel. Excluded from GitHub Pages (front matter published: false) to avoid Liquid interpolation of the template variables. The AR PD Meter express-consent flow always names Spaarkly as data controller; consent microcopy must show the current terms-ar-pd-meter version/date (contractual requirement, AR PD Meter Terms §2.4)."
     },
     {
       "key": "cookie-policy",

@@ -50,6 +50,19 @@ Current version: **1.2** — effective **7 July 2026**. Supplemental to the ARSh
 | Italiano | [terms-ar-pd-meter/it.md](terms-ar-pd-meter/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/it.md` |
 | English | [terms-ar-pd-meter/en.md](terms-ar-pd-meter/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/en.md` |
 
+## Client ARShades Integration Terms — 🧩 TEMPLATE
+
+Current version: **0.1.0** — a parametric **template** (mustache `{{…}}` variables), not published legal terms. Used to generate the per-client ARShades integration terms a merchant can adopt in its own legal docs: the client is the commercial counterparty of its users; Spaarkly provides the technology and remains the data controller for the processing described in the ARShades Privacy Policy. Generated instances are **not** published in this repository and must be reviewed by the client's counsel. Template files are excluded from GitHub Pages (`published: false`) so Liquid does not interpolate the variables — browse them on GitHub or via the raw URLs.
+
+| Artifact | File |
+|---|---|
+| Governance & rules | [client-terms-template/README.md](client-terms-template/README.md) |
+| Full client terms (IT) | [client-terms-template/full/it.md](client-terms-template/full/it.md) |
+| Short clause (IT) | [client-terms-template/short-clause/it.md](client-terms-template/short-clause/it.md) |
+| Checkout/consent microcopy (IT) | [client-terms-template/microcopy/it.md](client-terms-template/microcopy/it.md) |
+| Client intake checklist (IT) | [client-terms-template/intake-checklist/it.md](client-terms-template/intake-checklist/it.md) |
+| Variables schema (JSON Schema) | [client-terms-template/schema.json](client-terms-template/schema.json) |
+
 ## Cookie Policy — 🚧 DRAFT
 
 Work in progress, not yet in force. Contains `[[…]]` placeholders to complete before production.

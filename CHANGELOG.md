@@ -91,6 +91,19 @@
 - Disclaimer di misura: stima indicativa, **non dispositivo medico**, non sostituisce la misurazione di un professionista; età minima 18 anni (o consenso del genitore); limitazione di responsabilità specifica sull'affidamento nella misura.
 - Traduzioni: in preparazione.
 
+## Client ARShades Integration Terms — Modello T&C Cliente
+
+### v0.1.0 — 2026-07-08 — prima bozza del modello
+- Nuova sezione `client-terms-template/`: **modello parametrico dei termini di integrazione ARShades "a nome del Cliente"** (impostato come *Client ARShades Integration Terms*, non come "Termini Spaarkly rimarchiati"). Il Cliente è la controparte commerciale dei propri utenti (prodotti, prezzi, prescrizioni, customer journey); Spaarkly resta fornitore della tecnologia e **titolare del trattamento** per i trattamenti della Privacy Policy ARShades (ruoli funzionali, EDPB Guidelines 07/2020).
+- **Lingua base: italiano** (decisione 2026-07-07); la lingua delle istanze è scelta dal Cliente.
+- Tre output: `full/it.md` (documento completo agganciato ai T&C del Cliente), `short-clause/it.md` (articolo singolo da incollare nei T&C del Cliente), `microcopy/it.md` (attribuzione widget, pre-prompt fotocamera, flow di consenso AR PD Meter conforme al §2.4 con versione/data da manifest, disclaimer risultato, avviso Shoot & Share).
+- Variabili mustache `{{…}}` e blocchi condizionali `{{#flag}}…{{/flag}}` definiti in `schema.json` (identità Cliente + flag soluzioni: VTO, VTO Explorer, Shoot & Share, Mirror, Campaign Catalogue, AR PD Meter, app mobile, lenti graduate, minori); `intake-checklist/it.md` per la raccolta dati (da Studio / configurazione plugin).
+- Blocchi marcati **[CORE]** (non modificabili dal Cliente: tecnologia e flussi dati, AR PD Meter, Shoot & Share, privacy notice Spaarkly, IP, rapporto tra documenti) e **[CLIENT]** (adattabili: identità, responsabilità di vendita, minori, contatti).
+- **Regola prescrizioni**: con `prescription_sales_enabled` il testo include obbligatoriamente la verifica professionale (optician responsibility) e non presenta mai la stima AR PD Meter come misura definitiva — la stima resta "digitale preliminare"; il posizionamento d'uso nel processo di vendita è responsabilità del Cliente (soluzione complementare alla riformulazione "commercial convenience only" del §1.3 dei Termini AR PD Meter).
+- Il consenso espresso AR PD Meter (inclusa la written release BIPA/CUBI/RCW) resta **sempre reso a Spaarkly**; formule vincolate identiche ai documenti canonici (identificabilità qualificata, flusso backend UE / Mirror locale, non dispositivo medico, 18+, Shoot & Share ≤24h, naming "AR PD Meter").
+- `manifest.json`: nuova voce con `status: template` e mappa `artifacts`; i file del modello sono esclusi da GitHub Pages (`published: false`, per evitare che Liquid interpreti le variabili `{{…}}`); le istanze generate per i Clienti **non** vengono pubblicate in questo repo.
+- Modello fornito "as is", non costituisce parere legale: revisione del legale del Cliente obbligatoria; clausola corrispondente da inserire nel contratto quadro Spaarkly–Cliente (item aperto, con pilot + revisione consulente e generatore JSON → documenti).
+
 ## Cookie Policy
 
 ### v0.1.0-draft — 2026-07-07 — prima bozza
