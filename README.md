@@ -63,10 +63,10 @@ Current version: **0.2.1** — parametric **templates** (mustache `{{…}}` vari
 | Artifact | File |
 |---|---|
 | Governance & rules (shared) | [client-terms-template/README.md](client-terms-template/README.md) |
-| VTO Services — full (IT) | [client-terms-template/full/it.md](client-terms-template/full/it.md) |
-| VTO Services — short clause (IT) | [client-terms-template/short-clause/it.md](client-terms-template/short-clause/it.md) |
-| AR PD Meter — full (IT) | [client-terms-ar-pd-meter-template/full/it.md](client-terms-ar-pd-meter-template/full/it.md) |
-| AR PD Meter — short clause (IT) | [client-terms-ar-pd-meter-template/short-clause/it.md](client-terms-ar-pd-meter-template/short-clause/it.md) |
+| VTO Services — full (it/en/es/fr/de) | [client-terms-template/full/it.md](client-terms-template/full/it.md) |
+| VTO Services — short clause (it/en/es/fr/de) | [client-terms-template/short-clause/it.md](client-terms-template/short-clause/it.md) |
+| AR PD Meter — full (it/en/es/fr/de) | [client-terms-ar-pd-meter-template/full/it.md](client-terms-ar-pd-meter-template/full/it.md) |
+| AR PD Meter — short clause (it/en/es/fr/de) | [client-terms-ar-pd-meter-template/short-clause/it.md](client-terms-ar-pd-meter-template/short-clause/it.md) |
 | Client intake checklist (IT, shared) | [client-terms-template/intake-checklist/it.md](client-terms-template/intake-checklist/it.md) |
 | Variables schema (JSON Schema, shared) | [client-terms-template/schema.json](client-terms-template/schema.json) |
 

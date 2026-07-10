@@ -116,6 +116,7 @@
 - **Template Servizi VTO**: rimosso del tutto il blocco AR PD Meter; aggiunto il blocco **3D Viewer** (flag `viewer_3d_enabled`); modularità per soluzione su nucleo fisso.
 - **Template AR PD Meter**: documento autosufficiente e snello (full + short-clause) — consenso espresso sempre reso a Spaarkly, flusso dati (backend UE / Mirror locale), non dispositivo medico, 18+, regola prescrizioni; clausola di terzo beneficiario (art. 1411 c.c.).
 - **`microcopy/` rimossa** (Punto 2, 2026-07-08): i wording legali sono leggibili solo nel documento full white-label, mai come task/UI imposti al Cliente.
+- **Traduzioni**: entrambi i template (full + short-clause) tradotti dall'IT in **en/es/fr/de** — 16 file, token mustache/condizionali/delimitatori di blocco preservati byte-identici, commenti interni lasciati in IT, URL Privacy Policy per-lingua. I template esistono ora in it/en/es/fr/de.
 - `schema.json` (+ `viewer_3d_enabled`) e `intake-checklist/it.md` **condivisi** tra i due template; `manifest.json`, `README`, `index` aggiornati. Le istanze generate vivono nella collezione Firestore `ARS_TermsAndCond`, non nel repo.
 - **Aperti**: validazione consulente sulla clausola di terzo beneficiario; clausola nel contratto quadro Spaarkly–Cliente; pilot + generatore JSON → `ARS_TermsAndCond`.
 

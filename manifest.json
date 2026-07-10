@@ -116,7 +116,7 @@
       "authoritative_language": "it",
       "effective_date": null,
       "updated": "2026-07-10",
-      "languages": ["it"],
+      "languages": ["it", "en", "es", "fr", "de"],
       "page": {},
       "raw": {
         "it": "/client-terms-template/full/it.md"
@@ -138,7 +138,7 @@
       "authoritative_language": "it",
       "effective_date": null,
       "updated": "2026-07-10",
-      "languages": ["it"],
+      "languages": ["it", "en", "es", "fr", "de"],
       "page": {},
       "raw": {
         "it": "/client-terms-ar-pd-meter-template/full/it.md"
