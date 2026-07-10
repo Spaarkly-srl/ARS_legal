@@ -126,6 +126,7 @@
         "short_clause": "/client-terms-template/short-clause/it.md",
         "intake_checklist": "/client-terms-template/intake-checklist/it.md",
         "schema": "/client-terms-template/schema.json",
+        "framework_agreement_clause": "/client-terms-template/framework-agreement-clause/it.md",
         "readme": "/client-terms-template/README.md"
       },
       "notes": "Template, not published legal terms: parametric model (mustache {{...}} variables, JSON Schema in artifacts.schema) for the VTO Services (VTO, 3D Viewer, VTO Explorer, Mirror, Gateway, Campaign Catalogue), generated and accepted in the ARShades in-experience consent module. AR PD Meter has a SEPARATE, INDEPENDENT template (key: client-terms-ar-pd-meter-template): no cross-reference between the two even when the client uses both. Generated instances are NOT published here (they live in the ARS_TermsAndCond Firestore collection) and must be reviewed by the client's counsel. Excluded from GitHub Pages (front matter published: false) to avoid Liquid interpolation of the template variables."

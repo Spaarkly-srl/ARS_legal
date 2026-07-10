@@ -104,6 +104,9 @@
 
 ## Client ARShades Integration Terms — Modello T&C Cliente
 
+### 2026-07-10 — clausola per il contratto quadro
+- **Clausola contrattuale** per l'accordo quadro Spaarkly–Cliente (`framework-agreement-clause/it.md`): fornitura as-is / non parere legale, obbligo di revisione del legale del Cliente, integrità dei Blocchi CORE, accettazione degli aggiornamenti/propagazione, ruoli privacy (Spaarkly titolare, Cliente riceve solo dati aggregati/anonimizzati), IP del Modello, responsabilità e manleva.
+
 ### v0.2.1 — 2026-07-10 — validazione consulente legale
 - **Gateway**: aggiunto `gateway_enabled` allo schema e il relativo blocco nel template Servizi VTO (era mancante nell'elenco funzionalità).
 - **Clausola di terzo beneficiario** (art. 1411 c.c.): aggiunto «**nell'interesse del Cliente**» in entrambi i template (requisito dell'art. 1411: lo stipulante deve avere interesse alla pattuizione a favore del terzo) — validata dal consulente come impianto, questo l'unico micro-rafforzamento.

@@ -33,7 +33,7 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label
 3. Generare gli output pertinenti alle soluzioni attive:
    - se è attiva almeno una soluzione VTO → [full](full/it.md) + [short-clause](short-clause/it.md) di questa cartella (Servizi VTO);
    - se `ar_pd_enabled` → [full](../client-terms-ar-pd-meter-template/full/it.md) + [short-clause](../client-terms-ar-pd-meter-template/short-clause/it.md) della cartella AR PD Meter, **come documento separato**.
-4. **Il documento generato deve essere rivisto dal consulente legale del Cliente prima della pubblicazione.** Il modello è fornito "così com'è", non costituisce parere legale e non crea alcun rapporto professionale; la clausola corrispondente va inserita anche nel contratto quadro Spaarkly–Cliente (item aperto).
+4. **Il documento generato deve essere rivisto dal consulente legale del Cliente prima della pubblicazione.** Il modello è fornito "così com'è", non costituisce parere legale e non crea alcun rapporto professionale; nel contratto quadro Spaarkly–Cliente va inserita la [clausola dedicata](framework-agreement-clause/it.md) (as-is, revisione legale del Cliente, integrità dei Blocchi CORE, accettazione degli aggiornamenti, ruoli privacy, IP, manleva).
 
 ## Sintassi
 
@@ -68,4 +68,4 @@ Base autentica del modello: **italiano** (decisione 2026-07-07). Le versioni in 
 
 ## Stato
 
-`status: template` nel manifest — **non è un documento legale pubblicato**. Prossimi passi: validazione del consulente sulla clausola di terzo beneficiario (art. 1411 c.c.), clausola nel contratto quadro Spaarkly–Cliente, pilot con un Cliente reale + revisione del consulente sull'istanza generata, poi generatore JSON → collezione `ARS_TermsAndCond` e aggancio del modulo consenso.
+`status: template` nel manifest — **non è un documento legale pubblicato**. Fatto: validazione del consulente (v0.2.1) e [clausola per il contratto quadro](framework-agreement-clause/it.md) redatta. Prossimi passi: pilot con un Cliente reale + revisione del consulente sull'istanza generata; **generatore JSON → collezione `ARS_TermsAndCond`** e aggancio del modulo consenso. La sincronizzazione dei documenti nel modulo VTO web è affidata al team di sviluppo.

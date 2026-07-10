@@ -69,6 +69,7 @@ Current version: **0.2.1** — parametric **templates** (mustache `{{…}}` vari
 | AR PD Meter — short clause (it/en/es/fr/de) | [client-terms-ar-pd-meter-template/short-clause/it.md](client-terms-ar-pd-meter-template/short-clause/it.md) |
 | Client intake checklist (IT, shared) | [client-terms-template/intake-checklist/it.md](client-terms-template/intake-checklist/it.md) |
 | Variables schema (JSON Schema, shared) | [client-terms-template/schema.json](client-terms-template/schema.json) |
+| Framework-agreement clause (IT) | [client-terms-template/framework-agreement-clause/it.md](client-terms-template/framework-agreement-clause/it.md) |
 
 ## Cookie Policy — 🚧 DRAFT
 
