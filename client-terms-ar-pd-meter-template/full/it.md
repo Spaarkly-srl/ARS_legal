@@ -26,7 +26,7 @@ published: false
 
 **«{{client_trade_name}}»**, **«noi»** o **«nostro»** indica {{client_legal_name}}, con sede in {{client_registered_office}} ({{client_country}}), {{client_vat}}, che gestisce {{website_url}} e offre l'esperienza commerciale.
 
-**«Spaarkly»** indica Spaarkly s.r.l. (P. IVA IT02077620769, Via della Tecnica 18, 85100 Potenza, Italia), che sviluppa e fornisce **AR PD Meter**, la funzionalità ARShades descritta di seguito, ed è **titolare del trattamento** dei dati personali trattati da tale funzionalità. Spaarkly non è il venditore dei prodotti presentati, non gestisce un marketplace e non è un ottico, un optometrista né altro operatore dell'assistenza oculistica.
+**«Spaarkly»** indica Spaarkly s.r.l. (P. IVA IT02077620769), che sviluppa e fornisce **AR PD Meter**, la funzionalità ARShades descritta di seguito, ed è **titolare del trattamento** dei dati personali trattati da tale funzionalità. Spaarkly non è il venditore dei prodotti presentati, non gestisce un marketplace e non è un ottico, un optometrista né altro operatore dell'assistenza oculistica.
 
 Le presenti condizioni («Condizioni AR PD Meter») sono presentate all'Utente, insieme all'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), prima dell'avvio della misurazione. Selezionando la casella di accettazione l'Utente le accetta e presta il proprio consenso espresso al trattamento descritto sotto; in mancanza di accettazione la misurazione non viene avviata. L'Utente può revocare il consenso in qualsiasi momento interrompendo la misurazione o revocando l'accesso alla fotocamera; la revoca non pregiudica i trattamenti già effettuati.
 <!-- /BLOCK ruoli -->

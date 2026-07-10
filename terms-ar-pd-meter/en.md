@@ -6,7 +6,7 @@ These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature
 
 ## 1. WHAT AR PD METER IS
 
-1.1 **AR PD Meter** is a software feature developed by **Spaarkly s.r.l.** (VAT No. IT02077620769, Via della Tecnica 18, 85100 Potenza, Italy) that provides an **estimate of your pupillary distance (PD)** — the distance between the centres of your pupils — using your device's camera and facial landmark detection.
+1.1 **AR PD Meter** is a software feature developed by **Spaarkly s.r.l.** (VAT No. IT02077620769) that provides an **estimate of your pupillary distance (PD)** — the distance between the centres of your pupils — using your device's camera and facial landmark detection.
 
 1.2 AR PD Meter may be offered within a Client's website or application, within ARShades experiences, or as part of an **ARShades Mirror** experience in-store.
 
@@ -61,8 +61,6 @@ These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature
 ## 8. CONTACT
 
 **Spaarkly s.r.l.**
-Via della Tecnica 18
-85100 Potenza — Italy
 VAT No. IT02077620769
 Email: legal@spaarkly.com
 

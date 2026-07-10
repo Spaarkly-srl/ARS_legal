@@ -17,7 +17,7 @@ published: false
 <!-- BLOCK clausola-breve [CORE, salvo l'ultimo periodo sulle responsabilità di vendita: CLIENT] -->
 ## Funzionalità ARShades (prova virtuale e visualizzazione 3D)
 
-Il nostro sito {{website_url}} integra le soluzioni di realtà aumentata **ARShades** di Spaarkly s.r.l. (Via della Tecnica 18, 85100 Potenza, Italia), che consentono di provare virtualmente e visualizzare gli occhiali. L'uso di tali funzionalità è disciplinato dalle condizioni presentate all'Utente e accettate all'avvio dell'esperienza. Per i trattamenti di dati personali eseguiti dalle funzionalità ARShades il titolare del trattamento è Spaarkly s.r.l.: si applica l'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), anch'essa consultabile dall'esperienza.
+Il nostro sito {{website_url}} integra le soluzioni di realtà aumentata **ARShades** di Spaarkly s.r.l., che consentono di provare virtualmente e visualizzare gli occhiali. L'uso di tali funzionalità è disciplinato dalle condizioni presentate all'Utente e accettate all'avvio dell'esperienza. Per i trattamenti di dati personali eseguiti dalle funzionalità ARShades il titolare del trattamento è Spaarkly s.r.l.: si applica l'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), anch'essa consultabile dall'esperienza.
 
 La prova virtuale e la visualizzazione dei modelli sono un ausilio visivo: la resa può differire dal prodotto fisico e non costituisce garanzia di idoneità, disponibilità o aspetto del prodotto. Le immagini della fotocamera sono elaborate in tempo reale sul dispositivo dell'Utente e non vengono memorizzate né trasmesse ai server di Spaarkly.
 

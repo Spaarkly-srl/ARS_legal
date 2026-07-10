@@ -12,7 +12,7 @@ Los Servicios ARShades son soluciones de software de realidad aumentada desarrol
 
 ## 1. DEFINICIONES
 
-1.1 **«Spaarkly»**, **«nosotros»** o **«nuestro»** designa a Spaarkly s.r.l., P. IVA IT02077620769, con domicilio social en Via della Tecnica 18, 85100 Potenza, Italia — titular y desarrolladora de las soluciones ARShades.
+1.1 **«Spaarkly»**, **«nosotros»** o **«nuestro»** designa a Spaarkly s.r.l., P. IVA IT02077620769 — titular y desarrolladora de las soluciones ARShades.
 
 1.2 **«Servicios ARShades»** o **«Servicios»** designa las siguientes soluciones, consideradas individual o colectivamente:
    - **ARShades Virtual Try-On («VTO»)** — la solución de prueba virtual que permite la prueba virtual de gafas mediante la realidad aumentada;
@@ -233,8 +233,6 @@ Para los Usuarios residentes en otros países se aplica la cláusula de salvagua
 ## 20. CONTACTO
 
 **Spaarkly s.r.l.**
-Via della Tecnica 18
-85100 Potenza — Italia
 P. IVA IT02077620769
 Email: legal@spaarkly.com
 

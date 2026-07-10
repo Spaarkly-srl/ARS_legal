@@ -2,6 +2,9 @@
 
 ## Repository
 
+### 2026-07-10 — rimozione indirizzo Spaarkly da Termini e template
+- Rimosso l'indirizzo postale di Spaarkly (Via della Tecnica 18, 85100 Potenza) dai Termini Servizi (§1.1 e §20, tutte le lingue), dai Termini AR PD Meter (§1.1 e §8, tutte le lingue) e dai due template Cliente. Mantenuti ragione sociale, **P. IVA IT02077620769** ed email (`legal@spaarkly.com` / `privacy@spaarkly.com`). Aggiornamento editoriale, nessuna modifica sostanziale (versioni invariate: Termini v1.3, AR PD Meter v1.2, template v0.2.1). L'indirizzo resta nell'Informativa Privacy.
+
 ### 2026-07-07 — policy lingua autentica
 - **L'italiano è il testo autentico di tutti i documenti legali**, con un'unica eccezione: la Privacy Policy dell'app Shopify resta EN-autentica (è il testo valutato da Shopify e letto dai merchant). Le altre lingue sono traduzioni di cortesia.
 

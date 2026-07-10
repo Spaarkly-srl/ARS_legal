@@ -6,7 +6,7 @@ Les présentes conditions (les «Conditions AR PD Meter») régissent l'utilisat
 
 ## 1. QU'EST-CE QU'AR PD METER
 
-1.1 **AR PD Meter** est une fonctionnalité logicielle développée par **Spaarkly s.r.l.** (P. IVA IT02077620769, Via della Tecnica 18, 85100 Potenza, Italia) qui fournit une **estimation de la distance pupillaire (PD)** de l'Utilisateur — la distance entre les centres des pupilles — en utilisant la caméra du dispositif de l'Utilisateur et la détection des points de repère faciaux.
+1.1 **AR PD Meter** est une fonctionnalité logicielle développée par **Spaarkly s.r.l.** (P. IVA IT02077620769) qui fournit une **estimation de la distance pupillaire (PD)** de l'Utilisateur — la distance entre les centres des pupilles — en utilisant la caméra du dispositif de l'Utilisateur et la détection des points de repère faciaux.
 
 1.2 AR PD Meter peut être proposé au sein du site web ou de l'application d'un Client, au sein d'expériences ARShades ou dans le cadre d'une expérience **ARShades Mirror** en point de vente.
 
@@ -61,8 +61,6 @@ Les présentes conditions (les «Conditions AR PD Meter») régissent l'utilisat
 ## 8. CONTACT
 
 **Spaarkly s.r.l.**
-Via della Tecnica 18
-85100 Potenza — Italia
 P. IVA IT02077620769
 Email : legal@spaarkly.com
 

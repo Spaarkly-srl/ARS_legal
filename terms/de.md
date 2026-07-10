@@ -12,7 +12,7 @@ Die ARShades-Dienste sind Augmented-Reality-Softwarelösungen, die von **Spaarkl
 
 ## 1. BEGRIFFSBESTIMMUNGEN
 
-1.1 **„Spaarkly"**, **„wir"** oder **„unser"** bezeichnet Spaarkly s.r.l., P. IVA IT02077620769, mit eingetragenem Sitz in Via della Tecnica 18, 85100 Potenza, Italia — Inhaberin und Entwicklerin der ARShades-Lösungen.
+1.1 **„Spaarkly"**, **„wir"** oder **„unser"** bezeichnet Spaarkly s.r.l., P. IVA IT02077620769 — Inhaberin und Entwicklerin der ARShades-Lösungen.
 
 1.2 **„ARShades-Dienste"** oder **„Dienste"** bezeichnet die folgenden Lösungen, einzeln oder gemeinsam betrachtet:
    - **ARShades Virtual Try-On („VTO")** — die Lösung zur virtuellen Anprobe, die das virtuelle Anprobieren von Brillen mittels Augmented Reality ermöglicht;
@@ -233,8 +233,6 @@ Für Nutzer, die in anderen Ländern ansässig sind, gilt die Schutzklausel nach
 ## 20. KONTAKT
 
 **Spaarkly s.r.l.**
-Via della Tecnica 18
-85100 Potenza — Italia
 P. IVA IT02077620769
 E-Mail: legal@spaarkly.com
 

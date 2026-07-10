@@ -25,7 +25,7 @@ published: false
 
 **«{{client_trade_name}}»**, **«noi»** o **«nostro»** indica {{client_legal_name}}, con sede in {{client_registered_office}} ({{client_country}}), {{client_vat}}, che gestisce {{website_url}} e offre l'esperienza commerciale: cataloghi e collezioni, prezzi, disponibilità, ordini, assistenza{{#prescription_sales_enabled}}, gestione delle prescrizioni{{/prescription_sales_enabled}} e l'intero percorso di acquisto.
 
-**«Spaarkly»** indica Spaarkly s.r.l. (P. IVA IT02077620769, Via della Tecnica 18, 85100 Potenza, Italia), che sviluppa e fornisce le soluzioni software di realtà aumentata **ARShades** integrate nella nostra esperienza. Spaarkly non è il venditore dei prodotti presentati, non gestisce un marketplace e non è un ottico, un optometrista né altro operatore dell'assistenza oculistica.
+**«Spaarkly»** indica Spaarkly s.r.l. (P. IVA IT02077620769), che sviluppa e fornisce le soluzioni software di realtà aumentata **ARShades** integrate nella nostra esperienza. Spaarkly non è il venditore dei prodotti presentati, non gestisce un marketplace e non è un ottico, un optometrista né altro operatore dell'assistenza oculistica.
 
 Le presenti condizioni («Condizioni») sono presentate all'Utente, insieme all'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), prima dell'avvio dell'esperienza e ne disciplinano l'uso. Cliccando su «Accetta» (o compiendo un'azione equivalente) l'Utente le accetta; in mancanza di accettazione l'esperienza non viene avviata. Durante l'esperienza l'Utente può in qualsiasi momento rileggere i documenti e revocare il proprio consenso dalle impostazioni.
 <!-- /BLOCK ruoli -->

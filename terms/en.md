@@ -12,7 +12,7 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 ## 1. DEFINITIONS
 
-1.1 **"Spaarkly"**, **"we"**, **"us"** or **"our"** refers to Spaarkly s.r.l., VAT No. IT02077620769, with registered office at Via della Tecnica 18, 85100 Potenza, Italy — owner and developer of the ARShades solutions.
+1.1 **"Spaarkly"**, **"we"**, **"us"** or **"our"** refers to Spaarkly s.r.l., VAT No. IT02077620769 — owner and developer of the ARShades solutions.
 
 1.2 **"ARShades Services"** or **"Services"** refers to the following solutions, individually or collectively:
    - **ARShades Virtual Try-On ("VTO")** — the virtual try-on solution enabling the virtual fitting of eyewear through augmented reality;
@@ -233,8 +233,6 @@ For Users residing in other countries, the savings clause in Section 13 applies:
 ## 20. CONTACT
 
 **Spaarkly s.r.l.**
-Via della Tecnica 18
-85100 Potenza — Italy
 VAT No. IT02077620769
 Email: legal@spaarkly.com
 
