@@ -37,6 +37,7 @@ Le presenti condizioni («Condizioni») sono presentate all'Utente, insieme all'
 {{#viewer_3d_enabled}}- **3D Viewer** — la visualizzazione tridimensionale che consente l'esplorazione a 360° dei modelli di occhiali (rotazione e zoom) e, ove il dispositivo lo supporti, la loro visualizzazione in realtà aumentata.{{/viewer_3d_enabled}}
 {{#vto_explorer_enabled}}- **VTO Explorer** — anteprime personalizzate di più modelli a partire da un numero limitato di immagini acquisite durante la sessione ed elaborate localmente sul dispositivo.{{/vto_explorer_enabled}}
 {{#mirror_enabled}}- **Mirror** — l'esperienza di prova virtuale su dispositivo dedicato presso i nostri punti vendita o showroom; la disponibilità e le condizioni materiali di utilizzo del dispositivo sono di nostra responsabilità.{{/mirror_enabled}}
+{{#gateway_enabled}}- **Gateway** — la piattaforma ARShades che offre esperienze di prova virtuale e un accesso unificato alle esperienze ARShades e agli store dei marchi; può facoltativamente utilizzare la geolocalizzazione, previo consenso.{{/gateway_enabled}}
 {{#campaign_catalogue_enabled}}- **Campaign Catalogue** — il catalogo digitale curato con cui presentiamo collezioni o campagne selezionate; prodotti, prezzi e informazioni commerciali sono scelti e gestiti da noi.{{/campaign_catalogue_enabled}}
 
 {{#mobile_app_enabled}}Le funzionalità ARShades sono disponibili anche all'interno della nostra applicazione mobile; il download e l'uso dell'app sono soggetti anche ai termini dell'app store applicabile (Apple App Store o Google Play).{{/mobile_app_enabled}}
@@ -61,7 +62,7 @@ Le immagini eventualmente acquisite durante una sessione VTO Explorer sono elabo
 <!-- BLOCK privacy [CORE] -->
 ## Privacy
 
-Per i trattamenti di dati personali eseguiti dalle funzionalità ARShades — inclusi i landmark facciali elaborati **in tempo reale e localmente sul dispositivo** al solo scopo di posizionare gli occhiali virtuali, senza memorizzazione né trasmissione — il **titolare del trattamento è Spaarkly s.r.l.**: si applica l'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/) (contatto: privacy@spaarkly.com), presentata insieme alle presenti Condizioni.
+Per i trattamenti di dati personali eseguiti dalle funzionalità ARShades — inclusi i landmark facciali elaborati **in tempo reale e localmente sul dispositivo** al solo scopo di posizionare gli occhiali virtuali, senza memorizzazione né trasmissione — il **titolare del trattamento è Spaarkly s.r.l.**: si applica l'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/) (contatto: privacy@spaarkly.com), presentata insieme alle presenti Condizioni. Noi non accediamo ai dati personali trattati dalle funzionalità ARShades né al relativo trattamento: riceviamo da Spaarkly esclusivamente dati aggregati e anonimizzati; per questo Spaarkly resta titolare del trattamento per i trattamenti ARShades.
 
 Per i trattamenti che eseguiamo noi in qualità di titolari — account, ordini, pagamenti, assistenza, marketing e ogni altro trattamento legato a {{website_url}} — si applica la nostra [informativa privacy]({{client_privacy_url}}).
 <!-- /BLOCK privacy -->
@@ -87,7 +88,7 @@ Le soluzioni ARShades — software, algoritmi e interfacce — e i relativi diri
 <!-- BLOCK terzo-beneficiario [CORE] -->
 ## Spaarkly quale terzo beneficiario
 
-Le previsioni delle presenti Condizioni relative alla tecnologia ARShades, alla natura dell'esperienza virtuale, alla proprietà intellettuale e alle esclusioni e limitazioni ad esse collegate sono pattuite anche a favore di Spaarkly, ai sensi dell'articolo 1411 del codice civile italiano, e Spaarkly può farle valere direttamente nei confronti dell'Utente. La presente clausola non pregiudica i diritti riconosciuti all'Utente da norme imperative.
+Le previsioni delle presenti Condizioni relative alla tecnologia ARShades, alla natura dell'esperienza virtuale, alla proprietà intellettuale e alle esclusioni e limitazioni ad esse collegate sono pattuite, nell'interesse del Cliente, anche a favore di Spaarkly, ai sensi dell'articolo 1411 del codice civile italiano, e Spaarkly può farle valere direttamente nei confronti dell'Utente. La presente clausola non pregiudica i diritti riconosciuti all'Utente da norme imperative.
 <!-- /BLOCK terzo-beneficiario -->
 
 <!-- BLOCK rapporto-documenti [CORE] -->

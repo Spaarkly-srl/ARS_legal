@@ -101,6 +101,13 @@
 
 ## Client ARShades Integration Terms — Modello T&C Cliente
 
+### v0.2.1 — 2026-07-10 — validazione consulente legale
+- **Gateway**: aggiunto `gateway_enabled` allo schema e il relativo blocco nel template Servizi VTO (era mancante nell'elenco funzionalità).
+- **Clausola di terzo beneficiario** (art. 1411 c.c.): aggiunto «**nell'interesse del Cliente**» in entrambi i template (requisito dell'art. 1411: lo stipulante deve avere interesse alla pattuizione a favore del terzo) — validata dal consulente come impianto, questo l'unico micro-rafforzamento.
+- **AR PD Meter / minori**: allineati full e short-clause del template AR PD Meter (stessa eccezione 18+ con consenso e supervisione del genitore/tutore).
+- **Consenso AR PD Meter**: chiarito in template e README che è un **gating locale in-experience** (esperienza avviata solo dopo consenso esplicito, revoca con interruzione immediata, **nessuna prova del consenso persistente associabile all'Utente** perché Spaarkly non identifica l'utente finale).
+- **Ruoli privacy**: rafforzato in template e README che il **Cliente non accede** ai dati né al trattamento ARShades e riceve **solo dati aggregati e anonimizzati** — ulteriore fondamento della titolarità Spaarkly.
+
 ### v0.2.0 — 2026-07-10 — split in due template + 3D Viewer
 - **Split in due template indipendenti** (rispecchia la separazione canonica terms/ vs terms-ar-pd-meter/): `client-terms-template/` per i **Servizi VTO** e nuovo `client-terms-ar-pd-meter-template/` per **AR PD Meter stand-alone**. Decisione Michele: **documenti indipendenti, nessun rinvio incrociato** anche quando il Cliente ha entrambe le soluzioni (AR PD Meter stand-alone non deve trascinarsi la casistica VTO).
 - **Template Servizi VTO**: rimosso del tutto il blocco AR PD Meter; aggiunto il blocco **3D Viewer** (flag `viewer_3d_enabled`); modularità per soluzione su nucleo fisso.

@@ -79,7 +79,12 @@
     "campaign_catalogue_enabled": {
       "type": "boolean",
       "default": false,
-      "description": "Campaign Catalogue attivo."
+      "description": "Campaign Catalogue attivo (template Servizi VTO)."
+    },
+    "gateway_enabled": {
+      "type": "boolean",
+      "default": false,
+      "description": "ARShades Gateway attivo — hub/piattaforma ARShades con accesso unificato alle esperienze e agli store; può usare la geolocalizzazione previo consenso (template Servizi VTO)."
     },
     "ar_pd_enabled": {
       "type": "boolean",
@@ -127,6 +132,8 @@
     "vto_explorer_enabled",
     "shoot_share_enabled",
     "mirror_enabled",
+    "campaign_catalogue_enabled",
+    "gateway_enabled",
     "ar_pd_enabled",
     "prescription_sales_enabled",
     "minors_enabled",

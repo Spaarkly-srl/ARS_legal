@@ -2,7 +2,7 @@
 published: false
 ---
 
-# Client ARShades Integration Terms — Modello (v0.2.0)
+# Client ARShades Integration Terms — Modello (v0.2.1)
 
 Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label)**, rispecchia la separazione canonica in **due documenti indipendenti**:
 
@@ -16,8 +16,8 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label
 ## Principio dei ruoli (non negoziabile)
 
 - Il **Cliente** offre l'esperienza commerciale sul proprio sito: vende/procura i prodotti, gestisce prezzi, disponibilità, prescrizioni e customer journey.
-- **Spaarkly** fornisce la tecnologia ARShades e **resta titolare del trattamento** per i trattamenti descritti nella Privacy Policy ARShades. I ruoli privacy sono funzionali (EDPB Guidelines 07/2020): non si spostano per etichetta contrattuale. Il consenso espresso AR PD Meter (inclusa la written release BIPA/CUBI/RCW) è **sempre reso a Spaarkly**, mai al Cliente.
-- Il **modulo consenso in-experience** è l'unico punto di accettazione e raccolta del consenso (senza accettazione l'esperienza non parte: il gating stesso vale come prova; nessuna persistenza server-side). Le istanze white-label sono servite al modulo dalla collezione Firestore **`ARS_TermsAndCond`**; le collezioni legacy del VTO web sono obsolete e verranno eliminate.
+- **Spaarkly** fornisce la tecnologia ARShades e **resta titolare del trattamento** per i trattamenti descritti nella Privacy Policy ARShades. I ruoli privacy sono funzionali (EDPB Guidelines 07/2020): non si spostano per etichetta contrattuale. Il consenso espresso AR PD Meter (inclusa la written release BIPA/CUBI/RCW) è **sempre reso a Spaarkly**, mai al Cliente. Il **Cliente non accede** ai dati personali trattati dalle funzionalità ARShades né al relativo trattamento e riceve da Spaarkly **soltanto dati aggregati e anonimizzati**: è un ulteriore motivo per cui Spaarkly resta titolare per i trattamenti ARShades.
+- Il **modulo consenso in-experience** è l'unico punto di accettazione e raccolta del consenso: **gating locale in-experience** — l'esperienza si avvia solo dopo il consenso esplicito, la revoca è sempre disponibile con interruzione immediata. **Nessuna prova del consenso persistente associabile all'Utente**, perché Spaarkly non identifica l'utente finale: ne dà evidenza l'avvio stesso dell'esperienza, subordinato al consenso (nessuna persistenza server-side). Le istanze white-label sono servite al modulo dalla collezione Firestore **`ARS_TermsAndCond`**; le collezioni legacy del VTO web sono obsolete e verranno eliminate.
 
 ## Superfici (dove valgono queste condizioni)
 
@@ -44,7 +44,7 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label
 
 ## Regole sui blocchi
 
-- **[CORE]** — non modificabili dal Cliente: descrizione della tecnologia e dei flussi dati, blocco AR PD Meter (consenso, disclaimers, 18+), Shoot & Share, privacy notice Spaarkly, proprietà intellettuale, clausola di terzo beneficiario, rapporto tra documenti. Ogni deviazione va approvata da Spaarkly.
+- **[CORE]** — non modificabili dal Cliente: descrizione della tecnologia e dei flussi dati (incl. Gateway e Shoot & Share), natura dell'esperienza, privacy notice Spaarkly, proprietà intellettuale, clausola di terzo beneficiario, rapporto tra documenti. Nel template AR PD Meter sono [CORE] anche il consenso/gating, i disclaimer di misura e il requisito 18+. Ogni deviazione va approvata da Spaarkly.
 - **[CLIENT]** — adattabili dal legale del Cliente: identità e ruolo commerciale del Cliente, responsabilità di vendita, minori (policy del sito), rinvii ai documenti del Cliente.
 - **Regola prescrizioni**: se `prescription_sales_enabled = true`, il testo generato **deve** includere la verifica professionale (optician responsibility) e non può presentare la stima AR PD Meter come misura definitiva. Il blocco è già cablato nel modello: non rimuoverlo.
 

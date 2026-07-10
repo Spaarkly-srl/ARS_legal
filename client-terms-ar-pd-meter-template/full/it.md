@@ -42,6 +42,8 @@ Le presenti condizioni («Condizioni AR PD Meter») sono presentate all'Utente, 
 
 L'avvio della misurazione richiede il **consenso espresso dell'Utente, reso a Spaarkly** quale titolare del trattamento, mediante la casella di accettazione presentata prima della misurazione. Il flusso di consenso indica la versione e la data delle presenti Condizioni AR PD Meter in vigore e riepiloga i dati trattati, la finalità, la conservazione e le modalità di revoca.
 
+Il consenso è gestito come **gating locale in-experience**: la misurazione si avvia soltanto dopo il consenso esplicito e la revoca è sempre disponibile, con interruzione immediata del trattamento in corso. Poiché Spaarkly non identifica l'Utente finale, **non viene conservata alcuna prova del consenso associabile all'Utente**: ne dà evidenza l'avvio stesso della misurazione, subordinato al consenso.
+
 Le immagini della fotocamera sono elaborate sul dispositivo dell'Utente e **non sono trasmesse a Spaarkly né da Spaarkly conservate**. Soltanto dati tecnici derivati (coordinate dei landmark facciali, dati di orientamento del volto, informazioni sul dispositivo) — non utilizzati per identificare l'Utente e non idonei, di per sé, a identificarlo — sono trasmessi cifrati al backend di Spaarkly nell'**Unione Europea**, utilizzati esclusivamente per calcolare e restituire la misurazione e **cancellati in modo permanente immediatamente dopo l'elaborazione**.{{#mirror_enabled}} Quando la misurazione avviene su un dispositivo **Mirror** presso i nostri punti vendita o showroom, l'elaborazione avviene sul backend locale del dispositivo, senza alcuna trasmissione a server cloud.{{/mirror_enabled}}
 
 Ove le leggi applicabili in materia di privacy biometrica lo richiedano, l'accettazione affermativa dell'Utente costituisce il consenso/la liberatoria scritta al trattamento descritto, prestato prima di qualsiasi acquisizione. I dettagli completi sono nell'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), di cui Spaarkly è titolare.
@@ -62,7 +64,7 @@ AR PD Meter è destinato a utenti che abbiano **almeno 18 anni**. L'Utente minor
 <!-- BLOCK privacy [CORE] -->
 ## Privacy
 
-Per il trattamento eseguito da AR PD Meter — descritto sopra — il **titolare del trattamento è Spaarkly s.r.l.**: si applica l'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/) (contatto: privacy@spaarkly.com), presentata insieme alle presenti Condizioni AR PD Meter.
+Per il trattamento eseguito da AR PD Meter — descritto sopra — il **titolare del trattamento è Spaarkly s.r.l.**: si applica l'[Informativa Privacy ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/) (contatto: privacy@spaarkly.com), presentata insieme alle presenti Condizioni AR PD Meter. Noi non accediamo ai dati trattati da AR PD Meter né al relativo trattamento: riceviamo da Spaarkly esclusivamente dati aggregati e anonimizzati; per questo Spaarkly resta titolare del trattamento.
 
 Per i trattamenti che eseguiamo noi in qualità di titolari — account, ordini, assistenza e ogni altro trattamento legato a {{website_url}} — si applica la nostra [informativa privacy]({{client_privacy_url}}).
 <!-- /BLOCK privacy -->
@@ -76,7 +78,7 @@ AR PD Meter — software, algoritmi e interfacce — e i relativi diritti di pro
 <!-- BLOCK terzo-beneficiario [CORE] -->
 ## Spaarkly quale terzo beneficiario
 
-Le previsioni delle presenti Condizioni AR PD Meter relative alla tecnologia, alla natura della stima, al trattamento dei dati, alla proprietà intellettuale e alle esclusioni e limitazioni ad esse collegate sono pattuite anche a favore di Spaarkly, ai sensi dell'articolo 1411 del codice civile italiano, e Spaarkly può farle valere direttamente nei confronti dell'Utente. La presente clausola non pregiudica i diritti riconosciuti all'Utente da norme imperative.
+Le previsioni delle presenti Condizioni AR PD Meter relative alla tecnologia, alla natura della stima, al trattamento dei dati, alla proprietà intellettuale e alle esclusioni e limitazioni ad esse collegate sono pattuite, nell'interesse del Cliente, anche a favore di Spaarkly, ai sensi dell'articolo 1411 del codice civile italiano, e Spaarkly può farle valere direttamente nei confronti dell'Utente. La presente clausola non pregiudica i diritti riconosciuti all'Utente da norme imperative.
 <!-- /BLOCK terzo-beneficiario -->
 
 <!-- BLOCK rapporto-documenti [CORE] -->

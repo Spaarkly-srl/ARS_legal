@@ -37,7 +37,8 @@ published: false
 | C3 | VTO Explorer | `vto_explorer_enabled` | template Servizi VTO |
 | C4 | Shoot & Share (foto da dispositivi in luoghi pubblici) | `shoot_share_enabled` | Richiede C3 = sì |
 | C5 | Campaign Catalogue | `campaign_catalogue_enabled` | template Servizi VTO |
-| C6 | AR PD Meter | `ar_pd_enabled` | **Genera il documento separato e indipendente** dal template AR PD Meter (non compare nel documento Servizi VTO) |
+| C6 | Gateway | `gateway_enabled` | Hub/piattaforma ARShades, accesso unificato; geolocalizzazione previo consenso — template Servizi VTO |
+| C7 | AR PD Meter | `ar_pd_enabled` | **Genera il documento separato e indipendente** dal template AR PD Meter (non compare nel documento Servizi VTO) |
 
 ## D. Profilo di rischio
 
