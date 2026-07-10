@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/client-terms-template/schema.json",
   "title": "Client ARShades Integration Terms — parametri di generazione",
-  "description": "Parametri per compilare il modello client-terms-template (full, short-clause, microcopy). Le variabili sono rese nei template con sintassi mustache {{nome}}; i blocchi condizionali con {{#flag}}…{{/flag}} e {{^flag}}…{{/flag}}. Nota: {{result_placeholder}} nella microcopy §4 è un valore runtime dell'app (la PD stimata), NON va valorizzato dal generatore.",
+  "description": "Parametri per compilare il modello client-terms-template (full, short-clause). Le variabili sono rese nei template con sintassi mustache {{nome}}; i blocchi condizionali con {{#flag}}…{{/flag}} e {{^flag}}…{{/flag}}.",
   "type": "object",
   "additionalProperties": false,
   "properties": {
@@ -54,7 +54,12 @@
     "vto_enabled": {
       "type": "boolean",
       "default": true,
-      "description": "Virtual Try-On attivo."
+      "description": "Virtual Try-On attivo (template Servizi VTO)."
+    },
+    "viewer_3d_enabled": {
+      "type": "boolean",
+      "default": false,
+      "description": "3D Viewer attivo — visualizzazione 3D a 360° + modalità AR (template Servizi VTO)."
     },
     "vto_explorer_enabled": {
       "type": "boolean",
@@ -79,7 +84,7 @@
     "ar_pd_enabled": {
       "type": "boolean",
       "default": false,
-      "description": "AR PD Meter attivo. Se true: blocco AR PD Meter nel full, periodo dedicato nella short clause, microcopy §3–§5 (consenso espresso reso a Spaarkly, requisito §2.4)."
+      "description": "AR PD Meter attivo. Se true si genera il documento SEPARATO E INDIPENDENTE dal template client-terms-ar-pd-meter-template/ (full + short-clause); NON compare nel documento dei Servizi VTO. Il consenso espresso è raccolto dal modulo consenso ARShades ed è sempre reso a Spaarkly."
     },
     "mobile_app_enabled": {
       "type": "boolean",
@@ -105,14 +110,6 @@
       "type": "string",
       "format": "date",
       "description": "META — data di generazione dell'istanza (YYYY-MM-DD). Compilazione automatica."
-    },
-    "ar_pd_terms_version": {
-      "type": "string",
-      "description": "META — versione vigente dei Termini AR PD Meter, letta da manifest.json (documento terms-ar-pd-meter). Obbligatoria se ar_pd_enabled."
-    },
-    "ar_pd_terms_date": {
-      "type": "string",
-      "description": "META — data di efficacia dei Termini AR PD Meter vigenti, letta da manifest.json, nel formato mostrato all'utente (es. '7 luglio 2026'). Obbligatoria se ar_pd_enabled."
     }
   },
   "required": [
@@ -126,6 +123,7 @@
     "client_privacy_url",
     "support_email",
     "vto_enabled",
+    "viewer_3d_enabled",
     "vto_explorer_enabled",
     "shoot_share_enabled",
     "mirror_enabled",
@@ -140,11 +138,6 @@
       "$comment": "Shoot & Share esiste solo dentro VTO Explorer.",
       "if": { "properties": { "shoot_share_enabled": { "const": true } } },
       "then": { "properties": { "vto_explorer_enabled": { "const": true } } }
-    },
-    {
-      "$comment": "La microcopy del consenso (§2.4 Termini AR PD Meter) deve mostrare versione e data vigenti.",
-      "if": { "properties": { "ar_pd_enabled": { "const": true } } },
-      "then": { "required": ["ar_pd_terms_version", "ar_pd_terms_date"] }
     }
   ]
 }

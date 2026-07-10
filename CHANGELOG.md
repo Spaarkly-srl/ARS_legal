@@ -47,6 +47,11 @@
 
 ## Terms & Conditions (Servizi ARShades)
 
+### v1.3 — 2026-07-10 — 3D Viewer, Google Play, traduzioni es/fr/de
+- **§1.2**: aggiunto il servizio **ARShades 3D Viewer** (visualizzazione 3D a 360° dei modelli + modalità in realtà aumentata) all'elenco dei Servizi, in tutte le lingue.
+- **§10**: aggiunta la clausola **Google Play** (§10.3: Google non è parte, nessun obbligo di garanzia/manutenzione, distribuzione soggetta ai termini di Google Play, dichiarazione export) accanto al blocco Apple; rinumerati i successivi §10.4/§10.5. Motivazione: 2 app native VTO (iOS + Android).
+- **Traduzioni**: pubblicate le versioni **es, fr, de** (`terms/{es,fr,de}.md`); i Termini Servizi esistono ora in it (autentico), en, es, fr, de. Tradotte dall'italiano autoritativo con l'inglese come riferimento; formule vincolate e clausola Lingua (italiano facente fede) preservate.
+
 ### v1.2 — 2026-07-07 — italiano testo autentico
 - Pubblicata la **traduzione italiana integrale** (`terms/it.md`): l'**italiano diventa il testo autentico** e prevalente; l'inglese è declassato a traduzione di cortesia (clausola Lingua aggiornata in entrambe le versioni).
 - Nessuna modifica sostanziale alle clausole rispetto alla v1.1.
@@ -75,6 +80,9 @@
 
 ## AR PD Meter — Terms & Conditions
 
+### 2026-07-10 — traduzioni es/fr/de
+- Pubblicate le versioni **es, fr, de** (`terms-ar-pd-meter/{es,fr,de}.md`); i Termini AR PD Meter esistono ora in it (autentico), en, es, fr, de. Nessuna modifica sostanziale alle clausole (resta v1.2); formula di identificabilità qualificata allineata alla PP v5.4 nelle rispettive lingue, clausola Lingua (italiano facente fede) preservata.
+
 ### v1.2 — 2026-07-07 — italiano testo autentico
 - Pubblicata la **traduzione italiana integrale** (`terms-ar-pd-meter/it.md`): l'**italiano diventa il testo autentico** e prevalente; l'inglese è traduzione di cortesia (clausola Lingua aggiornata in entrambe le versioni).
 - §3.5: riferimento alla Privacy Policy aggiornato a "versione 5.4 o successiva".
@@ -93,10 +101,18 @@
 
 ## Client ARShades Integration Terms — Modello T&C Cliente
 
+### v0.2.0 — 2026-07-10 — split in due template + 3D Viewer
+- **Split in due template indipendenti** (rispecchia la separazione canonica terms/ vs terms-ar-pd-meter/): `client-terms-template/` per i **Servizi VTO** e nuovo `client-terms-ar-pd-meter-template/` per **AR PD Meter stand-alone**. Decisione Michele: **documenti indipendenti, nessun rinvio incrociato** anche quando il Cliente ha entrambe le soluzioni (AR PD Meter stand-alone non deve trascinarsi la casistica VTO).
+- **Template Servizi VTO**: rimosso del tutto il blocco AR PD Meter; aggiunto il blocco **3D Viewer** (flag `viewer_3d_enabled`); modularità per soluzione su nucleo fisso.
+- **Template AR PD Meter**: documento autosufficiente e snello (full + short-clause) — consenso espresso sempre reso a Spaarkly, flusso dati (backend UE / Mirror locale), non dispositivo medico, 18+, regola prescrizioni; clausola di terzo beneficiario (art. 1411 c.c.).
+- **`microcopy/` rimossa** (Punto 2, 2026-07-08): i wording legali sono leggibili solo nel documento full white-label, mai come task/UI imposti al Cliente.
+- `schema.json` (+ `viewer_3d_enabled`) e `intake-checklist/it.md` **condivisi** tra i due template; `manifest.json`, `README`, `index` aggiornati. Le istanze generate vivono nella collezione Firestore `ARS_TermsAndCond`, non nel repo.
+- **Aperti**: validazione consulente sulla clausola di terzo beneficiario; clausola nel contratto quadro Spaarkly–Cliente; pilot + generatore JSON → `ARS_TermsAndCond`.
+
 ### v0.1.0 — 2026-07-08 — prima bozza del modello
 - Nuova sezione `client-terms-template/`: **modello parametrico dei termini di integrazione ARShades "a nome del Cliente"** (impostato come *Client ARShades Integration Terms*, non come "Termini Spaarkly rimarchiati"). Il Cliente è la controparte commerciale dei propri utenti (prodotti, prezzi, prescrizioni, customer journey); Spaarkly resta fornitore della tecnologia e **titolare del trattamento** per i trattamenti della Privacy Policy ARShades (ruoli funzionali, EDPB Guidelines 07/2020).
 - **Lingua base: italiano** (decisione 2026-07-07); la lingua delle istanze è scelta dal Cliente.
-- Tre output: `full/it.md` (documento completo agganciato ai T&C del Cliente), `short-clause/it.md` (articolo singolo da incollare nei T&C del Cliente), `microcopy/it.md` (attribuzione widget, pre-prompt fotocamera, flow di consenso AR PD Meter conforme al §2.4 con versione/data da manifest, disclaimer risultato, avviso Shoot & Share).
+- Due output: `full/it.md` (documento completo agganciato ai T&C del Cliente) e `short-clause/it.md` (articolo singolo da incollare nei T&C del Cliente). Il microcopy operativo è stato escluso dal modello e non viene pubblicato in questa sezione.
 - Variabili mustache `{{…}}` e blocchi condizionali `{{#flag}}…{{/flag}}` definiti in `schema.json` (identità Cliente + flag soluzioni: VTO, VTO Explorer, Shoot & Share, Mirror, Campaign Catalogue, AR PD Meter, app mobile, lenti graduate, minori); `intake-checklist/it.md` per la raccolta dati (da Studio / configurazione plugin).
 - Blocchi marcati **[CORE]** (non modificabili dal Cliente: tecnologia e flussi dati, AR PD Meter, Shoot & Share, privacy notice Spaarkly, IP, rapporto tra documenti) e **[CLIENT]** (adattabili: identità, responsabilità di vendita, minori, contatti).
 - **Regola prescrizioni**: con `prescription_sales_enabled` il testo include obbligatoriamente la verifica professionale (optician responsibility) e non presenta mai la stima AR PD Meter come misura definitiva — la stima resta "digitale preliminare"; il posizionamento d'uso nel processo di vendita è responsabilità del Cliente (soluzione complementare alla riformulazione "commercial convenience only" del §1.3 dei Termini AR PD Meter).

@@ -1,6 +1,6 @@
 # TERMINI E CONDIZIONI D'USO — SERVIZI ARSHADES
 
-*Soluzioni ARShades* </br> *Versione 1.2 — Ultimo aggiornamento: 7 luglio 2026 — Data di efficacia: 7 luglio 2026*
+*Soluzioni ARShades* </br> *Versione 1.3 — Ultimo aggiornamento: 10 luglio 2026 — Data di efficacia: 10 luglio 2026*
 
 I presenti Termini sostituiscono i **«ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use»** del 21 marzo 2025.
 
@@ -16,6 +16,7 @@ I Servizi ARShades sono soluzioni software di realtà aumentata sviluppate da **
 
 1.2 **«Servizi ARShades»** o **«Servizi»** indica le seguenti soluzioni, considerate individualmente o collettivamente:
    - **ARShades Virtual Try-On («VTO»)** — la soluzione di prova virtuale che consente la prova virtuale di occhiali mediante la realtà aumentata;
+   - **ARShades 3D Viewer («3D Viewer»)** — la soluzione di visualizzazione tridimensionale che consente l'esplorazione a 360° dei modelli di occhialeria (rotazione e zoom) e, ove il dispositivo lo supporti, la loro visualizzazione in realtà aumentata;
    - **ARShades VTO Explorer («VTO Explorer»)** — un modulo o una funzionalità integrabile nelle esperienze ARShades web, mobile, catalogo, e-commerce, mirror, showroom o presso punti vendita;
    - **ARShades Mirror («Mirror»)** — l'esperienza presso punti vendita o showroom erogata tramite un dispositivo dedicato;
    - **ARShades Gateway («Gateway»)** — la piattaforma ARShades autonoma che offre, tra l'altro, esperienze di prova virtuale e un accesso unificato alle esperienze ARShades e agli store dei marchi; essa può facoltativamente utilizzare la geolocalizzazione, previo consenso;
@@ -125,9 +126,11 @@ I Servizi ARShades sono soluzioni software di realtà aumentata sviluppate da **
 
 10.2 **Apple App Store.** Se l'Utente ha scaricato un'applicazione mobile dall'Apple App Store, si applica in aggiunta quanto segue: (a) i presenti Termini sono conclusi esclusivamente tra l'Utente e Spaarkly, e non con Apple Inc. («Apple»); (b) la licenza dell'Utente è limitata a una licenza non trasferibile all'uso dell'applicazione su prodotti a marchio Apple di cui l'Utente sia proprietario o di cui abbia il controllo, nei limiti consentiti dalle regole d'uso dell'App Store; (c) in caso di mancata conformità dell'applicazione a una garanzia applicabile, l'Utente può darne comunicazione ad Apple e Apple rimborserà l'eventuale prezzo di acquisto corrisposto per l'applicazione; nella misura massima consentita dalla legge applicabile, Apple non avrà alcun altro obbligo di garanzia in relazione all'applicazione; (d) Apple non è responsabile della gestione di eventuali pretese dell'Utente o di terzi relative all'applicazione, incluse le pretese in materia di responsabilità da prodotto, le pretese fondate sulla mancata conformità dell'applicazione a requisiti di legge o regolamentari e le pretese fondate sulla normativa a tutela dei consumatori o su normative analoghe; (e) in caso di pretese di terzi secondo cui l'applicazione o il suo uso da parte dell'Utente violi diritti di proprietà intellettuale, sarà Spaarkly — e non Apple — responsabile dell'esame, della difesa, della definizione transattiva e dell'estinzione di tali pretese, nella misura richiesta dai presenti Termini; (f) l'Utente dichiara di non trovarsi in un Paese soggetto a embargo del Governo degli Stati Uniti o designato dal Governo degli Stati Uniti quale Paese che «sostiene il terrorismo» e di non essere iscritto in alcun elenco del Governo degli Stati Uniti di soggetti vietati o sottoposti a restrizioni; (g) Apple e le sue controllate sono **terzi beneficiari** dei presenti Termini e, per effetto dell'accettazione da parte dell'Utente, Apple avrà il diritto di far valere i presenti Termini nei confronti dell'Utente in qualità di terzo beneficiario.
 
-10.3 I Servizi possono includere componenti software di terze parti concessi in licenza secondo i rispettivi termini.
+10.3 **Google Play.** Se l'Utente ha scaricato un'applicazione mobile da Google Play, il download e l'uso sono altresì soggetti ai termini di Google Play applicabili. Google LLC («Google») non è parte dei presenti Termini, non è responsabile dei Servizi o dell'applicazione e non ha alcun obbligo di fornire manutenzione o assistenza in relazione agli stessi. L'Utente si impegna a rispettare le leggi applicabili in materia di controllo delle esportazioni nell'uso dell'applicazione.
 
-10.4 Spaarkly non è responsabile di servizi, siti web o contenuti di terze parti ai quali si acceda attraverso i Servizi.
+10.4 I Servizi possono includere componenti software di terze parti concessi in licenza secondo i rispettivi termini.
+
+10.5 Spaarkly non è responsabile di servizi, siti web o contenuti di terze parti ai quali si acceda attraverso i Servizi.
 
 ## 11. ESCLUSIONE DI GARANZIE
 

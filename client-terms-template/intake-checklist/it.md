@@ -22,8 +22,8 @@ published: false
 | # | Domanda | Campo | Note |
 |---|---|---|---|
 | B1 | URL del sito con le funzionalità ARShades | `website_url` | |
-| B2 | Canale: e-commerce, showroom/negozio o entrambi | `mirror_enabled` (showroom → true) | Showroom/negozio implica esperienza Mirror |
-| B3 | Le funzionalità ARShades sono anche in un'app mobile del Cliente? | `mobile_app_enabled` | |
+| B2 | Canale: e-commerce, showroom/negozio o entrambi | `mirror_enabled` (showroom → true) | Showroom/negozio implica esperienza Mirror: UI e consenso li colloca Spaarkly nel dispositivo (locale); al Cliente restano le sole condizioni materiali |
+| B3 | Le funzionalità ARShades sono anche in un'app mobile del Cliente? | `mobile_app_enabled` | App branded per il Cliente: si clonano disclaimer e flussi delle app ARShades. App ARShades nostre: fuori scope del modello (valgono i Termini Spaarkly canonici) |
 | B4 | URL dei T&C del Cliente | `client_terms_url` | Dove verrà agganciato il documento |
 | B5 | URL dell'informativa privacy del Cliente | `client_privacy_url` | |
 | B6 | Email di assistenza clienti | `support_email` | |
@@ -32,11 +32,12 @@ published: false
 
 | # | Domanda | Campo | Note |
 |---|---|---|---|
-| C1 | Virtual Try-On | `vto_enabled` | Di norma sì |
-| C2 | VTO Explorer | `vto_explorer_enabled` | |
-| C3 | Shoot & Share (foto da dispositivi in luoghi pubblici) | `shoot_share_enabled` | Richiede C2 = sì |
-| C4 | Campaign Catalogue | `campaign_catalogue_enabled` | |
-| C5 | AR PD Meter | `ar_pd_enabled` | Attiva il blocco consenso (microcopy §3) |
+| C1 | Virtual Try-On | `vto_enabled` | Di norma sì — template Servizi VTO |
+| C2 | 3D Viewer | `viewer_3d_enabled` | Visualizzazione 3D 360° + AR — template Servizi VTO |
+| C3 | VTO Explorer | `vto_explorer_enabled` | template Servizi VTO |
+| C4 | Shoot & Share (foto da dispositivi in luoghi pubblici) | `shoot_share_enabled` | Richiede C3 = sì |
+| C5 | Campaign Catalogue | `campaign_catalogue_enabled` | template Servizi VTO |
+| C6 | AR PD Meter | `ar_pd_enabled` | **Genera il documento separato e indipendente** dal template AR PD Meter (non compare nel documento Servizi VTO) |
 
 ## D. Profilo di rischio
 
@@ -50,11 +51,15 @@ published: false
 | Campo | Fonte |
 |---|---|
 | `template_version`, `generated_date` | Versione del modello e data di generazione |
-| `ar_pd_terms_version`, `ar_pd_terms_date` | `manifest.json` → documento `terms-ar-pd-meter` (obbligatori se C5 = sì) |
+
+## Output generati
+
+- **Se almeno una soluzione VTO è attiva** (VTO, 3D Viewer, VTO Explorer, Mirror, Campaign Catalogue) → si genera il documento **Servizi VTO** (`client-terms-template/`: full + short-clause).
+- **Se `ar_pd_enabled = true`** → si genera **in aggiunta** il documento **AR PD Meter** (`client-terms-ar-pd-meter-template/`: full + short-clause), **separato e indipendente**: nessun rinvio incrociato tra i due, anche quando il Cliente ha entrambe le soluzioni.
 
 ## Regole di coerenza
 
 - `shoot_share_enabled` richiede `vto_explorer_enabled = true`.
-- `ar_pd_enabled = true` ⇒ includere blocco AR PD Meter (full), periodo AR PD Meter (short clause) e microcopy §3–§5.
-- `prescription_sales_enabled = true` ⇒ blocco verifica professionale sempre incluso; vietato presentare la stima come misura definitiva.
+- `prescription_sales_enabled = true` ⇒ nel documento generato pertinente, blocco verifica professionale sempre incluso; vietato presentare la stima AR PD Meter come misura definitiva.
+- Il consenso espresso AR PD Meter è raccolto dal modulo consenso ARShades ed è sempre reso a Spaarkly (titolare del trattamento).
 - Output generato = bozza: **revisione del legale del Cliente obbligatoria prima della pubblicazione** (in particolare per requisiti locali del Paese A5, es. norme sulla dispensazione di dispositivi ottici o sulla vendita online di lenti graduate).

@@ -1,6 +1,6 @@
 # ARSHADES SERVICES — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.2 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
+*ARShades solutions* </br> *Version 1.3 — Last updated: 10 July 2026 — Effective date: 10 July 2026*
 
 These Terms supersede the **"ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** dated 21 March 2025.
 
@@ -16,6 +16,7 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 1.2 **"ARShades Services"** or **"Services"** refers to the following solutions, individually or collectively:
    - **ARShades Virtual Try-On ("VTO")** — the virtual try-on solution enabling the virtual fitting of eyewear through augmented reality;
+   - **ARShades 3D Viewer ("3D Viewer")** — the three-dimensional viewing solution enabling 360° exploration of eyewear models (rotation and zoom) and, where the device supports it, their viewing in augmented reality;
    - **ARShades VTO Explorer ("VTO Explorer")** — a module or feature integrable in ARShades web, mobile, catalogue, e-commerce, mirror, showroom or in-store experiences;
    - **ARShades Mirror ("Mirror")** — the in-store or showroom experience delivered through a dedicated device;
    - **ARShades Gateway ("Gateway")** — the standalone ARShades platform providing, among other things, virtual try-on experiences and unified access to ARShades experiences and branded stores; it may optionally use geolocation, subject to consent;
@@ -125,9 +126,11 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 10.2 **Apple App Store.** If you downloaded a mobile application from the Apple App Store, the following applies in addition: (a) these Terms are concluded between you and Spaarkly only, not with Apple Inc. ("Apple"); (b) your licence is limited to a non-transferable licence to use the application on Apple-branded products that you own or control, as permitted by the App Store usage rules; (c) in the event of any failure of the application to conform to an applicable warranty, you may notify Apple and Apple will refund any purchase price paid for the application; to the maximum extent permitted by applicable law, Apple has no other warranty obligation with respect to the application; (d) Apple is not responsible for addressing any claim by you or a third party relating to the application, including product-liability claims, claims that the application fails to conform to legal or regulatory requirements, and consumer-protection or similar claims; (e) in the event of a third-party claim that the application or your use of it infringes intellectual-property rights, Spaarkly — not Apple — is responsible for the investigation, defence, settlement and discharge of such claim to the extent required by these Terms; (f) you represent that you are not located in a country subject to a U.S. Government embargo or designated by the U.S. Government as a "terrorist supporting" country, and that you are not listed on any U.S. Government list of prohibited or restricted parties; (g) Apple and its subsidiaries are **third-party beneficiaries** of these Terms and, upon your acceptance, Apple has the right to enforce these Terms against you as a third-party beneficiary.
 
-10.3 The Services may include third-party software components licensed under their own terms.
+10.3 **Google Play.** If you downloaded a mobile application from Google Play, your download and use are also subject to the applicable Google Play terms. Google LLC ("Google") is not a party to these Terms, is not responsible for the Services or the application, and has no obligation to furnish maintenance or support for them. You agree to comply with applicable export-control laws in your use of the application.
 
-10.4 Spaarkly is not responsible for third-party services, websites or content accessed through the Services.
+10.4 The Services may include third-party software components licensed under their own terms.
+
+10.5 Spaarkly is not responsible for third-party services, websites or content accessed through the Services.
 
 ## 11. DISCLAIMER OF WARRANTIES
 

@@ -34,34 +34,41 @@ Limited to data processed in connection with Shopify; the ARShades end-user expe
 
 ## ARShades Services — Terms & Conditions
 
-Current version: **1.2** — effective **7 July 2026**. Covers ARShades Virtual Try-On, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; the English version is a courtesy translation.
+Current version: **1.3** — effective **10 July 2026**. Covers ARShades Virtual Try-On, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
 
 | Language | File | Raw URL |
 |---|---|---|
 | Italiano | [terms/it.md](terms/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/it.md` |
 | English | [terms/en.md](terms/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/en.md` |
+| Español | [terms/es.md](terms/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/es.md` |
+| Français | [terms/fr.md](terms/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/fr.md` |
+| Deutsch | [terms/de.md](terms/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms/de.md` |
 
 ## AR PD Meter — Terms & Conditions
 
-Current version: **1.2** — effective **7 July 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. The Italian version is the authoritative text; the English version is a courtesy translation.
+Current version: **1.2** — effective **7 July 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
 
 | Language | File | Raw URL |
 |---|---|---|
 | Italiano | [terms-ar-pd-meter/it.md](terms-ar-pd-meter/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/it.md` |
 | English | [terms-ar-pd-meter/en.md](terms-ar-pd-meter/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/en.md` |
+| Español | [terms-ar-pd-meter/es.md](terms-ar-pd-meter/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/es.md` |
+| Français | [terms-ar-pd-meter/fr.md](terms-ar-pd-meter/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/fr.md` |
+| Deutsch | [terms-ar-pd-meter/de.md](terms-ar-pd-meter/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/de.md` |
 
 ## Client ARShades Integration Terms — 🧩 TEMPLATE
 
-Current version: **0.1.0** — a parametric **template** (mustache `{{…}}` variables), not published legal terms. Used to generate the per-client ARShades integration terms a merchant can adopt in its own legal docs: the client is the commercial counterparty of its users; Spaarkly provides the technology and remains the data controller for the processing described in the ARShades Privacy Policy. Generated instances are **not** published in this repository and must be reviewed by the client's counsel. Template files are excluded from GitHub Pages (`published: false`) so Liquid does not interpolate the variables — browse them on GitHub or via the raw URLs.
+Current version: **0.2.0** — parametric **templates** (mustache `{{…}}` variables), not published legal terms. Used to generate the per-client white-label ARShades integration terms shown and accepted in the in-experience consent module: the client is the commercial counterparty of its users; Spaarkly provides the technology and remains the data controller for the processing described in the ARShades Privacy Policy. Mirroring the canonical split, there are **two independent templates** — **VTO Services** and **AR PD Meter (standalone)** — with **no cross-reference** between the generated documents even when a client uses both. Generated instances are **not** published in this repository (they live in the `ARS_TermsAndCond` Firestore collection) and must be reviewed by the client's counsel. Template files are excluded from GitHub Pages (`published: false`) so Liquid does not interpolate the variables — browse them on GitHub or via the raw URLs.
 
 | Artifact | File |
 |---|---|
-| Governance & rules | [client-terms-template/README.md](client-terms-template/README.md) |
-| Full client terms (IT) | [client-terms-template/full/it.md](client-terms-template/full/it.md) |
-| Short clause (IT) | [client-terms-template/short-clause/it.md](client-terms-template/short-clause/it.md) |
-| Checkout/consent microcopy (IT) | [client-terms-template/microcopy/it.md](client-terms-template/microcopy/it.md) |
-| Client intake checklist (IT) | [client-terms-template/intake-checklist/it.md](client-terms-template/intake-checklist/it.md) |
-| Variables schema (JSON Schema) | [client-terms-template/schema.json](client-terms-template/schema.json) |
+| Governance & rules (shared) | [client-terms-template/README.md](client-terms-template/README.md) |
+| VTO Services — full (IT) | [client-terms-template/full/it.md](client-terms-template/full/it.md) |
+| VTO Services — short clause (IT) | [client-terms-template/short-clause/it.md](client-terms-template/short-clause/it.md) |
+| AR PD Meter — full (IT) | [client-terms-ar-pd-meter-template/full/it.md](client-terms-ar-pd-meter-template/full/it.md) |
+| AR PD Meter — short clause (IT) | [client-terms-ar-pd-meter-template/short-clause/it.md](client-terms-ar-pd-meter-template/short-clause/it.md) |
+| Client intake checklist (IT, shared) | [client-terms-template/intake-checklist/it.md](client-terms-template/intake-checklist/it.md) |
+| Variables schema (JSON Schema, shared) | [client-terms-template/schema.json](client-terms-template/schema.json) |
 
 ## Cookie Policy — 🚧 DRAFT
 

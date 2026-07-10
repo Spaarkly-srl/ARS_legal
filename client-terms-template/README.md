@@ -2,22 +2,37 @@
 published: false
 ---
 
-# Client ARShades Integration Terms — Modello (v0.1.0)
+# Client ARShades Integration Terms — Modello (v0.2.0)
 
-Modello dei **termini di integrazione ARShades "a nome del Cliente"**: il documento che un Cliente (merchant, brand, ottico) può usare nei propri legal docs o nel proprio flow per disciplinare, verso i propri utenti, le funzionalità ARShades integrate nel suo sito/app/punto vendita.
+Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label)**, rispecchia la separazione canonica in **due documenti indipendenti**:
 
-**Non è un documento in vigore e non sono "i Termini Spaarkly a nome del cliente":** è un documento distinto, il cui oggetto è l'integrazione di ARShades nell'esperienza commerciale del Cliente. I Termini Spaarkly ([terms](../terms/it.md), [terms-ar-pd-meter](../terms-ar-pd-meter/it.md)) e la [Privacy Policy](../privacy-policy/it.md) restano i documenti canonici di Spaarkly e continuano ad applicarsi direttamente agli utenti finali.
+- **Servizi VTO** — questa cartella (`client-terms-template/`): VTO, 3D Viewer, VTO Explorer, Mirror, Gateway, Campaign Catalogue.
+- **AR PD Meter** — cartella separata [`client-terms-ar-pd-meter-template/`](../client-terms-ar-pd-meter-template/): documento autosufficiente e snello per la stima della distanza pupillare.
+
+**I due documenti sono indipendenti: nessun rinvio incrociato**, anche quando il Cliente ha entrambe le soluzioni (decisione 2026-07-10). Ciascuno è mostrato e **accettato nel modulo consenso ARShades** prima della rispettiva esperienza; il modulo in-experience è l'unico punto di accettazione (nessun task legale su sito, footer o UI del Cliente). Ogni template produce due output: **full** (il testo accettato nel modulo) e **short-clause** (articolo da incollare nel corpo dei T&C del Cliente long-term). Lo **schema dei parametri** ([schema.json](schema.json)) e la [intake-checklist](intake-checklist/it.md) sono condivisi tra i due template.
+
+**Non è un documento in vigore e non sono "i Termini Spaarkly a nome del cliente":** è un documento distinto, il cui oggetto è l'integrazione di ARShades nell'esperienza commerciale del Cliente. La [Privacy Policy](../privacy-policy/it.md) ARShades resta il documento canonico del titolare e si applica sempre, in ogni configurazione; i [Termini Spaarkly](../terms/it.md) e i [Termini AR PD Meter](../terms-ar-pd-meter/it.md) restano in vigore per le esperienze non white-label. **L'utente finale di un Cliente white-label accetta le condizioni del Cliente nel modulo — mai i Termini Spaarkly**: la sostanza è garantita dai blocchi [CORE] e dalla clausola di terzo beneficiario (art. 1411 c.c.).
 
 ## Principio dei ruoli (non negoziabile)
 
 - Il **Cliente** offre l'esperienza commerciale sul proprio sito: vende/procura i prodotti, gestisce prezzi, disponibilità, prescrizioni e customer journey.
 - **Spaarkly** fornisce la tecnologia ARShades e **resta titolare del trattamento** per i trattamenti descritti nella Privacy Policy ARShades. I ruoli privacy sono funzionali (EDPB Guidelines 07/2020): non si spostano per etichetta contrattuale. Il consenso espresso AR PD Meter (inclusa la written release BIPA/CUBI/RCW) è **sempre reso a Spaarkly**, mai al Cliente.
+- Il **modulo consenso in-experience** è l'unico punto di accettazione e raccolta del consenso (senza accettazione l'esperienza non parte: il gating stesso vale come prova; nessuna persistenza server-side). Le istanze white-label sono servite al modulo dalla collezione Firestore **`ARS_TermsAndCond`**; le collezioni legacy del VTO web sono obsolete e verranno eliminate.
+
+## Superfici (dove valgono queste condizioni)
+
+- **Web / e-commerce del Cliente** — modulo consenso ARShades standard nel sito del Cliente; l'istanza white-label è servita al modulo dalla collezione `ARS_TermsAndCond`. È il caso d'uso primario del modello.
+- **Mirror** — tutto in locale, UI gestita da Spaarkly e customizzata per il Cliente: disclaimer e consenso li colloca **Spaarkly** nella UI del dispositivo. Al Cliente restano solo le condizioni materiali del dispositivo (già coperte dal blocco funzionalità del documento full).
+- **App ARShades (nostre)** — nessun impatto: valgono i [Termini Spaarkly](../terms/it.md) e i [Termini AR PD Meter](../terms-ar-pd-meter/it.md) canonici.
+- **App branded per il Cliente** — si clonano disclaimer e flussi delle app ARShades; il white-label dei termini usa lo stesso meccanismo di questo modello.
 
 ## Uso del modello
 
-1. Compilare la [intake checklist](intake-checklist/it.md) con il Cliente.
+1. Compilare la [intake checklist](intake-checklist/it.md) con il Cliente (unica per entrambi i template).
 2. Valorizzare le variabili secondo [schema.json](schema.json).
-3. Generare i tre output: [full](full/it.md) (documento completo), [short-clause](short-clause/it.md) (clausola da incollare nei T&C del Cliente), [microcopy](microcopy/it.md) (testi per checkout/consenso).
+3. Generare gli output pertinenti alle soluzioni attive:
+   - se è attiva almeno una soluzione VTO → [full](full/it.md) + [short-clause](short-clause/it.md) di questa cartella (Servizi VTO);
+   - se `ar_pd_enabled` → [full](../client-terms-ar-pd-meter-template/full/it.md) + [short-clause](../client-terms-ar-pd-meter-template/short-clause/it.md) della cartella AR PD Meter, **come documento separato**.
 4. **Il documento generato deve essere rivisto dal consulente legale del Cliente prima della pubblicazione.** Il modello è fornito "così com'è", non costituisce parere legale e non crea alcun rapporto professionale; la clausola corrispondente va inserita anche nel contratto quadro Spaarkly–Cliente (item aperto).
 
 ## Sintassi
@@ -29,7 +44,7 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente"**: il docume
 
 ## Regole sui blocchi
 
-- **[CORE]** — non modificabili dal Cliente: descrizione della tecnologia e dei flussi dati, blocco AR PD Meter (consenso, disclaimers, 18+), Shoot & Share, privacy notice Spaarkly, proprietà intellettuale, rapporto tra documenti. Ogni deviazione va approvata da Spaarkly.
+- **[CORE]** — non modificabili dal Cliente: descrizione della tecnologia e dei flussi dati, blocco AR PD Meter (consenso, disclaimers, 18+), Shoot & Share, privacy notice Spaarkly, proprietà intellettuale, clausola di terzo beneficiario, rapporto tra documenti. Ogni deviazione va approvata da Spaarkly.
 - **[CLIENT]** — adattabili dal legale del Cliente: identità e ruolo commerciale del Cliente, responsabilità di vendita, minori (policy del sito), rinvii ai documenti del Cliente.
 - **Regola prescrizioni**: se `prescription_sales_enabled = true`, il testo generato **deve** includere la verifica professionale (optician responsibility) e non può presentare la stima AR PD Meter come misura definitiva. Il blocco è già cablato nel modello: non rimuoverlo.
 
@@ -45,7 +60,7 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente"**: il docume
 
 - Il modello è versionato in [CHANGELOG.md](../CHANGELOG.md) (sezione "Client ARShades Integration Terms"). Le istanze generate riportano `template_version` e `generated_date` nell'intestazione.
 - A ogni bump del modello che tocca blocchi [CORE]: rigenerare le istanze dei Clienti e notificare i Clienti; se cambia il trattamento dati AR PD Meter, serve il rinnovo del consenso espresso degli utenti (v. Termini Generali §15.3–15.4).
-- Le variabili `ar_pd_terms_version` / `ar_pd_terms_date` vanno valorizzate dal [manifest.json](../manifest.json) al momento della generazione: la microcopy del consenso deve sempre mostrare versione e data vigenti (requisito §2.4 dei Termini AR PD Meter).
+- Il flusso di consenso AR PD Meter (requisito §2.4 dei Termini AR PD Meter: versione/data + dati, finalità, conservazione, revoca) è attuato dal **modulo consenso ARShades**, mai da testi o task richiesti al Cliente; la sua descrizione resta leggibile nella sezione AR PD Meter del documento full.
 
 ## Lingua
 
@@ -53,4 +68,4 @@ Base autentica del modello: **italiano** (decisione 2026-07-07). Le versioni in 
 
 ## Stato
 
-`status: template` nel manifest — **non è un documento legale pubblicato**. Prossimi passi: clausola nel contratto quadro Spaarkly–Cliente, pilot con un Cliente reale + revisione del consulente sull'istanza generata, poi generatore JSON → documenti.
+`status: template` nel manifest — **non è un documento legale pubblicato**. Prossimi passi: validazione del consulente sulla clausola di terzo beneficiario (art. 1411 c.c.), clausola nel contratto quadro Spaarkly–Cliente, pilot con un Cliente reale + revisione del consulente sull'istanza generata, poi generatore JSON → collezione `ARS_TermsAndCond` e aggancio del modulo consenso.

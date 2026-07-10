@@ -4,7 +4,7 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-07-08",
+  "updated": "2026-07-10",
   "documents": [
     {
       "key": "privacy-policy",
@@ -62,20 +62,26 @@
       "key": "terms",
       "title": { "it": "Termini e Condizioni — Servizi ARShades", "en": "ARShades Services — Terms and Conditions of Use" },
       "status": "published",
-      "version": "1.2",
+      "version": "1.3",
       "authoritative_language": "it",
-      "effective_date": "2026-07-07",
-      "updated": "2026-07-07",
-      "languages": ["it", "en"],
+      "effective_date": "2026-07-10",
+      "updated": "2026-07-10",
+      "languages": ["it", "en", "es", "fr", "de"],
       "page": {
         "it": "/terms/it/",
-        "en": "/terms/en/"
+        "en": "/terms/en/",
+        "es": "/terms/es/",
+        "fr": "/terms/fr/",
+        "de": "/terms/de/"
       },
       "raw": {
         "it": "/terms/it.md",
-        "en": "/terms/en.md"
+        "en": "/terms/en.md",
+        "es": "/terms/es.md",
+        "fr": "/terms/fr.md",
+        "de": "/terms/de.md"
       },
-      "notes": "Covers VTO, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). Italian authoritative; English courtesy translation."
+      "notes": "Covers VTO, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). v1.3 (2026-07-10) adds the 3D Viewer service to §1.2 and a Google Play clause to §10. Italian authoritative; en/es/fr/de are courtesy translations."
     },
     {
       "key": "terms-ar-pd-meter",
@@ -84,26 +90,32 @@
       "version": "1.2",
       "authoritative_language": "it",
       "effective_date": "2026-07-07",
-      "updated": "2026-07-07",
-      "languages": ["it", "en"],
+      "updated": "2026-07-10",
+      "languages": ["it", "en", "es", "fr", "de"],
       "page": {
         "it": "/terms-ar-pd-meter/it/",
-        "en": "/terms-ar-pd-meter/en/"
+        "en": "/terms-ar-pd-meter/en/",
+        "es": "/terms-ar-pd-meter/es/",
+        "fr": "/terms-ar-pd-meter/fr/",
+        "de": "/terms-ar-pd-meter/de/"
       },
       "raw": {
         "it": "/terms-ar-pd-meter/it.md",
-        "en": "/terms-ar-pd-meter/en.md"
+        "en": "/terms-ar-pd-meter/en.md",
+        "es": "/terms-ar-pd-meter/es.md",
+        "fr": "/terms-ar-pd-meter/fr.md",
+        "de": "/terms-ar-pd-meter/de.md"
       },
-      "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. Italian authoritative; English courtesy translation."
+      "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. es/fr/de courtesy translations added 2026-07-10. Italian authoritative; en/es/fr/de are courtesy translations."
     },
     {
       "key": "client-terms-template",
-      "title": { "it": "Modello — Termini di integrazione ARShades per Clienti", "en": "Client ARShades Integration Terms — Template" },
+      "title": { "it": "Modello — Termini di integrazione ARShades per Clienti (Servizi VTO)", "en": "Client ARShades Integration Terms — VTO Services Template" },
       "status": "template",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "authoritative_language": "it",
       "effective_date": null,
-      "updated": "2026-07-08",
+      "updated": "2026-07-10",
       "languages": ["it"],
       "page": {},
       "raw": {
@@ -112,12 +124,33 @@
       "artifacts": {
         "full": "/client-terms-template/full/it.md",
         "short_clause": "/client-terms-template/short-clause/it.md",
-        "microcopy": "/client-terms-template/microcopy/it.md",
         "intake_checklist": "/client-terms-template/intake-checklist/it.md",
         "schema": "/client-terms-template/schema.json",
         "readme": "/client-terms-template/README.md"
       },
-      "notes": "Template, not published legal terms: parametric model (mustache {{...}} variables, JSON Schema in artifacts.schema) used to generate per-client ARShades integration terms. Generated instances are NOT published in this repository and must be reviewed by the client's counsel. Excluded from GitHub Pages (front matter published: false) to avoid Liquid interpolation of the template variables. The AR PD Meter express-consent flow always names Spaarkly as data controller; consent microcopy must show the current terms-ar-pd-meter version/date (contractual requirement, AR PD Meter Terms §2.4)."
+      "notes": "Template, not published legal terms: parametric model (mustache {{...}} variables, JSON Schema in artifacts.schema) for the VTO Services (VTO, 3D Viewer, VTO Explorer, Mirror, Gateway, Campaign Catalogue), generated and accepted in the ARShades in-experience consent module. AR PD Meter has a SEPARATE, INDEPENDENT template (key: client-terms-ar-pd-meter-template): no cross-reference between the two even when the client uses both. Generated instances are NOT published here (they live in the ARS_TermsAndCond Firestore collection) and must be reviewed by the client's counsel. Excluded from GitHub Pages (front matter published: false) to avoid Liquid interpolation of the template variables."
+    },
+    {
+      "key": "client-terms-ar-pd-meter-template",
+      "title": { "it": "Modello — Termini AR PD Meter per Clienti", "en": "Client ARShades Integration Terms — AR PD Meter Template" },
+      "status": "template",
+      "version": "0.2.0",
+      "authoritative_language": "it",
+      "effective_date": null,
+      "updated": "2026-07-10",
+      "languages": ["it"],
+      "page": {},
+      "raw": {
+        "it": "/client-terms-ar-pd-meter-template/full/it.md"
+      },
+      "artifacts": {
+        "full": "/client-terms-ar-pd-meter-template/full/it.md",
+        "short_clause": "/client-terms-ar-pd-meter-template/short-clause/it.md",
+        "readme": "/client-terms-ar-pd-meter-template/README.md",
+        "schema": "/client-terms-template/schema.json",
+        "intake_checklist": "/client-terms-template/intake-checklist/it.md"
+      },
+      "notes": "Template, not published legal terms. Standalone white-label AR PD Meter terms, generated when ar_pd_enabled=true and accepted in the ARShades consent module before the measurement. INDEPENDENT of the VTO Services template (client-terms-template): no cross-reference even when the client uses both solutions; self-contained and lean (no VTO casuistry). Shares schema.json and intake-checklist with the VTO Services template. Express consent always rendered to Spaarkly as data controller (§2.4). Generated instances live in the ARS_TermsAndCond Firestore collection and must be reviewed by the client's counsel. Excluded from GitHub Pages (front matter published: false)."
     },
     {
       "key": "cookie-policy",
