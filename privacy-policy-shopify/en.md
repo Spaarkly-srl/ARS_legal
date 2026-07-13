@@ -189,9 +189,9 @@ How camera data are processed within the ARShades experiences is described in th
 
 ## 11. Children's Privacy
 
-The App is intended for use by Shopify merchants and their storefront shoppers. ARShades services are not intended to knowingly collect personal data from children below the applicable age of digital consent without appropriate consent from a parent or guardian.
+The App is intended for use by Shopify merchants and their storefront shoppers. We do not intentionally collect or process the personal data of any user—and therefore of any minor—in the absence of a valid legal basis and, in the case of minors below the applicable age of digital consent, of the consent of a parent or the holder of parental responsibility. Given the way ARShades is designed, we do not create accounts, do not request names or contact details and do not generate persistent identifiers, and we hold no data attributable to an identified or identifiable minor.
 
-If you believe that a child has provided personal data through ARShades without appropriate consent, contact us at privacy@spaarkly.com.
+Should a parent or the holder of parental responsibility believe that a minor has used the service without their consent, they may contact us at privacy@spaarkly.com to request the deletion of the data, indicating the IP address used and, where available, the approximate date and time of the session. Where such details enable us to identify the relevant data, we will immediately take steps to delete it; failing that, we recall that technical data remains in any event subject to the retention limits and automatic deletion described in this Privacy Policy.
 
 ## 12. Your Rights
 

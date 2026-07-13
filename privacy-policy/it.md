@@ -309,9 +309,11 @@ Se un utente è al di sotto di tale età, è richiesto il consenso di un genitor
 
 Ci impegniamo a proteggere la privacy dei minori e incoraggiamo genitori e tutori a monitorare attivamente l’attività online e le esperienze digitali dei minori.
 
-Non raccogliamo né trattiamo consapevolmente dati personali di minori al di sotto dell’età legale applicabile senza un consenso genitoriale verificato. Qualora venissimo a conoscenza della raccolta di tali dati senza il necessario consenso, adotteremo immediatamente misure per cancellarli.
+Non raccogliamo né trattiamo intenzionalmente dati personali di alcun utente — e pertanto di alcun minore — in assenza di una base giuridica valida e, ove si tratti di minori al di sotto dell’età legale applicabile, di un consenso genitoriale verificato.
 
-Se un genitore o tutore ritiene che il proprio figlio abbia fornito dati personali senza adeguato consenso, può contattarci all’indirizzo privacy@spaarkly.com per richiederne la cancellazione.
+Per come è progettato ARShades, non creiamo account, non richiediamo nomi o dati di contatto e non generiamo identificativi persistenti: l’elaborazione facciale avviene localmente sul dispositivo e i dati tecnici e di sessione eventualmente conservati (ad es. indirizzo IP) sono dissociati da ogni altro dato entro i termini indicati alla sez. 6. Di conseguenza non deteniamo dati riconducibili a un minore identificato o identificabile.
+
+Qualora un genitore o tutore ritenga che il proprio figlio abbia utilizzato il servizio senza il loro consenso, può contattarci all’indirizzo privacy@spaarkly.com per richiedere la cancellazione dei dati, indicando l’indirizzo IP utilizzato ed eventualmente la data e l’ora approssimative della sessione. Ove tali elementi ci consentano di individuare i dati di riferimento, adotteremo immediatamente misure per cancellarli; in caso contrario, ricordiamo che i dati tecnici sono comunque soggetti ai limiti di conservazione e cancellazione automatica descritti alla sez. 6.
 
 ## 12\. DIRITTI DELL’INTERESSATO
 

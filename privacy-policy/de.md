@@ -309,9 +309,11 @@ Liegt ein Nutzer unter diesem Alter, ist für die Verarbeitung der Daten die Ein
 
 Wir sind dem Schutz des Datenschutzes Minderjähriger verpflichtet und ermutigen Eltern und Vormünder, die Online-Aktivitäten und digitalen Erlebnisse Minderjähriger aktiv zu überwachen.
 
-Wir erheben und verarbeiten nicht wissentlich personenbezogene Daten von Minderjährigen unterhalb des anwendbaren gesetzlichen Alters ohne eine verifizierte elterliche Einwilligung. Sollten wir von der Erhebung solcher Daten ohne die erforderliche Einwilligung Kenntnis erlangen, werden wir unverzüglich Maßnahmen zu ihrer Löschung ergreifen.
+Wir erheben und verarbeiten die personenbezogenen Daten keines Nutzers – und damit auch keines Minderjährigen – wissentlich ohne eine gültige Rechtsgrundlage sowie, soweit es sich um Minderjährige unterhalb des anwendbaren gesetzlichen Alters handelt, ohne eine verifizierte elterliche Einwilligung.
 
-Ist ein Elternteil oder Vormund der Auffassung, dass sein Kind ohne die erforderliche Einwilligung personenbezogene Daten bereitgestellt hat, kann er uns unter privacy@spaarkly.com kontaktieren, um deren Löschung zu verlangen.
+So, wie ARShades konzipiert ist, legen wir keine Konten an, verlangen weder Namen noch Kontaktdaten und erzeugen keine dauerhaften Kennungen: Die Verarbeitung der Gesichtsdaten erfolgt lokal auf dem Gerät, und die etwaig aufbewahrten technischen Daten und Sitzungsdaten (z. B. die IP-Adresse) werden innerhalb der im Abschnitt „Datenerhebung und Aufbewahrungsdauer" genannten Fristen von allen übrigen Daten getrennt. Folglich halten wir keine Daten vor, die sich einem identifizierten oder identifizierbaren Minderjährigen zuordnen lassen.
+
+Ist ein Elternteil oder Vormund der Auffassung, dass sein Kind den Dienst ohne seine Einwilligung genutzt hat, kann er uns unter privacy@spaarkly.com kontaktieren, um die Löschung der Daten zu verlangen, wobei die verwendete IP-Adresse und nach Möglichkeit das ungefähre Datum und die ungefähre Uhrzeit der Sitzung anzugeben sind. Sofern uns diese Angaben ermöglichen, die betreffenden Daten aufzufinden, ergreifen wir unverzüglich Maßnahmen zu deren Löschung; andernfalls weisen wir darauf hin, dass die technischen Daten ohnehin den im Abschnitt „Datenerhebung und Aufbewahrungsdauer" beschriebenen Fristen für Aufbewahrung und automatische Löschung unterliegen.
 
 ## 12\. RECHTE DER BETROFFENEN PERSON
 

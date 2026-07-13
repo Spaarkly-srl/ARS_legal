@@ -309,9 +309,11 @@ Si un utilisateur est en dessous de cet âge, le consentement d’un parent ou t
 
 Nous nous engageons à protéger la vie privée des mineurs et encourageons les parents et tuteurs à surveiller activement l’activité en ligne et les expériences numériques des mineurs.
 
-Nous ne collectons ni ne traitons sciemment de données à caractère personnel de mineurs en dessous de l’âge légal applicable sans un consentement parental vérifié. Si nous venions à avoir connaissance de la collecte de telles données sans le consentement requis, nous prendrions immédiatement des mesures pour les effacer.
+Nous ne collectons ni ne traitons intentionnellement de données à caractère personnel d’un quelconque utilisateur — et, partant, d’un quelconque mineur — en l’absence d’une base juridique valable et, s’agissant de mineurs n’ayant pas atteint l’âge légal applicable, d’un consentement parental vérifié.
 
-Si un parent ou tuteur estime que son enfant a fourni des données à caractère personnel sans consentement approprié, il peut nous contacter à l’adresse privacy@spaarkly.com pour en demander l’effacement.
+De par la conception même d’ARShades, nous ne créons pas de comptes, ne demandons ni nom ni coordonnées et ne générons pas d’identifiants persistants : le traitement facial s’effectue localement sur l’appareil, et les données techniques et de session éventuellement conservées (par exemple l’adresse IP) sont dissociées de toute autre donnée dans les délais indiqués à la section « Collecte des données et durée de conservation ». En conséquence, nous ne détenons aucune donnée susceptible d’être rattachée à un mineur identifié ou identifiable.
+
+Si un parent ou tuteur estime que son enfant a utilisé le service sans leur consentement, il peut nous contacter à l’adresse privacy@spaarkly.com pour demander l’effacement des données, en indiquant l’adresse IP utilisée ainsi que, le cas échéant, la date et l’heure approximatives de la session. Lorsque ces éléments nous permettent d’identifier les données concernées, nous prendrons immédiatement des mesures pour les effacer ; à défaut, nous rappelons que les données techniques demeurent en tout état de cause soumises aux limites de conservation et d’effacement automatique décrites à la section « Collecte des données et durée de conservation ».
 
 ## 12\. DROITS DE LA PERSONNE CONCERNÉE
 

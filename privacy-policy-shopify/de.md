@@ -189,9 +189,9 @@ Wie Kameradaten innerhalb der ARShades-Erlebnisse verarbeitet werden, ist in der
 
 ## 11. Datenschutz für Kinder
 
-Die App ist für die Nutzung durch Shopify-Händler und deren Storefront-Käuferinnen und -Käufer bestimmt. Die ARShades-Dienste sind nicht darauf ausgerichtet, wissentlich personenbezogene Daten von Kindern unterhalb des jeweils geltenden Alters für die digitale Einwilligung ohne die entsprechende Einwilligung eines Elternteils oder Erziehungsberechtigten zu erheben.
+Die App ist für die Nutzung durch Shopify-Händler und deren Storefront-Käuferinnen und -Käufer bestimmt. Wir erheben und verarbeiten die personenbezogenen Daten keines Nutzers — und damit auch keines Kindes — wissentlich ohne eine gültige Rechtsgrundlage sowie, soweit es sich um Kinder unterhalb des jeweils geltenden Alters für die digitale Einwilligung handelt, ohne die Einwilligung eines Elternteils oder Erziehungsberechtigten. Aufgrund der Konzeption von ARShades legen wir keine Konten an, verlangen weder Namen noch Kontaktdaten und erzeugen keine dauerhaften Kennungen, und wir halten keine Daten vor, die sich einem identifizierten oder identifizierbaren Kind zuordnen lassen.
 
-Wenn Sie der Auffassung sind, dass ein Kind ohne die entsprechende Einwilligung personenbezogene Daten über ARShades bereitgestellt hat, kontaktieren Sie uns unter privacy@spaarkly.com.
+Ist ein Elternteil oder Erziehungsberechtigter der Auffassung, dass ein Kind den Dienst ohne seine Einwilligung genutzt hat, kann er uns unter privacy@spaarkly.com kontaktieren, um die Löschung der Daten zu verlangen, wobei die verwendete IP-Adresse und nach Möglichkeit das ungefähre Datum und die ungefähre Uhrzeit der Sitzung anzugeben sind. Sofern uns diese Angaben ermöglichen, die betreffenden Daten aufzufinden, ergreifen wir unverzüglich Maßnahmen zu deren Löschung; andernfalls weisen wir darauf hin, dass die technischen Daten ohnehin den in dieser Erklärung beschriebenen Fristen für Aufbewahrung und automatische Löschung unterliegen.
 
 ## 12. Ihre Rechte
 

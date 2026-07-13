@@ -309,9 +309,11 @@ If a user is below that age, the consent of a parent or guardian is required for
 
 We are committed to protecting the privacy of minors and encourage parents and guardians to actively monitor minors’ online activity and digital experiences.
 
-We do not knowingly collect or process the personal data of minors below the applicable legal age without verified parental consent. Should we become aware of the collection of such data without the necessary consent, we will immediately take steps to delete it.
+We do not intentionally collect or process the personal data of any User—and therefore of any minor—in the absence of a valid legal basis and, in the case of minors below the applicable legal age, of verified parental consent.
 
-If a parent or guardian believes that their child has provided personal data without appropriate consent, they may contact us at privacy@spaarkly.com to request its deletion.
+Given the way ARShades is designed, we do not create accounts, do not request names or contact details and do not generate persistent identifiers: facial processing takes place locally on the device, and any technical and session data that may be retained (for example, the IP address) is dissociated from all other data within the periods set out in Section 6 (Data Collection and Retention Period). Accordingly, we hold no data attributable to an identified or identifiable minor.
+
+Should a parent or guardian believe that their child has used the service without their consent, they may contact us at privacy@spaarkly.com to request the erasure of the data, indicating the IP address used and, where available, the approximate date and time of the session. Where such details enable us to identify the relevant data, we will immediately take steps to erase it; failing that, we recall that technical data remains in any event subject to the retention limits and automatic deletion described in Section 6 (Data Collection and Retention Period).
 
 ## 12\. DATA SUBJECT RIGHTS
 

@@ -189,9 +189,9 @@ Le modalità di trattamento dei dati della fotocamera nell'ambito delle esperien
 
 ## 11. Privacy dei minori
 
-L'App è destinata all'uso da parte dei merchant Shopify e degli acquirenti dei loro storefront. I servizi ARShades non sono destinati a raccogliere consapevolmente dati personali di minori al di sotto dell'età applicabile per il consenso digitale senza l'apposito consenso di un genitore o di chi esercita la responsabilità genitoriale.
+L'App è destinata all'uso da parte dei merchant Shopify e degli acquirenti dei loro storefront. Non raccogliamo né trattiamo intenzionalmente dati personali di alcun utente — e pertanto di alcun minore — in assenza di una base giuridica valida e, ove si tratti di minori al di sotto dell'età applicabile per il consenso digitale, del consenso di un genitore o di chi esercita la responsabilità genitoriale. Per come è progettato ARShades, non creiamo account, non richiediamo nomi o dati di contatto e non generiamo identificativi persistenti, e non deteniamo dati riconducibili a un minore identificato o identificabile.
 
-Qualora Lei ritenga che un minore abbia fornito dati personali tramite ARShades senza l'apposito consenso, La invitiamo a contattarci all'indirizzo privacy@spaarkly.com.
+Qualora un genitore o chi esercita la responsabilità genitoriale ritenga che un minore abbia utilizzato il servizio senza il loro consenso, può contattarci all'indirizzo privacy@spaarkly.com per richiedere la cancellazione dei dati, indicando l'indirizzo IP utilizzato ed eventualmente la data e l'ora approssimative della sessione. Ove tali elementi ci consentano di individuare i dati di riferimento, adotteremo immediatamente misure per cancellarli; in caso contrario, ricordiamo che i dati tecnici sono comunque soggetti ai limiti di conservazione e cancellazione automatica descritti nella presente Informativa.
 
 ## 12. I Suoi diritti
 

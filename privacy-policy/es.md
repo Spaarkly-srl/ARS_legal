@@ -309,9 +309,11 @@ Si un usuario es menor de dicha edad, se requiere el consentimiento de un progen
 
 Nos comprometemos a proteger la privacidad de los menores y animamos a los progenitores y tutores a supervisar activamente la actividad en línea y las experiencias digitales de los menores.
 
-No recabamos ni tratamos conscientemente datos personales de menores por debajo de la edad legal aplicable sin un consentimiento parental verificado. En caso de que tuviéramos conocimiento de la recogida de dichos datos sin el consentimiento necesario, adoptaremos de inmediato medidas para suprimirlos.
+No recabamos ni tratamos intencionadamente datos personales de ningún usuario —y, por tanto, de ningún menor— en ausencia de una base jurídica válida y, cuando se trate de menores por debajo de la edad legal aplicable, de un consentimiento parental verificado.
 
-Si un progenitor o tutor considera que su hijo ha facilitado datos personales sin el consentimiento adecuado, puede ponerse en contacto con nosotros en la dirección privacy@spaarkly.com para solicitar su supresión.
+Por el modo en que está diseñado ARShades, no creamos cuentas, no solicitamos nombres ni datos de contacto y no generamos identificadores persistentes: el análisis facial se realiza localmente en el dispositivo y los datos técnicos y de sesión que eventualmente se conserven (por ejemplo, la dirección IP) se disocian de cualquier otro dato dentro de los plazos indicados en la sección “Recogida de datos y período de conservación”. En consecuencia, no conservamos datos atribuibles a un menor identificado o identificable.
+
+Si un progenitor o tutor considera que su hijo ha utilizado el servicio sin su consentimiento, puede ponerse en contacto con nosotros en la dirección privacy@spaarkly.com para solicitar la supresión de los datos, indicando la dirección IP utilizada y, en su caso, la fecha y la hora aproximadas de la sesión. Cuando dichos elementos nos permitan localizar los datos de referencia, adoptaremos de inmediato medidas para suprimirlos; en caso contrario, recordamos que los datos técnicos quedan, en todo caso, sujetos a los límites de conservación y supresión automática descritos en la sección “Recogida de datos y período de conservación”.
 
 ## 12\. DERECHOS DEL INTERESADO
 
