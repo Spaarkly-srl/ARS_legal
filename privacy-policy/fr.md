@@ -1,6 +1,6 @@
 # POLITIQUE DE CONFIDENTIALITÉ ARSHADES
 
-*Solutions ARShades* </br> *Dernière mise à jour : 07 juillet 2026*
+*Solutions ARShades* </br> *Dernière mise à jour : 16 juillet 2026*
 
 **En vertu** du Règlement (UE) 2016/679 (« **RGPD** »), de l’**UK GDPR**, du **California Consumer Privacy Act (« CCPA »)** et de ses modifications ultérieures, dont le **California Privacy Rights Act (« CPRA »)**, des autres **lois des États américains en matière de protection de la vie privée**, dont le **Virginia Consumer Data Protection Act (« VCDPA »)**, le **Colorado Privacy Act (« CPA »)**, le **Connecticut Data Privacy Act (« CTDPA »)**, l’**Utah Consumer Privacy Act (« UCPA »)**, le **Montana Consumer Data Privacy Act (« MCDPA »)**, l’**Oregon Consumer Privacy Act (« OCPA »)**, ainsi que des autres réglementations étatiques américaines applicables en matière de vie privée, de l’**Illinois Biometric Information Privacy Act (« BIPA »)**, du **Texas Capture or Use of Biometric Identifier Act (« CUBI »)**, du **Personal Information Protection and Electronic Documents Act (« PIPEDA »)** du Canada, du **Privacy Act** australien, de la **Lei Geral de Proteção de Dados (« LGPD »)** du Brésil, du **Federal Act on Data Protection (« FADP »)** de la Suisse, de l’**Act on the Protection of Personal Information (« APPI »)** du Japon, de la **Personal Information Protection Law (« PIPL »)** de la Chine, du **Protection of Personal Information Act (« POPIA »)** de l’Afrique du Sud, du **Digital Personal Data Protection Act (« DPDP »)** de l’Inde, de la **DIFC Data Protection Law** des Émirats arabes unis, de la **Saudi Personal Data Protection Law (« PDPL »)**, du **New Zealand Privacy Act 2020**, du **Singapore Personal Data Protection Act (« PDPA »)**, du **Philippines Data Privacy Act (« DPA »)**, du **Malaysia Personal Data Protection Act (« PDPA »)** et des autres lois internationales applicables en matière de protection des données à caractère personnel, collectivement désignées « **Réglementations internationales sur la vie privée** ».
 
@@ -10,7 +10,8 @@
 *  **ARShades VTO Explorer** (« VTO Explorer »), en tant que module ou fonctionnalité intégrable à des expériences ARShades sur le web, mobile, catalogue, e-commerce, miroir, showroom ou en point de vente ;
 *  **AR PD Meter** ;
 *  **ARShades Mirror** (« Mirror ») ;
-*  **ARShades Gateway** (« Gateway », « Application autonome »).
+*  **ARShades Gateway** (« Gateway », « Application autonome ») ;
+*  **ARShades Campaign Catalogue** (« Campaign Catalogue »), en tant que catalogue de produits public accessible sur le web, intégrant des expériences ARShades.
 
 La présente **Politique de confidentialité** s’appuie sur le **RGPD** en tant que cadre réglementaire principal, tout en intégrant les exigences spécifiques prévues par les lois des pays dans lesquels nous proposons nos services. Lorsqu’il existe des différences réglementaires, celles-ci sont décrites dans les **Addenda réglementaires** annexés au présent document.
 
@@ -40,6 +41,7 @@ Aux fins de la présente Politique de confidentialité, les définitions suivant
 *  **AR PD Meter** : outil de mesure de la **distance pupillaire (PD)** qui estime la distance entre les pupilles de l’utilisateur au moyen de la **RA et de la détection de points de repère faciaux**. Les images et les flux vidéo de la caméra ne sont pas conservés, ne sont pas utilisés à des fins d’identification biométrique et ne servent pas à créer de gabarits faciaux. Pour calculer la distance pupillaire, AR PD Meter peut transmettre temporairement au backend ARShades, situé dans l’Union européenne, des données techniques dérivées telles que les points de repère faciaux, l’orientation du visage, des informations techniques relatives à l’appareil et les paramètres nécessaires au calcul. Ces données sont utilisées exclusivement pour restituer le résultat de la mesure et sont supprimées après traitement. Lorsque AR PD Meter est utilisé dans le cadre d’ARShades Mirror (par exemple pour prendre en charge l’expérience VTO Explorer dans Mirror Showroom), ces données techniques dérivées sont traitées par le backend local de l’appareil, sans transmission à des serveurs cloud, et effacées après traitement.
 *  **ARShades Mirror** : expérience d’essayage virtuel pour le commerce de détail, disponible au moyen de **miroirs numériques et de bornes en point de vente**, qui permet aux utilisateurs de parcourir des catalogues virtuels de lunetterie et d’essayer des lunettes en RA sans nécessiter la conservation de données à caractère personnel.
 *  **ARShades Gateway** : plateforme RA **autonome** qui fournit, entre autres, une expérience d’**essayage virtuel**. Elle peut, de manière facultative, **utiliser la géolocalisation, sous réserve du consentement**, afin de personnaliser les recommandations.
+*  **ARShades Campaign Catalogue** : catalogue de produits **public accessible sur le web**, disponible au moyen d’une URL dédiée, qui présente les produits de lunetterie d’une marque et permet de lancer des expériences ARShades telles que le VTO, le 3D Viewer et le VTO Explorer. La page du catalogue n’écrit ni cookies, ni stockage local (local storage), ni autres identifiants sur l’appareil de l’Utilisateur ; son utilisation est mesurée sous forme agrégée selon les modalités décrites à la section « Données de mesure d’utilisation des catalogues publics ».
 
 ## 1\. FINALITÉS DU TRAITEMENT ET BASE JURIDIQUE
 
@@ -52,7 +54,7 @@ Nous traitons les **données à caractère personnel de l’Utilisateur** afin d
 La **base juridique** de ce traitement est :
 
 *  **Fourniture des Services VTO** : permettre à l’Utilisateur d’essayer virtuellement des montures de lunetterie, de tester des formes et des tailles et d’utiliser des outils tels que la mesure de la distance pupillaire (**base juridique : exécution d’un contrat ou de mesures précontractuelles prises à la demande de l’Utilisateur, au sens de l’article 6, paragraphe 1, point b), du RGPD**).
-*  **Amélioration du service, analyse, sécurité et prévention de la fraude** : améliorer la qualité, la facilité d’utilisation, la compréhension analytique et la sécurité de nos Services, générer des statistiques anonymes sur l’utilisation et les performances des expériences ARShades, prévenir les usages illicites et la fraude et garantir l’intégrité des réseaux et des systèmes (**base juridique : intérêt légitime, article 6, paragraphe 1, point f), du RGPD**).
+*  **Amélioration du service, analyse, sécurité et prévention de la fraude** : améliorer la qualité, la facilité d’utilisation, la compréhension analytique et la sécurité de nos Services, générer des statistiques anonymes sur l’utilisation et les performances des expériences ARShades — y compris la mesure agrégée de l’utilisation des pages publiques des Campaign Catalogue —, prévenir les usages illicites et la fraude et garantir l’intégrité des réseaux et des systèmes (**base juridique : intérêt légitime, article 6, paragraphe 1, point f), du RGPD**).
 *  **Respect d’obligations légales** : satisfaire à des obligations légales ou à des injonctions des autorités compétentes en matière de conservation des données, de sécurité et d’autres exigences réglementaires (**base juridique : obligation légale, article 6, paragraphe 1, point c), du RGPD**).
 *  **Consentement, le cas échéant** : lorsque le consentement est requis, par exemple pour l’accès à la caméra ou pour d’éventuels outils d’analyse facultatifs, lorsqu’ils sont disponibles, le traitement sera fondé sur le consentement (article 6, paragraphe 1, point a), du RGPD), révocable à tout moment sans porter atteinte à la licéité du traitement effectué avant sa révocation.
 
@@ -151,6 +153,16 @@ Nous collectons des informations d’utilisation standard telles que :
 
 Ces données sont collectées afin d’améliorer les Services, de garantir la sécurité et d’analyser l’utilisation de nos solutions.
 
+### Données de mesure d’utilisation des catalogues publics (Campaign Catalogue)
+
+Lorsque l’Utilisateur consulte la page publique d’un **ARShades Campaign Catalogue**, Spaarkly mesure l’utilisation de la page sous forme agrégée, afin de fournir à ses clients des statistiques relatives aux campagnes : nombre de visites, estimation des visiteurs uniques au cours d’une même journée, profondeur de défilement de la page, interactions avec les produits et ouvertures des expériences immersives, canal de provenance de la visite et type d’appareil.
+
+Cette mesure s’effectue **sans écrire de cookies, de stockage local (local storage) ni d’autres identifiants sur l’appareil de l’Utilisateur**. À seule fin de distinguer les visites au cours d’une même journée, les systèmes de Spaarkly calculent, côté serveur, un code technique au moyen d’une fonction cryptographique de hachage non réversible appliquée à l’adresse IP et aux informations techniques du navigateur, avec un élément secret variable renouvelé toutes les 24 heures ; l’**adresse IP est écartée immédiatement après le calcul et n’est pas conservée**. Le code ainsi obtenu ne permet pas de reconnaître l’Utilisateur d’un jour à l’autre et constitue une donnée technique dérivée, **qui n’est pas utilisée pour identifier l’Utilisateur et n’est pas davantage susceptible, à elle seule, de l’identifier**. Il n’est pas utilisé à des fins de reconnaissance, de profilage individuel, de marketing ou de suivi comportemental entre différents sites ou services.
+
+Les événements d’utilisation ainsi collectés sont **effacés après l’agrégation statistique quotidienne, en principe dans un délai de 48 heures à compter de leur collecte** ; seules des statistiques agrégées, dépourvues de tout code technique, sont conservées par la suite. La base juridique de ce traitement est l’**intérêt légitime** de Spaarkly et de ses clients à mesurer l’efficacité des campagnes et l’utilisation du service (article 6, paragraphe 1, point f), du RGPD) ; l’Utilisateur peut s’y opposer selon les modalités prévues à la section « Droits de la personne concernée ».
+
+L’ouverture d’une expérience immersive depuis le catalogue (par exemple VTO ou VTO Explorer) demeure soumise aux consentements, aux informations et aux règles décrits dans les autres sections de la présente Politique.
+
 ### Images faciales ou données biométriques
 
 ARShades ne collecte, ne conserve ni ne traite d’identifiants biométriques ou d’informations biométriques au sens du RGPD ou tels que définis par des lois étatiques telles que BIPA, CUBI, CCPA ou des réglementations analogues. La technologie de mesure faciale utilisée par ARShades détecte des points de repère faciaux afin de superposer, de positionner ou de restituer les lunettes et, pour AR PD Meter, de calculer la distance pupillaire, sans générer ni conserver d’identifiants biométriques. Aucun gabarit facial, scan ou identifiant unique n’est créé, conservé ou transféré vers nos serveurs. Les données techniques dérivées éventuellement transmises au backend ARShades pour AR PD Meter sont utilisées uniquement pour restituer le résultat de la mesure et sont supprimées après traitement.
@@ -236,6 +248,7 @@ Le **VTO Mirror** partage les mêmes fonctionnalités de base que les autres sol
 
 * Les **données de mesure faciale** sont collectées localement sur l’appareil de l’Utilisateur pour le Virtual Try-On et conservées uniquement pendant la durée nécessaire à la fourniture des services ARShades VTO. Pour AR PD Meter, les données techniques dérivées nécessaires au calcul de la distance pupillaire peuvent être transmises temporairement au backend ARShades situé dans l’UE, utilisées uniquement pour restituer le résultat de la mesure et supprimées après traitement.
 * Les **données de session et de l’appareil** sont conservées sur les serveurs de Spaarkly, situés au sein de l’UE. Les **adresses IP sont effacées et pleinement dissociées de toutes les autres données dans un délai de 14 mois**. Seules des données agrégées et anonymisées sont conservées à des fins d’analyse statistique.
+* Les **données de mesure d’utilisation des catalogues publics (Campaign Catalogue)** sont effacées après l’agrégation statistique quotidienne, en principe dans un délai de 48 heures à compter de leur collecte ; seules des statistiques agrégées et anonymes sont conservées par la suite.
 * La durée de conservation des données à caractère personnel peut être prolongée dans des cas exceptionnels, par exemple pour satisfaire à des obligations légales ou à des fins de prévention de la fraude.
 
 ## 7\. POLITIQUE EN MATIÈRE DE COOKIES
@@ -247,6 +260,8 @@ ARShades n’utilise que des **cookies strictement nécessaires**, essentiels au
 *  **ne** sont **pas** utilisés à des fins d’analyse, de marketing ou de traçage par des tiers.
 
 Ces cookies étant essentiels, ils **ne requièrent pas le consentement de l’utilisateur** au sens du RGPD et de la directive ePrivacy. Les utilisateurs peuvent gérer les paramètres de leur navigateur pour bloquer ou supprimer les cookies, mais cela peut avoir une incidence sur la fonctionnalité du service.
+
+Les **pages publiques des Campaign Catalogue ne déposent ni cookies ni stockage local (local storage)** : la mesure de leur utilisation s’effectue exclusivement côté serveur, selon les modalités décrites à la section « Données de mesure d’utilisation des catalogues publics ». Les cookies décrits dans la présente section concernent les expériences ARShades (par exemple le VTO) lancées par l’Utilisateur.
 
 ### Cookies strictement nécessaires utilisés
 

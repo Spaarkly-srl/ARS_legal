@@ -4,16 +4,16 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-07-10",
+  "updated": "2026-07-16",
   "documents": [
     {
       "key": "privacy-policy",
       "title": { "it": "Informativa Privacy", "en": "Privacy Policy" },
       "status": "published",
-      "version": "5.4",
+      "version": "5.5",
       "authoritative_language": "it",
-      "effective_date": "2026-07-07",
-      "updated": "2026-07-07",
+      "effective_date": "2026-07-16",
+      "updated": "2026-07-16",
       "languages": ["it", "en", "fr", "de", "es", "ja"],
       "page": {
         "it": "/privacy-policy/it/",

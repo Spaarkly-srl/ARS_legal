@@ -17,6 +17,15 @@
 
 ## Core Privacy Policy
 
+### v5.5 — 2026-07-16
+- **ARShades Campaign Catalogue**: aggiunto alle soluzioni coperte (intestazione + Definizioni) come catalogo prodotti pubblico basato sul web.
+- **Nuova sezione §3 "Dati di misurazione d'uso dei cataloghi pubblici (Campaign Catalogue)"**: misurazione aggregata delle pagine catalogo senza cookie/local storage/identificatori sul dispositivo; hash non reversibile lato server (IP + info browser) con salt rinnovato ogni 24 ore, IP scartato subito dopo il calcolo; eventi cancellati dopo l'aggregazione giornaliera (di norma ≤48h), conservate solo statistiche aggregate; base giuridica legittimo interesse (art. 6.1.f GDPR); formula di identificabilità qualificata (invariata rispetto alla v5.4).
+- **§1**: la misurazione aggregata dei Campaign Catalogue richiamata nella finalità "miglioramento del servizio, analytics" (legittimo interesse).
+- **§6**: aggiunto il periodo di conservazione dei dati di misurazione dei cataloghi (cancellazione post-aggregazione giornaliera).
+- **§7**: precisato che le pagine pubbliche dei Campaign Catalogue non impostano cookie né local storage.
+- Origine: decisioni RPE-0021 (analytics nativi Campaign Catalogue), `ARS_product_governance/masters/campaign-catalogue/decisioni_analytics_nativi_2026-07-16.md`.
+- Lingue: IT (testo autentico), EN, FR, DE, ES, JA.
+
 ### v5.4 — 2026-07-07
 - **Formula identificabilità AR PD Meter** (feedback consulente legale): sostituita in tutte le lingue la formulazione assoluta "dati tecnici derivati **non riconducibili all'identità dell'Utente**" (EN: "not traceable to the User's identity") con la formula qualificata "**non utilizzati per identificare l'Utente e non idonei, di per sé, a identificarlo**" (EN: "not used to identify the User and not capable, on their own, of identifying the User") — 11 occorrenze per lingua, allineata ai Termini AR PD Meter v1.1+.
 - **Intestazione §3**: "Dati di misurazione facciale ~~(non biometrici)~~" — rimossa la classificazione assoluta dal titolo in tutte le lingue; la descrizione del trattamento resta invariata.
