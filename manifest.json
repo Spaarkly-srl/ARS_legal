@@ -42,20 +42,20 @@
       "updated": "2026-07-07",
       "languages": ["en", "it", "fr", "de", "es", "ja"],
       "page": {
-        "en": "/privacy-policy-shopify/en/",
-        "it": "/privacy-policy-shopify/it/",
-        "fr": "/privacy-policy-shopify/fr/",
-        "de": "/privacy-policy-shopify/de/",
-        "es": "/privacy-policy-shopify/es/",
-        "ja": "/privacy-policy-shopify/ja/"
+        "en": "/privacy-policy-plugin/en/",
+        "it": "/privacy-policy-plugin/it/",
+        "fr": "/privacy-policy-plugin/fr/",
+        "de": "/privacy-policy-plugin/de/",
+        "es": "/privacy-policy-plugin/es/",
+        "ja": "/privacy-policy-plugin/ja/"
       },
       "raw": {
-        "en": "/privacy-policy-shopify/en.md",
-        "it": "/privacy-policy-shopify/it.md",
-        "fr": "/privacy-policy-shopify/fr.md",
-        "de": "/privacy-policy-shopify/de.md",
-        "es": "/privacy-policy-shopify/es.md",
-        "ja": "/privacy-policy-shopify/ja.md"
+        "en": "/privacy-policy-plugin/en.md",
+        "it": "/privacy-policy-plugin/it.md",
+        "fr": "/privacy-policy-plugin/fr.md",
+        "de": "/privacy-policy-plugin/de.md",
+        "es": "/privacy-policy-plugin/es.md",
+        "ja": "/privacy-policy-plugin/ja.md"
       }
     },
     {

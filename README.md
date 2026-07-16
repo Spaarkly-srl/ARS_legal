@@ -4,7 +4,7 @@ Canonical public source of the **legal documents** for **Spaarkly s.r.l.** and t
 
 All Spaarkly services reference the documents in this repository. **File paths are stable**: when a document is updated, the content of the file changes but its URL does not — services pointing at these paths always serve the latest version.
 
-Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/ARS_legal/** (e.g. [/privacy-policy/it/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), [/privacy-policy-shopify/en/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy-shopify/en/)); the raw URLs below remain the canonical machine-readable endpoints. A machine-readable index of all documents is available in [`manifest.json`](manifest.json).
+Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/ARS_legal/** (e.g. [/privacy-policy/it/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), [/privacy-policy-plugin/en/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy-plugin/en/)); the raw URLs below remain the canonical machine-readable endpoints. A machine-readable index of all documents is available in [`manifest.json`](manifest.json).
 
 ## ARShades Core Privacy Policy
 
