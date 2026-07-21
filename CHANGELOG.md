@@ -2,7 +2,11 @@
 
 ## Repository
 
-### 2026-07-10 — rimozione indirizzo Spaarkly da Termini e template
+### 2026-07-21 — housekeeping: dedup Shopify policy, README allineato, sync sito
+- **Dedup**: `privacy-policy-plugin/` era una copia byte-identica di `privacy-policy-shopify/` (l'unica registrata in `manifest.json`). I 6 file `plugin/` sono ora **stub di cortesia** che puntano ai path `shopify/` (gli URL in ingresso restano vivi); `index.md` riallineato ai path canonici.
+- **Shopify policy (tutte le lingue)**: aggiornato il riferimento alla core policy "versione 5.4" → "versione 5.5" (riferimento incrociato fattuale, nessuna modifica sostanziale — versione Shopify invariata).
+- **README**: core policy 5.4 → 5.5 (16 luglio 2026), aggiunta sezione Cookie Policy (draft v0.1.0), esempio Pages corretto.
+- **CI**: aggiunto workflow `notify-website` — ogni push su `main` che tocca manifest o documenti notifica il sito marketing (`repository_dispatch`), che sincronizza i testi e apre una PR.
 - Rimosso l'indirizzo postale di Spaarkly (Via della Tecnica 18, 85100 Potenza) dai Termini Servizi (§1.1 e §20, tutte le lingue), dai Termini AR PD Meter (§1.1 e §8, tutte le lingue) e dai due template Cliente. Mantenuti ragione sociale, **P. IVA IT02077620769** ed email (`legal@spaarkly.com` / `privacy@spaarkly.com`). Aggiornamento editoriale, nessuna modifica sostanziale (versioni invariate: Termini v1.3, AR PD Meter v1.2, template v0.2.1). L'indirizzo resta nell'Informativa Privacy.
 
 ### 2026-07-07 — policy lingua autentica

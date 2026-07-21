@@ -4,11 +4,11 @@ Canonical public source of the **legal documents** for **Spaarkly s.r.l.** and t
 
 All Spaarkly services reference the documents in this repository. **File paths are stable**: when a document is updated, the content of the file changes but its URL does not — services pointing at these paths always serve the latest version.
 
-Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/ARS_legal/** (e.g. [/privacy-policy/it/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), [/privacy-policy-plugin/en/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy-plugin/en/)); the raw URLs below remain the canonical machine-readable endpoints. A machine-readable index of all documents is available in [`manifest.json`](manifest.json).
+Human-readable versions are published via GitHub Pages at **https://spaarkly-srl.github.io/ARS_legal/** (e.g. [/privacy-policy/it/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/), [/privacy-policy-shopify/en/](https://spaarkly-srl.github.io/ARS_legal/privacy-policy-shopify/en/)); the raw URLs below remain the canonical machine-readable endpoints. A machine-readable index of all documents is available in [`manifest.json`](manifest.json).
 
 ## ARShades Core Privacy Policy
 
-Current version: **5.4** — last updated **7 July 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
+Current version: **5.5** — last updated **16 July 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
 
 | Language | File | Raw URL (for services) |
 |---|---|---|
@@ -19,9 +19,18 @@ Current version: **5.4** — last updated **7 July 2026** (see [CHANGELOG](CHANG
 | Español | [privacy-policy/es.md](privacy-policy/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/es.md` |
 | 日本語 | [privacy-policy/ja.md](privacy-policy/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-policy/ja.md` |
 
+## Cookie Policy
+
+Status: **draft v0.1.0** (it, en) — final version in progress; will cover the ARShades marketing website (consent banner, first-party `ars_consent` cookie, GA4 analytics). Do not reference in production until published in `manifest.json`.
+
+| Language | File | Raw URL (for services) |
+|---|---|---|
+| Italiano | [cookie-policy/it.md](cookie-policy/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/it.md` |
+| English | [cookie-policy/en.md](cookie-policy/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/en.md` |
+
 ## ARShades VTO for Shopify — App Privacy Policy
 
-Limited to data processed in connection with Shopify; the ARShades end-user experiences launched through the app are governed by the core policy above. The English version is the authoritative text; in case of discrepancy, the English version prevails.
+Limited to data processed in connection with Shopify; the ARShades end-user experiences launched through the app are governed by the core policy above. The English version is the authoritative text; in case of discrepancy, the English version prevails. *(The former duplicate `privacy-policy-plugin/` paths now contain pointer stubs to these files.)*
 
 | Language | File | Raw URL (for services) |
 |---|---|---|

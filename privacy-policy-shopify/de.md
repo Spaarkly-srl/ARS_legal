@@ -4,7 +4,7 @@ Zuletzt aktualisiert: 7. Juli 2026
 
 Diese Datenschutzerklärung beschreibt, wie die **Spaarkly s.r.l.** („Spaarkly", „ARShades", „wir", „uns" oder „unser") personenbezogene Daten und sonstige Informationen im Zusammenhang mit der App **ARShades VTO for Shopify** (die „Shopify-App" oder die „App") verarbeitet.
 
-Diese Erklärung bezieht sich ausschließlich auf die Shopify-App und ist auf die im Zusammenhang mit Shopify verarbeiteten Daten beschränkt (Daten zu Händler, Shop, Produkten, Konfiguration und Attribution). Die Verarbeitung durch die ARShades-Endnutzerdienste — etwa Virtual Try-On, 3D/AR Viewer und AR PD Meter —, die über die App gestartet werden können, ist nicht Gegenstand dieser Erklärung und unterliegt der **ARShades Core-Datenschutzerklärung** (Version 5.4), abrufbar unter [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/de.md) und den Käuferinnen und Käufern innerhalb der ARShades-Erlebnisse angezeigt.
+Diese Erklärung bezieht sich ausschließlich auf die Shopify-App und ist auf die im Zusammenhang mit Shopify verarbeiteten Daten beschränkt (Daten zu Händler, Shop, Produkten, Konfiguration und Attribution). Die Verarbeitung durch die ARShades-Endnutzerdienste — etwa Virtual Try-On, 3D/AR Viewer und AR PD Meter —, die über die App gestartet werden können, ist nicht Gegenstand dieser Erklärung und unterliegt der **ARShades Core-Datenschutzerklärung** (Version 5.5), abrufbar unter [https://github.com/Spaarkly-srl/ARS_legal](https://github.com/Spaarkly-srl/ARS_legal/blob/main/privacy-policy/de.md) und den Käuferinnen und Käufern innerhalb der ARShades-Erlebnisse angezeigt.
 
 ## 1. Verantwortlicher
 
