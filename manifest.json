@@ -4,7 +4,7 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-07-16",
+  "updated": "2026-07-22",
   "documents": [
     {
       "key": "privacy-policy",
@@ -156,19 +156,27 @@
     {
       "key": "cookie-policy",
       "title": { "it": "Cookie Policy", "en": "Cookie Policy" },
-      "status": "draft",
-      "version": "0.1.0-draft",
+      "status": "published",
+      "version": "1.0",
       "authoritative_language": "it",
-      "effective_date": null,
-      "updated": "2026-07-07",
-      "languages": ["it", "en"],
+      "effective_date": "2026-07-22",
+      "updated": "2026-07-22",
+      "languages": ["it", "en", "fr", "de", "es", "ja"],
       "page": {
         "it": "/cookie-policy/it/",
-        "en": "/cookie-policy/en/"
+        "en": "/cookie-policy/en/",
+        "fr": "/cookie-policy/fr/",
+        "de": "/cookie-policy/de/",
+        "es": "/cookie-policy/es/",
+        "ja": "/cookie-policy/ja/"
       },
       "raw": {
         "it": "/cookie-policy/it.md",
-        "en": "/cookie-policy/en.md"
+        "en": "/cookie-policy/en.md",
+        "fr": "/cookie-policy/fr.md",
+        "de": "/cookie-policy/de.md",
+        "es": "/cookie-policy/es.md",
+        "ja": "/cookie-policy/ja.md"
       }
     }
   ]

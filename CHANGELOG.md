@@ -145,5 +145,8 @@
 
 ## Cookie Policy
 
+### v1.0 — 2026-07-22 — prima versione pubblicata
+- Cookie Policy del **sito marketing ARShades** in 6 lingue (it, en, fr, de, es, ja). Categorie (necessari, analytics, funzionali; marketing prevista ma non usata), meccanismo di consenso (`ars_consent` 12 mesi, banner a 2 layer, revoca con cancellazione `_ga*`, prova di consenso server-side senza IP/UA), tabella cookie al §4 — statica qui su GitHub Pages, iniettata dinamicamente sul sito marketing dal registro `data/cookie-registry.json`. Rimosso banner BOZZA; `status: published`, `effective_date: 2026-07-22`.
+
 ### v0.1.0-draft — 2026-07-07 — prima bozza
 - Scheletro della Cookie Policy ARShades (it/en) con banner DRAFT e placeholder `[[…]]` da completare. Non ancora in vigore.

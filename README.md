@@ -71,14 +71,18 @@ Current version: **0.2.1** — parametric **templates** (mustache `{{…}}` vari
 | Variables schema (JSON Schema, shared) | [client-terms-template/schema.json](client-terms-template/schema.json) |
 | Framework-agreement clause (IT) | [client-terms-template/framework-agreement-clause/it.md](client-terms-template/framework-agreement-clause/it.md) |
 
-## Cookie Policy — 🚧 DRAFT
+## Cookie Policy
 
-Work in progress, not yet in force. Contains `[[…]]` placeholders to complete before production.
+Cookie Policy del sito marketing ARShades — v1.0, in vigore dal 2026-07-22. Testo autoritativo in italiano; en/fr/de/es/ja sono traduzioni.
 
 | Language | File | Raw URL |
 |---|---|---|
 | Italiano | [cookie-policy/it.md](cookie-policy/it.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/it.md` |
 | English | [cookie-policy/en.md](cookie-policy/en.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/en.md` |
+| Français | [cookie-policy/fr.md](cookie-policy/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/fr.md` |
+| Deutsch | [cookie-policy/de.md](cookie-policy/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/de.md` |
+| Español | [cookie-policy/es.md](cookie-policy/es.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/es.md` |
+| 日本語 | [cookie-policy/ja.md](cookie-policy/ja.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/cookie-policy/ja.md` |
 
 ## Versioning
 
