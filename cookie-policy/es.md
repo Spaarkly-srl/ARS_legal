@@ -1,8 +1,8 @@
 # SITIO WEB ARSHADES — POLÍTICA DE COOKIES
 
-*Sitio web de marketing ARShades* </br> *Versión 1.0 — Última actualización: 22 de julio de 2026 — Fecha de entrada en vigor: 22 de julio de 2026*
+*Sitio web de marketing ARShades* </br> *Versión 1.0.1 — Última actualización: 23 de julio de 2026 — Fecha de entrada en vigor: 22 de julio de 2026*
 
-La presente Política de Cookies complementa la [Política de Privacidad del Sitio](../privacy-policy/es.md) y describe las cookies y las tecnologías similares (incluido el *localStorage*) utilizadas por el **sitio web de marketing ARShades** de **Spaarkly s.r.l.** Concierne exclusivamente al sitio web de presentación de las soluciones ARShades; las cookies y las tecnologías empleadas dentro de las experiencias de producto ARShades (por ejemplo, el Virtual Try-On iniciado por el Usuario) se describen en la Política de Privacidad de las soluciones ARShades.
+La presente Política de Cookies complementa la [Política de Privacidad del Sitio](../privacy-website/en.md) y describe las cookies y las tecnologías similares (incluido el *localStorage*) utilizadas por el **sitio web de marketing ARShades** de **Spaarkly s.r.l.** Concierne exclusivamente al sitio web de presentación de las soluciones ARShades; las cookies y las tecnologías empleadas dentro de las experiencias de producto ARShades (por ejemplo, el Virtual Try-On iniciado por el Usuario) se describen en la Política de Privacidad de las soluciones ARShades.
 
 ## 1. Qué son las cookies
 
@@ -12,14 +12,14 @@ Las cookies son pequeños archivos de texto que un sitio web almacena en tu disp
 
 - **Estrictamente necesarias / técnicas** — imprescindibles para el funcionamiento del Sitio: tu elección sobre las cookies, las preferencias de tema y de idioma, y las cookies de autenticación del área administrativa reservada. No requieren consentimiento.
 - **Analytics** — cookies de medición de **Google Analytics 4**, utilizadas exclusivamente para estadísticas agregadas de uso del Sitio. **Se instalan únicamente si habilitas la categoría "Analytics" en el banner.** La analítica está configurada en modo respetuoso con la privacidad: consentimiento denegado de forma predeterminada (Google Consent Mode v2), anonimización de la dirección IP activa, sin Google Signals, sin funcionalidades publicitarias o de remarketing, sin elaboración de perfiles cross-site.
-- **Funcionales** — tecnologías cargadas **solo a petición expresa tuya** (por ejemplo, el autocompletado de la dirección en el formulario de registro o el inicio de una demo interactiva). Dado que se activan únicamente tras una acción tuya, no aparecen en el banner inicial pero están enumeradas en la tabla del §4.
+- **Funcionales** — tecnologías cargadas **solo a petición expresa tuya** (por ejemplo, el autocompletado de la dirección en el formulario de registro o el inicio de una demo interactiva). Dado que se activan únicamente tras una acción tuya, no aparecen en el banner inicial pero están descritas en el §5.
 - **Marketing** — categoría prevista pero **actualmente no utilizada**: el Sitio no instala cookies publicitarias ni de elaboración de perfiles. En caso de introducción, el banner y la tabla se actualizarán y se solicitará de nuevo el consentimiento.
 
 ## 3. Base jurídica y consentimiento
 
 Las cookies técnicas se fundamentan en el **interés legítimo** (art. 6, apdo. 1, letra f, RGPD); todas las demás categorías se fundamentan exclusivamente en tu **consentimiento** (art. 6, apdo. 1, letra a, RGPD), recabado mediante el banner en la primera visita, con igual evidencia entre "Aceptar todo" y "Rechazar todo".
 
-Tu elección —incluido el rechazo— se conserva durante **12 meses** en la cookie first-party `ars_consent`. Una prueba mínima del consentimiento (identificador aleatorio, marca temporal, versión de la política, categorías y acción —**sin dirección IP ni user-agent**—) se registra en nuestros servidores durante el tiempo necesario para demostrar el consentimiento (hasta **26 meses**) y después se elimina automáticamente. En caso de rechazo, no se te solicitará un nuevo consentimiento durante al menos **6 meses**, salvo modificaciones sustanciales de la política.
+Tu elección —incluido el rechazo— se conserva durante **12 meses** en la cookie first-party `ars_consent`. Una prueba mínima del consentimiento (identificador aleatorio, marca temporal, versión e idioma de la política visualizada en el banner, categorías y acción —**sin dirección IP ni user-agent**—) se registra en nuestros servidores durante el tiempo necesario para demostrar el consentimiento (hasta **26 meses**) y después se elimina automáticamente. En caso de rechazo, no se te solicitará un nuevo consentimiento durante al menos **6 meses**, salvo modificaciones sustanciales de la política.
 
 ## 4. Lista de cookies
 
@@ -34,21 +34,21 @@ Tu elección —incluido el rechazo— se conserva durante **12 meses** en la co
 | `_ga_<container>` | Google LLC (Google Analytics 4) | Google Analytics 4 — mantiene el estado de la sesión. | 2 años | Analítica |
 | `__admin_session` | Spaarkly (first-party) | Autenticación del área de administración reservada (solo páginas de administración). | 5 días | Estrictamente necesarias |
 | `__admin_access` | Spaarkly (first-party) | Control de acceso al área de administración reservada (solo páginas de administración). | 1 año | Estrictamente necesarias |
-| `vto_demo_embed` | Spaarkly (webvto.it) | Demo integrada de Virtual Try-On (webvto.it, Spaarkly), cargada solo al hacer clic para iniciar la demo. No persiste cookies en este sitio. | Sesión | Funcionales |
-| `google_places_session` | Google LLC (Places API) | Autocompletado de direcciones de Google Places, cargado solo al usar el campo de dirección del formulario de registro. No persiste cookies. | Sesión | Funcionales |
 
 <!-- cookie-table:end -->
 
-Las cookies analíticas (`_ga`, `_ga_<container>`) son instaladas por Google solo tras tu consentimiento; al revocarlo, se eliminan. Los datos recabados por Google Analytics 4 se conservan durante un máximo de **14 meses**.
+Las cookies analíticas (`_ga`, `_ga_<container>`) son instaladas por Google solo tras tu consentimiento; al revocarlo, se eliminan. Los datos a nivel de usuario y de evento recabados por Google Analytics 4 se conservan durante un máximo de **14 meses**; los informes estadísticos agregados, que no contienen datos personales, pueden conservarse durante más tiempo.
+
+Además de las cookies enumeradas, el Sitio utiliza algunos **servicios cargados solo a petición expresa tuya** que no instalan cookies: están descritos en el §5.
 
 ## 5. Cookies y tecnologías de terceros
 
-El único tercero que puede instalar cookies de medición en este Sitio es **Google LLC** (Google Analytics 4), y solo tras tu consentimiento. Google LLC se adhiere al **EU–U.S. Data Privacy Framework**; para los detalles sobre las transferencias internacionales de datos, consulta la [Política de Privacidad del Sitio](../privacy-policy/es.md).
+El único tercero que puede instalar cookies de medición en este Sitio es **Google LLC** (Google Analytics 4), y solo tras tu consentimiento. Google LLC se adhiere al **EU–U.S. Data Privacy Framework**; para los detalles sobre las transferencias internacionales de datos, consulta la [Política de Privacidad del Sitio](../privacy-website/en.md).
 
-Algunas tecnologías de terceros se cargan **solo a petición expresa tuya** y no persisten cookies en este Sitio:
+Algunos **servicios cargados solo a petición expresa tuya** no instalan ni persisten cookies en este Sitio (por tanto, no aparecen en la tabla del §4, que enumera las cookies y las tecnologías de almacenamiento):
 
-- **Demos interactivas Virtual Try-On** servidas por *webvto.it* (servicio de Spaarkly), que se inician solo cuando haces clic para lanzarlas.
-- **API Google Maps Places**, utilizada por el campo de autocompletado de dirección del formulario de registro, cargada cuando seleccionas ese campo.
+- **Demos interactivas Virtual Try-On** servidas por *webvto.it* (servicio de Spaarkly): el embed se carga solo cuando haces clic para iniciar la demo y dura durante la sesión.
+- **API Google Maps Places**, utilizada por el campo de autocompletado de dirección del formulario de registro: se carga solo cuando empiezas a escribir en ese campo. Para este servicio, Google actúa como responsable del tratamiento independiente; los detalles están en la [Política de Privacidad del Sitio](../privacy-website/en.md).
 
 El área administrativa reservada y el formulario de registro utilizan además **Firebase Authentication** (Google/Firebase) para la gestión del acceso: dicho servicio almacena datos técnicos de sesión en el navegador (IndexedDB) con el único fin de mantener la autenticación, sin finalidades de rastreo o de elaboración de perfiles.
 

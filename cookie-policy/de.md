@@ -1,8 +1,8 @@
 # ARSHADES WEBSITE — COOKIE-RICHTLINIE
 
-*ARShades Marketing-Website* </br> *Version 1.0 — Zuletzt aktualisiert: 22. Juli 2026 — Datum des Inkrafttretens: 22. Juli 2026*
+*ARShades Marketing-Website* </br> *Version 1.0.1 — Zuletzt aktualisiert: 23. Juli 2026 — Datum des Inkrafttretens: 22. Juli 2026*
 
-Diese Cookie-Richtlinie ergänzt die [Datenschutzerklärung der Website](../privacy-policy/de.md) und beschreibt die Cookies und ähnlichen Technologien (einschließlich des *localStorage*), die von der **ARShades Marketing-Website** der **Spaarkly s.r.l.** verwendet werden. Sie betrifft ausschließlich die Website zur Präsentation der ARShades-Lösungen; die Cookies und Technologien, die innerhalb der ARShades-Produkterlebnisse eingesetzt werden (z. B. das vom Nutzer gestartete Virtual Try-On), werden in der Datenschutzerklärung der ARShades-Lösungen beschrieben.
+Diese Cookie-Richtlinie ergänzt die [Datenschutzerklärung der Website](../privacy-website/en.md) und beschreibt die Cookies und ähnlichen Technologien (einschließlich des *localStorage*), die von der **ARShades Marketing-Website** der **Spaarkly s.r.l.** verwendet werden. Sie betrifft ausschließlich die Website zur Präsentation der ARShades-Lösungen; die Cookies und Technologien, die innerhalb der ARShades-Produkterlebnisse eingesetzt werden (z. B. das vom Nutzer gestartete Virtual Try-On), werden in der Datenschutzerklärung der ARShades-Lösungen beschrieben.
 
 ## 1. Was Cookies sind
 
@@ -12,14 +12,14 @@ Cookies sind kleine Textdateien, die eine Website auf Ihrem Gerät speichert. Ä
 
 - **Unbedingt erforderlich / technisch** — unverzichtbar für den Betrieb der Website: Ihre Cookie-Auswahl, die Theme- und Sprachpräferenzen sowie die Authentifizierungs-Cookies des reservierten Verwaltungsbereichs. Sie erfordern keine Einwilligung.
 - **Analytics** — Messungs-Cookies von **Google Analytics 4**, die ausschließlich für aggregierte Nutzungsstatistiken der Website verwendet werden. **Sie werden nur installiert, wenn Sie die Kategorie „Analytics" im Banner aktivieren.** Analytics ist datenschutzfreundlich konfiguriert: Einwilligung standardmäßig verweigert (Google Consent Mode v2), aktive Anonymisierung der IP-Adresse, kein Google Signals, keine Werbe- oder Remarketing-Funktionen, keine seitenübergreifende Profilbildung.
-- **Funktional** — Technologien, die **nur auf Ihre ausdrückliche Anfrage** geladen werden (z. B. die automatische Vervollständigung der Adresse im Registrierungsformular oder der Start einer interaktiven Demo). Da sie ausschließlich infolge einer Ihrer Handlungen aktiviert werden, sind sie nicht im anfänglichen Banner enthalten, werden jedoch in der Tabelle in §4 aufgeführt.
+- **Funktional** — Technologien, die **nur auf Ihre ausdrückliche Anfrage** geladen werden (z. B. die automatische Vervollständigung der Adresse im Registrierungsformular oder der Start einer interaktiven Demo). Da sie ausschließlich infolge einer Ihrer Handlungen aktiviert werden, sind sie nicht im anfänglichen Banner enthalten, werden jedoch in §5 beschrieben.
 - **Marketing** — vorgesehene, aber **derzeit nicht genutzte** Kategorie: Die Website installiert weder Werbe- noch Profilbildungs-Cookies. Im Falle einer Einführung werden das Banner und die Tabelle aktualisiert und die Einwilligung erneut eingeholt.
 
 ## 3. Rechtsgrundlage und Einwilligung
 
 Die technischen Cookies stützen sich auf das **berechtigte Interesse** (Art. 6 Abs. 1 lit. f DSGVO); alle anderen Kategorien stützen sich ausschließlich auf Ihre **Einwilligung** (Art. 6 Abs. 1 lit. a DSGVO), die beim ersten Besuch über das Banner eingeholt wird, mit gleichwertiger Hervorhebung von „Alle akzeptieren" und „Alle ablehnen".
 
-Ihre Auswahl — einschließlich der Ablehnung — wird für **12 Monate** im First-Party-Cookie `ars_consent` gespeichert. Ein minimaler Nachweis der Einwilligung (zufällige Kennung, Zeitstempel, Version der Erklärung, Kategorien und Handlung — **ohne IP-Adresse und ohne User-Agent**) wird auf unseren Servern für die zum Nachweis der Einwilligung erforderliche Dauer (bis zu **26 Monate**) gespeichert und anschließend automatisch entfernt. Im Falle einer Ablehnung werden Sie für mindestens **6 Monate** nicht erneut um eine Einwilligung gebeten, sofern keine wesentlichen Änderungen der Erklärung vorliegen.
+Ihre Auswahl — einschließlich der Ablehnung — wird für **12 Monate** im First-Party-Cookie `ars_consent` gespeichert. Ein minimaler Nachweis der Einwilligung (zufällige Kennung, Zeitstempel, Version und Sprache der im Banner angezeigten Erklärung, Kategorien und Handlung — **ohne IP-Adresse und ohne User-Agent**) wird auf unseren Servern für die zum Nachweis der Einwilligung erforderliche Dauer (bis zu **26 Monate**) gespeichert und anschließend automatisch entfernt. Im Falle einer Ablehnung werden Sie für mindestens **6 Monate** nicht erneut um eine Einwilligung gebeten, sofern keine wesentlichen Änderungen der Erklärung vorliegen.
 
 ## 4. Liste der Cookies
 
@@ -34,21 +34,21 @@ Ihre Auswahl — einschließlich der Ablehnung — wird für **12 Monate** im Fi
 | `_ga_<container>` | Google LLC (Google Analytics 4) | Google Analytics 4 — hält den Sitzungsstatus. | 2 Jahre | Analyse |
 | `__admin_session` | Spaarkly (first-party) | Authentifizierung des geschützten Admin-Bereichs (nur Admin-Seiten). | 5 Tage | Unbedingt erforderlich |
 | `__admin_access` | Spaarkly (first-party) | Zugangskontrolle des geschützten Admin-Bereichs (nur Admin-Seiten). | 1 Jahr | Unbedingt erforderlich |
-| `vto_demo_embed` | Spaarkly (webvto.it) | Eingebettete Virtual-Try-On-Demo (webvto.it, Spaarkly), nur geladen, wenn Sie die Demo per Klick starten. Persistiert keine Cookies auf dieser Website. | Sitzung | Funktional |
-| `google_places_session` | Google LLC (Places API) | Google-Places-Adress-Autovervollständigung, nur beim Verwenden des Adressfelds im Registrierungsformular geladen. Persistiert keine Cookies. | Sitzung | Funktional |
 
 <!-- cookie-table:end -->
 
-Die Analytics-Cookies (`_ga`, `_ga_<container>`) werden von Google erst nach Ihrer Einwilligung installiert; bei Widerruf werden sie gelöscht. Die von Google Analytics 4 erhobenen Daten werden für maximal **14 Monate** gespeichert.
+Die Analytics-Cookies (`_ga`, `_ga_<container>`) werden von Google erst nach Ihrer Einwilligung installiert; bei Widerruf werden sie gelöscht. Die von Google Analytics 4 erhobenen Daten auf Nutzer- und Ereignisebene werden für maximal **14 Monate** gespeichert; aggregierte statistische Berichte, die keine personenbezogenen Daten enthalten, können länger aufbewahrt werden.
+
+Über die aufgeführten Cookies hinaus nutzt die Website einige **Dienste, die nur auf Ihre ausdrückliche Anfrage geladen werden** und keine Cookies installieren: Sie werden in §5 beschrieben.
 
 ## 5. Cookies und Technologien von Drittanbietern
 
-Der einzige Drittanbieter, der auf dieser Website Messungs-Cookies installieren kann, ist **Google LLC** (Google Analytics 4), und zwar nur nach Ihrer Einwilligung. Google LLC nimmt am **EU–U.S. Data Privacy Framework** teil; Einzelheiten zu den internationalen Datenübermittlungen finden Sie in der [Datenschutzerklärung der Website](../privacy-policy/de.md).
+Der einzige Drittanbieter, der auf dieser Website Messungs-Cookies installieren kann, ist **Google LLC** (Google Analytics 4), und zwar nur nach Ihrer Einwilligung. Google LLC nimmt am **EU–U.S. Data Privacy Framework** teil; Einzelheiten zu den internationalen Datenübermittlungen finden Sie in der [Datenschutzerklärung der Website](../privacy-website/en.md).
 
-Einige Technologien von Drittanbietern werden **nur auf Ihre ausdrückliche Anfrage** geladen und speichern keine Cookies auf dieser Website:
+Einige **Dienste, die nur auf Ihre ausdrückliche Anfrage geladen werden**, installieren und persistieren keine Cookies auf dieser Website (sie erscheinen daher nicht in der Tabelle in §4, die die Cookies und Speichertechnologien auflistet):
 
-- **Interaktive Virtual-Try-On-Demos**, bereitgestellt von *webvto.it* (Spaarkly-Dienst), die erst starten, wenn Sie zum Starten klicken.
-- **Google Maps Places API**, verwendet vom Feld zur automatischen Adressvervollständigung im Registrierungsformular, geladen, wenn Sie dieses Feld auswählen.
+- **Interaktive Virtual-Try-On-Demos**, bereitgestellt von *webvto.it* (Spaarkly-Dienst): Das Embed wird nur geladen, wenn Sie zum Starten der Demo klicken, und besteht für die Dauer der Sitzung.
+- **Google Maps Places API**, verwendet vom Feld zur automatischen Adressvervollständigung im Registrierungsformular: Sie wird nur geladen, wenn Sie mit der Eingabe in diesem Feld beginnen. Für diesen Dienst handelt Google als eigenständiger Verantwortlicher; die Einzelheiten finden Sie in der [Datenschutzerklärung der Website](../privacy-website/en.md).
 
 Der reservierte Verwaltungsbereich und das Registrierungsformular verwenden zudem **Firebase Authentication** (Google/Firebase) für die Verwaltung des Zugangs: Dieser Dienst speichert technische Sitzungsdaten im Browser (IndexedDB) ausschließlich zum Zweck der Aufrechterhaltung der Authentifizierung, ohne Tracking- oder Profilbildungszwecke.
 

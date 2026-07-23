@@ -145,6 +145,13 @@
 
 ## Cookie Policy
 
+### v1.0.1 — 2026-07-23 — correzioni dal secondo giro di revisione legale
+- **Cross-link corretti**: "Informativa Privacy del Sito" ora punta al nuovo documento `privacy-website/` (prima puntava per errore alla Privacy Policy delle soluzioni). Le lingue fr/de/es/ja linkano la EN finché la PP sito non sarà pubblicata nelle altre lingue.
+- **§3 prova del consenso**: aggiunta la **lingua** del banner visualizzato all'elenco dei dati registrati (il campo `locale` è già persistito nel log — EDPB 05/2020 §107-108).
+- **§4/§5**: `vto_demo_embed` e `google_places_session` non sono cookie (storage "none" nel registry) — rimossi dalla tabella cookie e descritti al §5 come "servizi caricati su richiesta"; per Google Places precisato che il caricamento avviene alla digitazione e che Google opera quale titolare autonomo.
+- **§4 retention GA4**: precisato che i 14 mesi riguardano i dati a livello di utente/evento (i report aggregati non contengono dati personali).
+- Efficacia invariata (2026-07-22); tutte e 6 le lingue.
+
 ### v1.0 — 2026-07-22 — prima versione pubblicata
 - Cookie Policy del **sito marketing ARShades** in 6 lingue (it, en, fr, de, es, ja). Categorie (necessari, analytics, funzionali; marketing prevista ma non usata), meccanismo di consenso (`ars_consent` 12 mesi, banner a 2 layer, revoca con cancellazione `_ga*`, prova di consenso server-side senza IP/UA), tabella cookie al §4 — statica qui su GitHub Pages, iniettata dinamicamente sul sito marketing dal registro `data/cookie-registry.json`. Rimosso banner BOZZA; `status: published`, `effective_date: 2026-07-22`.
 
