@@ -4,17 +4,27 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "documents": [
     {
       "key": "privacy-policy",
-      "title": { "it": "Informativa Privacy", "en": "Privacy Policy" },
+      "title": {
+        "it": "Informativa Privacy",
+        "en": "Privacy Policy"
+      },
       "status": "published",
       "version": "5.5",
       "authoritative_language": "it",
       "effective_date": "2026-07-16",
       "updated": "2026-07-16",
-      "languages": ["it", "en", "fr", "de", "es", "ja"],
+      "languages": [
+        "it",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "ja"
+      ],
       "page": {
         "it": "/privacy-policy/it/",
         "en": "/privacy-policy/en/",
@@ -34,13 +44,23 @@
     },
     {
       "key": "privacy-policy-shopify",
-      "title": { "it": "Informativa Privacy — App Shopify", "en": "Privacy Policy — Shopify App" },
+      "title": {
+        "it": "Informativa Privacy — App Shopify",
+        "en": "Privacy Policy — Shopify App"
+      },
       "status": "published",
       "version": "1.0",
       "authoritative_language": "en",
       "effective_date": "2026-07-06",
       "updated": "2026-07-07",
-      "languages": ["en", "it", "fr", "de", "es", "ja"],
+      "languages": [
+        "en",
+        "it",
+        "fr",
+        "de",
+        "es",
+        "ja"
+      ],
       "page": {
         "en": "/privacy-policy-plugin/en/",
         "it": "/privacy-policy-plugin/it/",
@@ -60,13 +80,22 @@
     },
     {
       "key": "terms",
-      "title": { "it": "Termini e Condizioni — Servizi ARShades", "en": "ARShades Services — Terms and Conditions of Use" },
+      "title": {
+        "it": "Termini e Condizioni — Servizi ARShades",
+        "en": "ARShades Services — Terms and Conditions of Use"
+      },
       "status": "published",
       "version": "1.3",
       "authoritative_language": "it",
       "effective_date": "2026-07-10",
       "updated": "2026-07-10",
-      "languages": ["it", "en", "es", "fr", "de"],
+      "languages": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de"
+      ],
       "page": {
         "it": "/terms/it/",
         "en": "/terms/en/",
@@ -85,13 +114,22 @@
     },
     {
       "key": "terms-ar-pd-meter",
-      "title": { "it": "Termini e Condizioni — AR PD Meter", "en": "AR PD Meter — Terms and Conditions of Use" },
+      "title": {
+        "it": "Termini e Condizioni — AR PD Meter",
+        "en": "AR PD Meter — Terms and Conditions of Use"
+      },
       "status": "published",
       "version": "1.2",
       "authoritative_language": "it",
       "effective_date": "2026-07-07",
       "updated": "2026-07-10",
-      "languages": ["it", "en", "es", "fr", "de"],
+      "languages": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de"
+      ],
       "page": {
         "it": "/terms-ar-pd-meter/it/",
         "en": "/terms-ar-pd-meter/en/",
@@ -110,13 +148,22 @@
     },
     {
       "key": "client-terms-template",
-      "title": { "it": "Modello — Termini di integrazione ARShades per Clienti (Servizi VTO)", "en": "Client ARShades Integration Terms — VTO Services Template" },
+      "title": {
+        "it": "Modello — Termini di integrazione ARShades per Clienti (Servizi VTO)",
+        "en": "Client ARShades Integration Terms — VTO Services Template"
+      },
       "status": "template",
       "version": "0.2.1",
       "authoritative_language": "it",
       "effective_date": null,
       "updated": "2026-07-10",
-      "languages": ["it", "en", "es", "fr", "de"],
+      "languages": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de"
+      ],
       "page": {},
       "raw": {
         "it": "/client-terms-template/full/it.md"
@@ -133,13 +180,22 @@
     },
     {
       "key": "client-terms-ar-pd-meter-template",
-      "title": { "it": "Modello — Termini AR PD Meter per Clienti", "en": "Client ARShades Integration Terms — AR PD Meter Template" },
+      "title": {
+        "it": "Modello — Termini AR PD Meter per Clienti",
+        "en": "Client ARShades Integration Terms — AR PD Meter Template"
+      },
       "status": "template",
       "version": "0.2.1",
       "authoritative_language": "it",
       "effective_date": null,
       "updated": "2026-07-10",
-      "languages": ["it", "en", "es", "fr", "de"],
+      "languages": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de"
+      ],
       "page": {},
       "raw": {
         "it": "/client-terms-ar-pd-meter-template/full/it.md"
@@ -154,14 +210,49 @@
       "notes": "Template, not published legal terms. Standalone white-label AR PD Meter terms, generated when ar_pd_enabled=true and accepted in the ARShades consent module before the measurement. INDEPENDENT of the VTO Services template (client-terms-template): no cross-reference even when the client uses both solutions; self-contained and lean (no VTO casuistry). Shares schema.json and intake-checklist with the VTO Services template. Express consent always rendered to Spaarkly as data controller (§2.4). Generated instances live in the ARS_TermsAndCond Firestore collection and must be reviewed by the client's counsel. Excluded from GitHub Pages (front matter published: false)."
     },
     {
+      "key": "privacy-website",
+      "title": {
+        "it": "Informativa Privacy — Sito web ARShades",
+        "en": "Privacy Policy — ARShades Website"
+      },
+      "status": "draft",
+      "version": "0.1.0-draft",
+      "authoritative_language": "it",
+      "effective_date": null,
+      "updated": "2026-07-23",
+      "languages": [
+        "it",
+        "en"
+      ],
+      "page": {
+        "it": "/privacy-website/it/",
+        "en": "/privacy-website/en/"
+      },
+      "raw": {
+        "it": "/privacy-website/it.md",
+        "en": "/privacy-website/en.md"
+      },
+      "notes": "Privacy notice for the ARShades marketing website only (GA4 on consent, cookie-consent proof log, Studio registration form up to the pending/email-verification phase, demo request form with Zoho Bigin CRM, Google Places as independent controller, admin area, hosting logs). Distinct from privacy-policy (ARShades solutions/services, end users) and from the future ARShades Studio privacy notice (business users). Sign-off prerequisites tracked in the draft banner."
+    },
+    {
       "key": "cookie-policy",
-      "title": { "it": "Cookie Policy", "en": "Cookie Policy" },
+      "title": {
+        "it": "Cookie Policy",
+        "en": "Cookie Policy"
+      },
       "status": "published",
       "version": "1.0",
       "authoritative_language": "it",
       "effective_date": "2026-07-22",
       "updated": "2026-07-22",
-      "languages": ["it", "en", "fr", "de", "es", "ja"],
+      "languages": [
+        "it",
+        "en",
+        "fr",
+        "de",
+        "es",
+        "ja"
+      ],
       "page": {
         "it": "/cookie-policy/it/",
         "en": "/cookie-policy/en/",
