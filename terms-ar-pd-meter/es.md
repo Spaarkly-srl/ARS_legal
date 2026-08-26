@@ -1,6 +1,6 @@
 # AR PD METER — TÉRMINOS Y CONDICIONES DE USO
 
-*Soluciones ARShades* </br> *Versión 1.2 — Última actualización: 7 de julio de 2026 — Fecha de entrada en vigor: 7 de julio de 2026*
+*Soluciones ARShades* </br> *Versión 1.3 — Última actualización: 26 de agosto de 2026 — Fecha de entrada en vigor: 26 de agosto de 2026*
 
 Los presentes términos («Términos AR PD Meter») regulan la utilización de la funcionalidad **AR PD Meter** por parte del Usuario. Son **complementarios** de los [Términos y Condiciones de Uso — Servicios ARShades](../terms/es.md) (los «Términos Generales»), que quedan incorporados mediante remisión y se aplican a AR PD Meter salvo en lo modificado a continuación. En caso de conflicto, los presentes Términos AR PD Meter prevalecen en lo que respecta a AR PD Meter.
 
@@ -8,7 +8,7 @@ Los presentes términos («Términos AR PD Meter») regulan la utilización de l
 
 1.1 **AR PD Meter** es una funcionalidad de software desarrollada por **Spaarkly s.r.l.** (P.IVA IT02077620769) que proporciona una **estimación de la distancia pupilar (PD)** del Usuario — la distancia entre los centros de las pupilas — utilizando la cámara del dispositivo del Usuario y la detección de landmarks faciales.
 
-1.2 AR PD Meter puede ofrecerse dentro del sitio web o la aplicación de un Cliente, dentro de las experiencias ARShades o como parte de una experiencia **ARShades Mirror** en el punto de venta.
+1.2 AR PD Meter puede ofrecerse dentro del sitio web o la aplicación de un Cliente o dentro de las experiencias ARShades.
 
 1.3 La medición se proporciona **únicamente con fines de comodidad comercial**, para apoyar la selección de gafas durante una experiencia de compra digital. No está destinada a fines médicos, clínicos ni diagnósticos, ni a la dispensación de lentes graduadas (véase la Sección 4).
 
@@ -30,9 +30,7 @@ Los presentes términos («Términos AR PD Meter») regulan la utilización de l
 
 3.3 Las imágenes y los flujos de vídeo de la cámara no se conservan, no se utilizan para identificación biométrica y no se utilizan para crear plantillas faciales. No se crea ni se conserva ninguna plantilla facial y los datos técnicos derivados no se incorporan (enrollment) a ninguna base de datos utilizada para identificar a las personas. En coherencia con la Política de Privacidad, los datos técnicos derivados no se utilizan para identificar al Usuario, no se utilizan para reconocimiento facial y no son aptos, por sí solos, para identificarlo.
 
-3.4 Cuando AR PD Meter se utiliza dentro de una experiencia **ARShades Mirror**, el procesamiento se realiza en el **backend local del dispositivo Mirror** y los datos se eliminan tras el procesamiento; no se produce ninguna transmisión a servidores en la nube.
-
-3.5 Los detalles completos del tratamiento se facilitan en la [Política de Privacidad de ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/es/) (versión 5.4 o posterior), incluidos los anexos regionales aplicables al país del Usuario.
+3.4 Los detalles completos del tratamiento se facilitan en la [Política de Privacidad de ARShades](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/es/) (versión 5.4 o posterior), incluidos los anexos regionales aplicables al país del Usuario.
 
 ## 4. ADVERTENCIAS SOBRE LA MEDICIÓN
 

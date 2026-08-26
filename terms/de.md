@@ -1,6 +1,6 @@
 # NUTZUNGSBEDINGUNGEN — ARSHADES-DIENSTE
 
-*ARShades-Lösungen* </br> *Version 1.3 — Zuletzt aktualisiert: 10. Juli 2026 — Datum des Inkrafttretens: 10. Juli 2026*
+*ARShades-Lösungen* </br> *Version 1.4 — Zuletzt aktualisiert: 26. August 2026 — Datum des Inkrafttretens: 26. August 2026*
 
 Die vorliegenden Bedingungen ersetzen die **„ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** vom 21. März 2025.
 
@@ -18,7 +18,7 @@ Die ARShades-Dienste sind Augmented-Reality-Softwarelösungen, die von **Spaarkl
    - **ARShades Virtual Try-On („VTO")** — die Lösung zur virtuellen Anprobe, die das virtuelle Anprobieren von Brillen mittels Augmented Reality ermöglicht;
    - **ARShades 3D Viewer („3D Viewer")** — die dreidimensionale Visualisierungslösung, die die 360°-Erkundung der Brillenmodelle (Drehung und Zoom) und, sofern das Gerät dies unterstützt, deren Darstellung in erweiterter Realität ermöglicht;
    - **ARShades VTO Explorer („VTO Explorer")** — ein Modul oder eine Funktion, die in ARShades-Erlebnisse in den Bereichen Web, Mobile, Katalog, E-Commerce, Mirror, Showroom oder im Ladengeschäft integriert werden kann;
-   - **ARShades Mirror („Mirror")** — das im Ladengeschäft oder Showroom über ein dediziertes Gerät bereitgestellte Erlebnis;
+   - **ARShades Mirror („Mirror")** — das im Ladengeschäft, im Showroom oder bei Veranstaltungen über ein dediziertes Gerät bereitgestellte Erlebnis;
    - **ARShades Gateway („Gateway")** — die eigenständige ARShades-Plattform, die unter anderem Erlebnisse der virtuellen Anprobe und einen einheitlichen Zugang zu den ARShades-Erlebnissen und den Marken-Stores bietet; sie kann optional, vorbehaltlich der Einwilligung, die Geolokalisierung nutzen;
    - **Campaign Catalogue** — ein kuratiertes digitales Katalogerlebnis, über das ein Kunde ausgewählte Brillenkollektionen oder -kampagnen präsentiert und das das VTO, die 3D-Darstellung oder andere ARShades-Funktionen einbetten kann.
 
@@ -50,7 +50,7 @@ Die ARShades-Dienste sind Augmented-Reality-Softwarelösungen, die von **Spaarkl
 
 3.3 Einige Dienste sind auch als **mobile Anwendungen** verfügbar, die über App-Stores Dritter (wie den Apple App Store und Google Play) vertrieben werden; ihr Herunterladen und ihre Installation unterliegen zudem den jeweils anwendbaren Bedingungen des Stores (siehe Abschnitt 10).
 
-3.4 Das Mirror-Erlebnis wird über ein Gerät bereitgestellt, das der Kunde in seinen Räumlichkeiten zur Verfügung stellt; die Verfügbarkeit und die materiellen Nutzungsbedingungen liegen in der Verantwortung des Kunden.
+3.4 Das Mirror-Erlebnis wird über ein dediziertes Gerät bereitgestellt, das von Spaarkly mietweise zur Verfügung gestellt und in den Räumlichkeiten des Kunden oder am Ort einer Veranstaltung installiert wird; Raum, Stromversorgung, Konnektivität, Verwahrung des Geräts und die materiellen Nutzungsbedingungen liegen in der Verantwortung des Kunden.
 
 ## 4. WESEN UND GRENZEN DER DIENSTE
 
@@ -83,9 +83,9 @@ Die ARShades-Dienste sind Augmented-Reality-Softwarelösungen, die von **Spaarkl
 
 ## 6. DATENSCHUTZ UND DATEN
 
-6.1 Die kamerabasierten Dienste (VTO, VTO Explorer, Mirror) nutzen die Kamera des für das Erlebnis verwendeten Geräts, um **die Koordinaten der Gesichtsreferenzpunkte (Gesichts-Landmarks) und die Daten zur Gesichtsausrichtung** zu erfassen, und zwar zum alleinigen Zweck, die virtuelle Brille zu positionieren und die Vorschauen des Nutzers zu erzeugen. Diese Verarbeitung erfolgt **in Echtzeit, lokal auf dem Gerät**: die Landmark-Daten werden weder gespeichert noch an die Server von Spaarkly übermittelt.
+6.1 Die kamerabasierten Dienste (VTO, VTO Explorer, Mirror) nutzen die Kamera des für das Erlebnis verwendeten Geräts, um **die Koordinaten der Gesichtsreferenzpunkte (Gesichts-Landmarks) und die Daten zur Gesichtsausrichtung** zu erfassen, und zwar zum alleinigen Zweck, die virtuelle Brille zu positionieren und die Vorschauen des Nutzers zu erzeugen. Diese Verarbeitung erfolgt **in Echtzeit, lokal auf dem Gerät**: die Landmark-Daten werden weder gespeichert noch an die Server von Spaarkly übermittelt. In der Showroom-Edition von Mirror wird aus den Landmarks auf dem Gerät eine auf durchschnittlichen anthropometrischen Werten beruhende Schätzung des Abstands zur Kamera abgeleitet, ausschließlich um die virtuellen Fassungen zu skalieren; es wird keine Pupillendistanz gemessen, und die Schätzung wird weder gespeichert noch übertragen.
 
-6.2 **VTO Explorer** kann den Nutzer bitten, während der Sitzung eine begrenzte Anzahl von Bildern aufzunehmen, um personalisierte Vorschauen mehrerer Produkte zu erzeugen. Diese Bilder werden lokal auf dem für das Erlebnis verwendeten Gerät verarbeitet und **nicht automatisch** auf die Server von Spaarkly hochgeladen. Wird das Erlebnis auf einem Gerät ausgeführt, das in einer Verkaufsstelle, einem Showroom, einem Veranstaltungsort oder an einem anderen öffentlich zugänglichen Ort installiert ist, und entscheidet sich der Nutzer, die endgültigen Fotos zu erhalten, herunterzuladen oder zu teilen (über „Shoot & Share" oder entsprechende Funktionen), so werden **ausschließlich die vom Nutzer ausgewählten endgültigen Fotos** vorübergehend auf die Server von Spaarkly hochgeladen, allein zu dem Zweck, sie dem Nutzer zur Verfügung zu stellen, und werden gemäß den Angaben in der Datenschutzerklärung gelöscht (spätestens innerhalb von 24 Stunden, sofern der Nutzer sie nicht früher löscht).
+6.2 **VTO Explorer** kann den Nutzer bitten, während der Sitzung eine begrenzte Anzahl von Bildern aufzunehmen, um personalisierte Vorschauen mehrerer Produkte zu erzeugen. Diese Bilder werden lokal auf dem für das Erlebnis verwendeten Gerät verarbeitet und **nicht automatisch** auf die Server von Spaarkly hochgeladen. Wird das Erlebnis auf einem Gerät ausgeführt, das in einer Verkaufsstelle, einem Showroom, einem Veranstaltungsort oder an einem anderen öffentlich zugänglichen Ort installiert ist, und entscheidet sich der Nutzer, die endgültigen Fotos zu erhalten, herunterzuladen oder zu teilen (über „Shoot & Share" oder entsprechende Funktionen), so werden **ausschließlich die vom Nutzer ausgewählten endgültigen Fotos** vorübergehend auf die Server von Spaarkly hochgeladen, allein zu dem Zweck, sie dem Nutzer zur Verfügung zu stellen, und werden gemäß den Angaben in der Datenschutzerklärung gelöscht (spätestens am Tag nach der Sitzung, sofern der Nutzer sie nicht früher löscht).
 
 6.3 Spaarkly verarbeitet ferner technische Daten wie Geräteinformationen, Sitzungsdaten und Nutzungsstatistiken, wie in der Datenschutzerklärung beschrieben.
 

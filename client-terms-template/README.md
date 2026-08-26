@@ -2,7 +2,7 @@
 published: false
 ---
 
-# Client ARShades Integration Terms — Modello (v0.2.1)
+# Client ARShades Integration Terms — Modello (v0.2.2)
 
 Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label)**, rispecchia la separazione canonica in **due documenti indipendenti**:
 
@@ -52,9 +52,9 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label
 
 - Naming: sempre **"AR PD Meter"** (mai ARPDMeter, AR PD Metrics, ARShades PD Meter, "PD Meter" da solo nei testi legali).
 - Identificabilità: "dati tecnici derivati **non utilizzati per identificare l'Utente e non idonei, di per sé, a identificarlo**" — mai forme assolute ("non riconducibili all'identità", "non biometrici").
-- Flusso AR PD Meter: immagini mai trasmesse né conservate → soli dati tecnici derivati → backend Spaarkly nell'Unione Europea → cancellazione immediata dopo l'elaborazione; nelle esperienze Mirror, elaborazione sul backend locale del dispositivo.
+- Flusso AR PD Meter: immagini mai trasmesse né conservate → soli dati tecnici derivati → backend Spaarkly nell'Unione Europea → cancellazione immediata dopo l'elaborazione.
 - Disclaimers: non dispositivo medico; stima indicativa; non sostituisce la misurazione di un professionista qualificato della visione; età minima 18 anni.
-- Shoot & Share: solo le foto finali selezionate dall'Utente, upload temporaneo, cancellazione entro 24 ore al più tardi.
+- Shoot & Share: solo le foto finali selezionate dall'Utente, upload temporaneo, cancellazione al più tardi entro il giorno successivo alla sessione.
 
 ## Versionamento e propagazione
 

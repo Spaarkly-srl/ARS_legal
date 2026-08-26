@@ -1,6 +1,6 @@
 # CONDITIONS GÉNÉRALES D'UTILISATION — SERVICES ARSHADES
 
-*Solutions ARShades* </br> *Version 1.3 — Dernière mise à jour : 10 juillet 2026 — Date d'entrée en vigueur : 10 juillet 2026*
+*Solutions ARShades* </br> *Version 1.4 — Dernière mise à jour : 26 août 2026 — Date d'entrée en vigueur : 26 août 2026*
 
 Les présentes Conditions remplacent les **«ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use»** du 21 mars 2025.
 
@@ -18,7 +18,7 @@ Les Services ARShades sont des solutions logicielles de réalité augmentée dé
    - **ARShades Virtual Try-On («VTO»)** — la solution d'essayage virtuel permettant l'essayage virtuel de lunettes au moyen de la réalité augmentée ;
    - **ARShades 3D Viewer («3D Viewer»)** — la solution de visualisation tridimensionnelle permettant l'exploration à 360° des modèles de lunetterie (rotation et zoom) et, lorsque le dispositif le permet, leur visualisation en réalité augmentée ;
    - **ARShades VTO Explorer («VTO Explorer»)** — un module ou une fonctionnalité intégrable dans les expériences ARShades web, mobile, catalogue, e-commerce, mirror, showroom ou en point de vente ;
-   - **ARShades Mirror («Mirror»)** — l'expérience en point de vente ou en showroom fournie au moyen d'un dispositif dédié ;
+   - **ARShades Mirror («Mirror»)** — l'expérience en point de vente, en showroom ou lors d'événements fournie au moyen d'un dispositif dédié ;
    - **ARShades Gateway («Gateway»)** — la plateforme ARShades autonome offrant, entre autres, des expériences d'essayage virtuel et un accès unifié aux expériences ARShades et aux boutiques des marques ; elle peut, de façon facultative, recourir à la géolocalisation, sous réserve du consentement ;
    - **Campaign Catalogue** — une expérience de catalogue numérique curé au moyen de laquelle un Client présente des collections ou des campagnes de lunettes sélectionnées, et qui peut incorporer le VTO, la visualisation 3D ou d'autres fonctionnalités ARShades.
 
@@ -50,7 +50,7 @@ Les Services ARShades sont des solutions logicielles de réalité augmentée dé
 
 3.3 Certains Services sont également disponibles sous forme d'**applications mobiles** distribuées via des app stores tiers (tels que l'Apple App Store et Google Play) ; leur téléchargement et leur installation sont en outre soumis aux conditions de l'app store applicables à chaque fois (voir Section 10).
 
-3.4 L'expérience Mirror est fournie au moyen d'un dispositif mis à disposition par le Client dans ses locaux ; la disponibilité et les conditions matérielles d'utilisation relèvent de la responsabilité du Client.
+3.4 L'expérience Mirror est fournie au moyen d'un dispositif dédié fourni par Spaarkly en location et installé dans les locaux du Client ou sur le lieu d'un événement ; l'espace, l'alimentation électrique, la connectivité, la garde du dispositif et les conditions matérielles d'utilisation relèvent de la responsabilité du Client.
 
 ## 4. NATURE ET LIMITES DES SERVICES
 
@@ -83,9 +83,9 @@ Les Services ARShades sont des solutions logicielles de réalité augmentée dé
 
 ## 6. CONFIDENTIALITÉ ET DONNÉES
 
-6.1 Les Services fondés sur la caméra (VTO, VTO Explorer, Mirror) utilisent la caméra du dispositif employé pour l'expérience afin de détecter **les coordonnées des points de repère du visage (points de repère faciaux) et les données d'orientation du visage**, à la seule fin de positionner les lunettes virtuelles et de générer les aperçus de l'Utilisateur. Ce traitement s'effectue **en temps réel, localement sur le dispositif** : les données relatives aux points de repère ne sont ni conservées ni transmises aux serveurs de Spaarkly.
+6.1 Les Services fondés sur la caméra (VTO, VTO Explorer, Mirror) utilisent la caméra du dispositif employé pour l'expérience afin de détecter **les coordonnées des points de repère du visage (points de repère faciaux) et les données d'orientation du visage**, à la seule fin de positionner les lunettes virtuelles et de générer les aperçus de l'Utilisateur. Ce traitement s'effectue **en temps réel, localement sur le dispositif** : les données relatives aux points de repère ne sont ni conservées ni transmises aux serveurs de Spaarkly. Dans l'édition Showroom de Mirror, une estimation de la distance à la caméra fondée sur des valeurs anthropométriques moyennes est dérivée sur le dispositif à partir des points de repère, dans le seul but de dimensionner les montures virtuelles ; aucune distance pupillaire n'est mesurée et l'estimation n'est ni conservée ni transmise.
 
-6.2 **VTO Explorer** peut demander à l'Utilisateur de capturer un nombre limité d'images au cours de la session afin de générer des aperçus personnalisés de plusieurs produits. Ces images sont traitées localement sur le dispositif employé pour l'expérience et **ne sont pas téléversées automatiquement** vers les serveurs de Spaarkly. Lorsque l'expérience est exécutée sur un dispositif installé dans un point de vente, un showroom, le lieu d'un événement ou tout autre lieu ouvert au public et que l'Utilisateur choisit d'obtenir, de télécharger ou de partager les photos finales (au moyen de «Shoot & Share» ou de fonctions équivalentes), **seules les photos finales sélectionnées par l'Utilisateur** sont téléversées temporairement vers les serveurs de Spaarkly, à la seule fin de les mettre à la disposition de l'Utilisateur, et sont supprimées conformément à ce qui est décrit dans la Politique de Confidentialité (au plus tard dans les 24 heures, si l'Utilisateur ne les supprime pas avant).
+6.2 **VTO Explorer** peut demander à l'Utilisateur de capturer un nombre limité d'images au cours de la session afin de générer des aperçus personnalisés de plusieurs produits. Ces images sont traitées localement sur le dispositif employé pour l'expérience et **ne sont pas téléversées automatiquement** vers les serveurs de Spaarkly. Lorsque l'expérience est exécutée sur un dispositif installé dans un point de vente, un showroom, le lieu d'un événement ou tout autre lieu ouvert au public et que l'Utilisateur choisit d'obtenir, de télécharger ou de partager les photos finales (au moyen de «Shoot & Share» ou de fonctions équivalentes), **seules les photos finales sélectionnées par l'Utilisateur** sont téléversées temporairement vers les serveurs de Spaarkly, à la seule fin de les mettre à la disposition de l'Utilisateur, et sont supprimées conformément à ce qui est décrit dans la Politique de Confidentialité (au plus tard le jour suivant la session, si l'Utilisateur ne les supprime pas avant).
 
 6.3 Spaarkly traite en outre des données techniques telles que des informations sur le dispositif, des données de session et des statistiques d'utilisation, comme décrit dans la Politique de Confidentialité.
 

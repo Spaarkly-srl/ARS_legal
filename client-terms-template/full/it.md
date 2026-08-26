@@ -36,7 +36,7 @@ Le presenti condizioni («Condizioni») sono presentate all'Utente, insieme all'
 {{#vto_enabled}}- **Virtual Try-On (VTO)** — la prova virtuale degli occhiali in realtà aumentata tramite la fotocamera del dispositivo.{{/vto_enabled}}
 {{#viewer_3d_enabled}}- **3D Viewer** — la visualizzazione tridimensionale che consente l'esplorazione a 360° dei modelli di occhiali (rotazione e zoom) e, ove il dispositivo lo supporti, la loro visualizzazione in realtà aumentata.{{/viewer_3d_enabled}}
 {{#vto_explorer_enabled}}- **VTO Explorer** — anteprime personalizzate di più modelli a partire da un numero limitato di immagini acquisite durante la sessione ed elaborate localmente sul dispositivo.{{/vto_explorer_enabled}}
-{{#mirror_enabled}}- **Mirror** — l'esperienza di prova virtuale su dispositivo dedicato presso i nostri punti vendita o showroom; la disponibilità e le condizioni materiali di utilizzo del dispositivo sono di nostra responsabilità.{{/mirror_enabled}}
+{{#mirror_enabled}}- **Mirror** — l'esperienza di prova virtuale su una postazione dedicata fornita da Spaarkly in noleggio e installata presso i nostri punti vendita, showroom o eventi; lo spazio, l'alimentazione, la connettività, la custodia della postazione e le condizioni materiali di utilizzo sono di nostra responsabilità.{{/mirror_enabled}}
 {{#gateway_enabled}}- **Gateway** — la piattaforma ARShades che offre esperienze di prova virtuale e un accesso unificato alle esperienze ARShades e agli store dei marchi; può facoltativamente utilizzare la geolocalizzazione, previo consenso.{{/gateway_enabled}}
 {{#campaign_catalogue_enabled}}- **Campaign Catalogue** — il catalogo digitale curato con cui presentiamo collezioni o campagne selezionate; prodotti, prezzi e informazioni commerciali sono scelti e gestiti da noi.{{/campaign_catalogue_enabled}}
 
@@ -55,7 +55,7 @@ La prova virtuale e la visualizzazione dei modelli sono un **ausilio visivo**: p
 <!-- BLOCK shoot-share [CORE] -->
 ## Foto e «Shoot & Share»
 
-Le immagini eventualmente acquisite durante una sessione VTO Explorer sono elaborate localmente sul dispositivo impiegato per l'esperienza e **non vengono caricate automaticamente** sui server di Spaarkly. Se l'esperienza avviene su un dispositivo installato presso un punto vendita, uno showroom, la sede di un evento o altro luogo aperto al pubblico e l'Utente sceglie di ottenere, scaricare o condividere le foto finali («Shoot & Share» o funzioni equivalenti), **esclusivamente le foto finali selezionate dall'Utente** vengono caricate temporaneamente sui server di Spaarkly, al solo fine di renderle disponibili all'Utente, e sono cancellate al più tardi entro 24 ore (prima, se l'Utente le cancella).
+Le immagini eventualmente acquisite durante una sessione VTO Explorer sono elaborate localmente sul dispositivo impiegato per l'esperienza e **non vengono caricate automaticamente** sui server di Spaarkly. Se l'esperienza avviene su un dispositivo installato presso un punto vendita, uno showroom, la sede di un evento o altro luogo aperto al pubblico e l'Utente sceglie di ottenere, scaricare o condividere le foto finali («Shoot & Share» o funzioni equivalenti), **esclusivamente le foto finali selezionate dall'Utente** vengono caricate temporaneamente sui server di Spaarkly, al solo fine di renderle disponibili all'Utente, e sono cancellate al più tardi entro il giorno successivo alla sessione (prima, se l'Utente le cancella).
 <!-- /BLOCK shoot-share -->
 {{/shoot_share_enabled}}
 

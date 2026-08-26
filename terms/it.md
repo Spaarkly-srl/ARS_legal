@@ -1,6 +1,6 @@
 # TERMINI E CONDIZIONI D'USO — SERVIZI ARSHADES
 
-*Soluzioni ARShades* </br> *Versione 1.3 — Ultimo aggiornamento: 10 luglio 2026 — Data di efficacia: 10 luglio 2026*
+*Soluzioni ARShades* </br> *Versione 1.4 — Ultimo aggiornamento: 26 agosto 2026 — Data di efficacia: 26 agosto 2026*
 
 I presenti Termini sostituiscono i **«ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use»** del 21 marzo 2025.
 
@@ -18,7 +18,7 @@ I Servizi ARShades sono soluzioni software di realtà aumentata sviluppate da **
    - **ARShades Virtual Try-On («VTO»)** — la soluzione di prova virtuale che consente la prova virtuale di occhiali mediante la realtà aumentata;
    - **ARShades 3D Viewer («3D Viewer»)** — la soluzione di visualizzazione tridimensionale che consente l'esplorazione a 360° dei modelli di occhialeria (rotazione e zoom) e, ove il dispositivo lo supporti, la loro visualizzazione in realtà aumentata;
    - **ARShades VTO Explorer («VTO Explorer»)** — un modulo o una funzionalità integrabile nelle esperienze ARShades web, mobile, catalogo, e-commerce, mirror, showroom o presso punti vendita;
-   - **ARShades Mirror («Mirror»)** — l'esperienza presso punti vendita o showroom erogata tramite un dispositivo dedicato;
+   - **ARShades Mirror («Mirror»)** — l'esperienza presso punti vendita, showroom o eventi erogata tramite una postazione dedicata;
    - **ARShades Gateway («Gateway»)** — la piattaforma ARShades autonoma che offre, tra l'altro, esperienze di prova virtuale e un accesso unificato alle esperienze ARShades e agli store dei marchi; essa può facoltativamente utilizzare la geolocalizzazione, previo consenso;
    - **Campaign Catalogue** — un'esperienza di catalogo digitale curato mediante la quale un Cliente presenta collezioni o campagne di occhiali selezionate, che può incorporare il VTO, la visualizzazione 3D o altre funzionalità ARShades.
 
@@ -50,7 +50,7 @@ I Servizi ARShades sono soluzioni software di realtà aumentata sviluppate da **
 
 3.3 Alcuni Servizi sono disponibili anche come **applicazioni mobili** distribuite tramite app store di terze parti (quali l'Apple App Store e Google Play); il loro download e la loro installazione sono altresì soggetti ai termini dello store di volta in volta applicabili (v. Sezione 10).
 
-3.4 L'esperienza Mirror è erogata tramite un dispositivo messo a disposizione dal Cliente presso i propri locali; la disponibilità e le condizioni materiali di utilizzo sono di responsabilità del Cliente.
+3.4 L'esperienza Mirror è erogata tramite una postazione dedicata fornita da Spaarkly in noleggio e installata presso i locali del Cliente o presso la sede di un evento; lo spazio, l'alimentazione, la connettività, la custodia della postazione e le condizioni materiali di utilizzo sono di responsabilità del Cliente.
 
 ## 4. NATURA E LIMITI DEI SERVIZI
 
@@ -83,9 +83,9 @@ I Servizi ARShades sono soluzioni software di realtà aumentata sviluppate da **
 
 ## 6. PRIVACY E DATI
 
-6.1 I Servizi basati sulla fotocamera (VTO, VTO Explorer, Mirror) utilizzano la fotocamera del dispositivo impiegato per l'esperienza al fine di rilevare **le coordinate dei punti di riferimento del volto (landmark facciali) e i dati di orientamento del viso**, al solo scopo di posizionare gli occhiali virtuali e generare le anteprime dell'Utente. Tale trattamento avviene **in tempo reale, localmente sul dispositivo**: i dati relativi ai landmark non vengono memorizzati né trasmessi ai server di Spaarkly.
+6.1 I Servizi basati sulla fotocamera (VTO, VTO Explorer, Mirror) utilizzano la fotocamera del dispositivo impiegato per l'esperienza al fine di rilevare **le coordinate dei punti di riferimento del volto (landmark facciali) e i dati di orientamento del viso**, al solo scopo di posizionare gli occhiali virtuali e generare le anteprime dell'Utente. Tale trattamento avviene **in tempo reale, localmente sul dispositivo**: i dati relativi ai landmark non vengono memorizzati né trasmessi ai server di Spaarkly. Nell'edizione Showroom di Mirror, dai landmark è derivata sul dispositivo una stima della distanza dalla fotocamera basata su valori antropometrici medi, al solo fine di dimensionare le montature virtuali; non viene misurata alcuna distanza pupillare e la stima non è conservata né trasmessa.
 
-6.2 **VTO Explorer** può chiedere all'Utente di acquisire un numero limitato di immagini durante la sessione per generare anteprime personalizzate di più prodotti. Tali immagini sono elaborate localmente sul dispositivo impiegato per l'esperienza e **non vengono caricate automaticamente** sui server di Spaarkly. Qualora l'esperienza sia eseguita su un dispositivo installato presso un punto vendita, uno showroom, la sede di un evento o altro luogo aperto al pubblico e l'Utente scelga di ottenere, scaricare o condividere le foto finali (tramite «Shoot & Share» o funzioni equivalenti), **esclusivamente le foto finali selezionate dall'Utente** vengono caricate temporaneamente sui server di Spaarkly, al solo fine di renderle disponibili all'Utente, e sono cancellate secondo quanto descritto nell'Informativa Privacy (al più tardi entro 24 ore, ove l'Utente non le cancelli prima).
+6.2 **VTO Explorer** può chiedere all'Utente di acquisire un numero limitato di immagini durante la sessione per generare anteprime personalizzate di più prodotti. Tali immagini sono elaborate localmente sul dispositivo impiegato per l'esperienza e **non vengono caricate automaticamente** sui server di Spaarkly. Qualora l'esperienza sia eseguita su un dispositivo installato presso un punto vendita, uno showroom, la sede di un evento o altro luogo aperto al pubblico e l'Utente scelga di ottenere, scaricare o condividere le foto finali (tramite «Shoot & Share» o funzioni equivalenti), **esclusivamente le foto finali selezionate dall'Utente** vengono caricate temporaneamente sui server di Spaarkly, al solo fine di renderle disponibili all'Utente, e sono cancellate secondo quanto descritto nell'Informativa Privacy (al più tardi entro il giorno successivo alla sessione, ove l'Utente non le cancelli prima).
 
 6.3 Spaarkly tratta inoltre dati tecnici quali informazioni sul dispositivo, dati di sessione e statistiche di utilizzo, come descritto nell'Informativa Privacy.
 

@@ -17,6 +17,14 @@
 
 ## Core Privacy Policy
 
+### v5.6 — 2026-08-26 — allineamento al Master ARShades Mirror
+- **Regola di cancellazione** delle foto finali da dispositivi in-store: «entro 24 ore» → «**entro il giorno successivo alla sessione**» (§4, §5 e 9 addenda regionali). Invariato il salt del Campaign Catalogue «rinnovato ogni 24 ore» (§3), che non è una retention.
+- **Naming**: «VTO Mirror» / «Mirror Showroom» → «**ARShades Mirror**» / «edizione ARShades Mirror Showroom» (Definizioni, §2b, titolo §5); nelle Definizioni la descrizione del prodotto (postazioni dedicate in punti vendita, showroom e sedi di eventi; edizioni Showroom, Portrait e Photobooth) sostituisce «specchi digitali e chioschi in-store».
+- **§5**: formula sul volto allineata al Master («elaborati in tempo reale, localmente sul dispositivo, senza template persistenti né riconoscimento dell'identità; nessun flusso video lascia la postazione»). **Rimosse** le frasi sull'uso di AR PD Meter nel Mirror (Definizioni, §3, §5): il Mirror non misura la distanza pupillare — nell'edizione Showroom dai landmark è derivata sul dispositivo una **stima della distanza dalla fotocamera basata su valori antropometrici medi**, al solo fine di dimensionare le montature virtuali, non conservata né trasmessa (verifica di codice `ARS_Mirror` 26/08/2026).
+- **Modulo AI locale (§2)**: attributi stimati = genere, fascia d'età, presenza di occhiali; la stima di ulteriori attributi demografici generali è **disattivata per impostazione predefinita** e attivabile solo per specifici progetti, previa valutazione legale, con indicazione nell'informativa mostrata sul dispositivo.
+- Origine: `ARS_product_governance/masters/mirror/master_mirror.md` §13, §18, §20 (decisioni D3, D4, B6, B8 del 26/08/2026).
+- Lingue: IT (testo autentico), EN, FR, DE, ES, JA.
+
 ### v5.5 — 2026-07-16
 - **ARShades Campaign Catalogue**: aggiunto alle soluzioni coperte (intestazione + Definizioni) come catalogo prodotti pubblico basato sul web.
 - **Nuova sezione §3 "Dati di misurazione d'uso dei cataloghi pubblici (Campaign Catalogue)"**: misurazione aggregata delle pagine catalogo senza cookie/local storage/identificatori sul dispositivo; hash non reversibile lato server (IP + info browser) con salt rinnovato ogni 24 ore, IP scartato subito dopo il calcolo; eventi cancellati dopo l'aggregazione giornaliera (di norma ≤48h), conservate solo statistiche aggregate; base giuridica legittimo interesse (art. 6.1.f GDPR); formula di identificabilità qualificata (invariata rispetto alla v5.4).
@@ -59,6 +67,12 @@
 
 ## Terms & Conditions (Servizi ARShades)
 
+### v1.4 — 2026-08-26 — Mirror: postazione in noleggio, regola di cancellazione
+- **§1.2**: Mirror = esperienza presso punti vendita, showroom o eventi erogata tramite una postazione dedicata.
+- **§3.4**: la postazione è **fornita da Spaarkly in noleggio** e installata presso i locali del Cliente o la sede di un evento (prima: «dispositivo messo a disposizione dal Cliente»); spazio, alimentazione, connettività, custodia e condizioni materiali di utilizzo restano di responsabilità del Cliente.
+- **§6.1**: aggiunta la stima della distanza dalla fotocamera da valori antropometrici medi nell'edizione Showroom (nessuna misura della distanza pupillare; non conservata né trasmessa). **§6.2**: foto finali cancellate «al più tardi entro il giorno successivo alla sessione».
+- Origine: Master ARShades Mirror v1.0.0 (§13, §16, §18). Lingue: it (autentico), en, es, fr, de.
+
 ### v1.3 — 2026-07-10 — 3D Viewer, Google Play, traduzioni es/fr/de
 - **§1.2**: aggiunto il servizio **ARShades 3D Viewer** (visualizzazione 3D a 360° dei modelli + modalità in realtà aumentata) all'elenco dei Servizi, in tutte le lingue.
 - **§10**: aggiunta la clausola **Google Play** (§10.3: Google non è parte, nessun obbligo di garanzia/manutenzione, distribuzione soggetta ai termini di Google Play, dichiarazione export) accanto al blocco Apple; rinumerati i successivi §10.4/§10.5. Motivazione: 2 app native VTO (iOS + Android).
@@ -92,6 +106,10 @@
 
 ## AR PD Meter — Terms & Conditions
 
+### v1.3 — 2026-08-26 — rimosso il flusso «Mirror locale»
+- **§1.2** e **§3.4** (rimossa; la vecchia §3.5 diventa §3.4): eliminato il riferimento all'uso di AR PD Meter nelle esperienze ARShades Mirror — anticipatorio e non corrispondente al prodotto (il Mirror non misura la distanza pupillare; Master Mirror B6). Nessuna modifica al flusso web/app né al consenso espresso.
+- Lingue: it (autentico), en, es, fr, de.
+
 ### 2026-07-10 — traduzioni es/fr/de
 - Pubblicate le versioni **es, fr, de** (`terms-ar-pd-meter/{es,fr,de}.md`); i Termini AR PD Meter esistono ora in it (autentico), en, es, fr, de. Nessuna modifica sostanziale alle clausole (resta v1.2); formula di identificabilità qualificata allineata alla PP v5.4 nelle rispettive lingue, clausola Lingua (italiano facente fede) preservata.
 
@@ -112,6 +130,11 @@
 - Traduzioni: in preparazione.
 
 ## Client ARShades Integration Terms — Modello T&C Cliente
+
+### v0.2.2 — 2026-08-26 — allineamento al Master ARShades Mirror
+- **Servizi VTO — full**: blocco Mirror riscritto (postazione fornita da Spaarkly in noleggio e installata presso punti vendita, showroom o eventi del Cliente; spazio, alimentazione, connettività, custodia e condizioni materiali a cura del Cliente); Shoot & Share «al più tardi entro il giorno successivo alla sessione» (anche nelle formule vincolate del README).
+- **AR PD Meter — full**: rimosso il blocco condizionale `mirror_enabled` («backend locale del dispositivo Mirror»); il template AR PD Meter non usa più `mirror_enabled` (resta nello schema per il template Servizi VTO). README: tolto «su Mirror elaborazione locale».
+- Lingue: it, en, es, fr, de.
 
 ### 2026-07-10 — clausola per il contratto quadro
 - **Clausola contrattuale** per l'accordo quadro Spaarkly–Cliente (`framework-agreement-clause/it.md`): fornitura as-is / non parere legale, obbligo di revisione del legale del Cliente, integrità dei Blocchi CORE, accettazione degli aggiornamenti/propagazione, ruoli privacy (Spaarkly titolare, Cliente riceve solo dati aggregati/anonimizzati), IP del Modello, responsabilità e manleva.

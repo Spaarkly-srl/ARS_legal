@@ -1,6 +1,6 @@
 # AR PD METER — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.2 — Last updated: 7 July 2026 — Effective date: 7 July 2026*
+*ARShades solutions* </br> *Version 1.3 — Last updated: 26 August 2026 — Effective date: 26 August 2026*
 
 These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature. They are **supplemental** to the [ARShades Services — Terms and Conditions of Use](../terms/en.md) (the "General Terms"), which are incorporated by reference and apply to AR PD Meter except as modified below. In case of conflict, these AR PD Meter Terms prevail with respect to AR PD Meter.
 
@@ -8,7 +8,7 @@ These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature
 
 1.1 **AR PD Meter** is a software feature developed by **Spaarkly s.r.l.** (VAT No. IT02077620769) that provides an **estimate of your pupillary distance (PD)** — the distance between the centres of your pupils — using your device's camera and facial landmark detection.
 
-1.2 AR PD Meter may be offered within a Client's website or application, within ARShades experiences, or as part of an **ARShades Mirror** experience in-store.
+1.2 AR PD Meter may be offered within a Client's website or application or within ARShades experiences.
 
 1.3 The measurement is provided for **commercial convenience only**, to support the selection of eyewear during a digital shopping experience. It is not intended for medical, clinical or diagnostic purposes, nor for the dispensing of prescription lenses (see Section 4).
 
@@ -30,9 +30,7 @@ These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature
 
 3.3 Camera images and video streams are not retained, are not used for biometric identification and are not used to create facial templates. No facial template is created or stored, and the derived technical data are not enrolled in any database used to identify individuals. Consistently with the Privacy Policy, the derived technical data are not used to identify you, are not used for facial recognition, and are not capable, on their own, of identifying you.
 
-3.4 When AR PD Meter is used within an **ARShades Mirror** experience, the processing takes place on the **local backend of the Mirror device**, and the data are deleted after processing; no cloud transmission occurs.
-
-3.5 Full details of the processing are provided in the [ARShades Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/) (version 5.4 or later), including the regional addenda applicable to your country.
+3.4 Full details of the processing are provided in the [ARShades Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/) (version 5.4 or later), including the regional addenda applicable to your country.
 
 ## 4. MEASUREMENT DISCLAIMER
 

@@ -8,7 +8,7 @@ Human-readable versions are published via GitHub Pages at **https://spaarkly-srl
 
 ## ARShades Core Privacy Policy
 
-Current version: **5.4** — last updated **7 July 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
+Current version: **5.6** — last updated **26 August 2026** (see [CHANGELOG](CHANGELOG.md)). The Italian version is the authoritative text; in case of discrepancy, the Italian version prevails.
 
 | Language | File | Raw URL (for services) |
 |---|---|---|
@@ -34,7 +34,7 @@ Limited to data processed in connection with Shopify; the ARShades end-user expe
 
 ## ARShades Services — Terms & Conditions
 
-Current version: **1.3** — effective **10 July 2026**. Covers ARShades Virtual Try-On, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
+Current version: **1.4** — effective **26 August 2026**. Covers ARShades Virtual Try-On, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
 
 | Language | File | Raw URL |
 |---|---|---|
@@ -46,7 +46,7 @@ Current version: **1.3** — effective **10 July 2026**. Covers ARShades Virtual
 
 ## AR PD Meter — Terms & Conditions
 
-Current version: **1.2** — effective **7 July 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
+Current version: **1.3** — effective **26 August 2026**. Supplemental to the ARShades Services Terms: measurement disclaimer (indicative estimate, not a medical device, does not replace a professional measurement) and express-consent flow for the derived technical data processed on the EU backend. The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
 
 | Language | File | Raw URL |
 |---|---|---|
@@ -58,7 +58,7 @@ Current version: **1.2** — effective **7 July 2026**. Supplemental to the ARSh
 
 ## Client ARShades Integration Terms — 🧩 TEMPLATE
 
-Current version: **0.2.1** — parametric **templates** (mustache `{{…}}` variables), not published legal terms. Used to generate the per-client white-label ARShades integration terms shown and accepted in the in-experience consent module: the client is the commercial counterparty of its users; Spaarkly provides the technology and remains the data controller for the processing described in the ARShades Privacy Policy. Mirroring the canonical split, there are **two independent templates** — **VTO Services** and **AR PD Meter (standalone)** — with **no cross-reference** between the generated documents even when a client uses both. Generated instances are **not** published in this repository (they live in the `ARS_TermsAndCond` Firestore collection) and must be reviewed by the client's counsel. Template files are excluded from GitHub Pages (`published: false`) so Liquid does not interpolate the variables — browse them on GitHub or via the raw URLs.
+Current version: **0.2.2** — parametric **templates** (mustache `{{…}}` variables), not published legal terms. Used to generate the per-client white-label ARShades integration terms shown and accepted in the in-experience consent module: the client is the commercial counterparty of its users; Spaarkly provides the technology and remains the data controller for the processing described in the ARShades Privacy Policy. Mirroring the canonical split, there are **two independent templates** — **VTO Services** and **AR PD Meter (standalone)** — with **no cross-reference** between the generated documents even when a client uses both. Generated instances are **not** published in this repository (they live in the `ARS_TermsAndCond` Firestore collection) and must be reviewed by the client's counsel. Template files are excluded from GitHub Pages (`published: false`) so Liquid does not interpolate the variables — browse them on GitHub or via the raw URLs.
 
 | Artifact | File |
 |---|---|

@@ -1,6 +1,6 @@
 # ARSHADES SERVICES — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.3 — Last updated: 10 July 2026 — Effective date: 10 July 2026*
+*ARShades solutions* </br> *Version 1.4 — Last updated: 26 August 2026 — Effective date: 26 August 2026*
 
 These Terms supersede the **"ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** dated 21 March 2025.
 
@@ -18,7 +18,7 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
    - **ARShades Virtual Try-On ("VTO")** — the virtual try-on solution enabling the virtual fitting of eyewear through augmented reality;
    - **ARShades 3D Viewer ("3D Viewer")** — the three-dimensional viewing solution enabling 360° exploration of eyewear models (rotation and zoom) and, where the device supports it, their viewing in augmented reality;
    - **ARShades VTO Explorer ("VTO Explorer")** — a module or feature integrable in ARShades web, mobile, catalogue, e-commerce, mirror, showroom or in-store experiences;
-   - **ARShades Mirror ("Mirror")** — the in-store or showroom experience delivered through a dedicated device;
+   - **ARShades Mirror ("Mirror")** — the experience at points of sale, showrooms or events delivered through a dedicated station;
    - **ARShades Gateway ("Gateway")** — the standalone ARShades platform providing, among other things, virtual try-on experiences and unified access to ARShades experiences and branded stores; it may optionally use geolocation, subject to consent;
    - **Campaign Catalogue** — a curated digital catalogue experience through which a Client presents selected eyewear collections or campaigns, which may embed VTO, 3D viewing or other ARShades features.
 
@@ -50,7 +50,7 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 3.3 Some Services are also available as **mobile applications** distributed through third-party app stores (such as the Apple App Store and Google Play); their download and installation are additionally subject to the applicable store terms (see Section 10).
 
-3.4 The Mirror experience is delivered through a device made available by the Client at its premises; availability and physical conditions of use are the Client's responsibility.
+3.4 The Mirror experience is delivered through a dedicated station supplied by Spaarkly on a rental basis and installed at the Client's premises or at an event venue; the space, power supply, connectivity and custody of the station, and the physical conditions of use, are the Client's responsibility.
 
 ## 4. NATURE AND LIMITS OF THE SERVICES
 
@@ -83,9 +83,9 @@ The ARShades Services are augmented-reality software solutions developed by **Sp
 
 ## 6. PRIVACY AND DATA
 
-6.1 Camera-based Services (VTO, VTO Explorer, Mirror) use the camera of the device used for the experience to detect **facial landmark coordinates and face orientation data** for the sole purpose of positioning the virtual eyewear and generating your previews. This processing occurs **in real time, locally on the device**: the landmark data are not stored and are not transmitted to Spaarkly's servers.
+6.1 Camera-based Services (VTO, VTO Explorer, Mirror) use the camera of the device used for the experience to detect **facial landmark coordinates and face orientation data** for the sole purpose of positioning the virtual eyewear and generating your previews. This processing occurs **in real time, locally on the device**: the landmark data are not stored and are not transmitted to Spaarkly's servers. In the Showroom edition of Mirror, an estimate of the distance from the camera based on average anthropometric values is derived on the device from the landmarks, for the sole purpose of sizing the virtual frames; no pupillary distance is measured and the estimate is neither stored nor transmitted.
 
-6.2 **VTO Explorer** may ask you to capture a limited number of images during the session to generate personalised previews of multiple products. These images are processed locally on the device used for the experience and are **not automatically uploaded** to Spaarkly's servers. Where the experience runs on a device installed in a point of sale, showroom, event venue or other public place and you choose to obtain, download or share the final photos (through "Shoot & Share" or equivalent functions), **only the final photos you select** are temporarily uploaded to Spaarkly's servers, solely to make them available to you, and are deleted as described in the Privacy Policy (at the latest within 24 hours, if you do not delete them earlier).
+6.2 **VTO Explorer** may ask you to capture a limited number of images during the session to generate personalised previews of multiple products. These images are processed locally on the device used for the experience and are **not automatically uploaded** to Spaarkly's servers. Where the experience runs on a device installed in a point of sale, showroom, event venue or other public place and you choose to obtain, download or share the final photos (through "Shoot & Share" or equivalent functions), **only the final photos you select** are temporarily uploaded to Spaarkly's servers, solely to make them available to you, and are deleted as described in the Privacy Policy (at the latest by the day following the session, if you do not delete them earlier).
 
 6.3 We also process technical data such as device information, session data and usage statistics, as described in the Privacy Policy.
 
