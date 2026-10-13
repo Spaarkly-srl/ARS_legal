@@ -60,7 +60,7 @@ Modello dei **termini di integrazione ARShades "a nome del Cliente" (white-label
 
 - Il modello è versionato in [CHANGELOG.md](../CHANGELOG.md) (sezione "Client ARShades Integration Terms"). Le istanze generate riportano `template_version` e `generated_date` nell'intestazione.
 - A ogni bump del modello che tocca blocchi [CORE]: rigenerare le istanze dei Clienti e notificare i Clienti; se cambia il trattamento dati AR PD Meter, serve il rinnovo del consenso espresso degli utenti (v. Termini Generali §15.3–15.4).
-- Il flusso di consenso AR PD Meter (requisito §2.4 dei Termini AR PD Meter: versione/data + dati, finalità, conservazione, revoca) è attuato dal **modulo consenso ARShades**, mai da testi o task richiesti al Cliente; la sua descrizione resta leggibile nella sezione AR PD Meter del documento full.
+- Il flusso di consenso AR PD Meter (requisito §2.4 dei Termini AR PD Meter, dalla v1.4: prima della misura l'Utente vede come sono trattati i dati e può leggere Termini e Informativa; revoca sempre possibile) è attuato dal **modulo consenso ARShades**, mai da testi o task richiesti al Cliente; la sua descrizione resta leggibile nella sezione AR PD Meter del documento full.
 
 ## Lingua
 

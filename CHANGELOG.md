@@ -2,6 +2,9 @@
 
 ## Repository
 
+### 2026-10-13 — estratti «in breve» per AR PD Meter (bozze)
+- Aggiunti `terms-ar-pd-meter/summary/{it,en,es,fr,de}.md` e `privacy-policy/summary-ar-pd-meter/{it,en,es,fr,de}.md`: i punti essenziali dei Termini AR PD Meter e dell'Informativa Privacy in linguaggio semplice, da mostrare nel pannello Termini/Privacy dell'AR PD Meter con il link al testo completo (modello «informativa breve + testo completo», coerente con il §2.4 v1.4). Non sostituiscono i documenti. **Versione 1.0, approvata da Michele il 13/10/2026** (italiano testo autentico); en/es/fr/de riviste lo stesso giorno da revisori madrelingua di linguaggio legale semplice, allineate ai documenti completi nella rispettiva lingua (termini, registro: «Sie», «usted», «vous»; titolo spagnolo «en resumen»). Pubblicati; voci `published` v1.0 nel manifest.
+
 ### 2026-07-10 — rimozione indirizzo Spaarkly da Termini e template
 - Rimosso l'indirizzo postale di Spaarkly (Via della Tecnica 18, 85100 Potenza) dai Termini Servizi (§1.1 e §20, tutte le lingue), dai Termini AR PD Meter (§1.1 e §8, tutte le lingue) e dai due template Cliente. Mantenuti ragione sociale, **P. IVA IT02077620769** ed email (`legal@spaarkly.com` / `privacy@spaarkly.com`). Aggiornamento editoriale, nessuna modifica sostanziale (versioni invariate: Termini v1.3, AR PD Meter v1.2, template v0.2.1). L'indirizzo resta nell'Informativa Privacy.
 
@@ -106,6 +109,11 @@
 
 ## AR PD Meter — Terms & Conditions
 
+### v1.4 — 2026-10-13 — §2.4 ridotto a quello che la schermata fa
+- **§2.4**: non chiede più che il flusso di consenso mostri versione e data dei Termini e riepiloghi dati, finalità, conservazione e revoca (requisito per la UI della v1.1, giudicato da Michele un dettaglio troppo fine per i Termini). Ora dice che prima della misurazione l'Utente vede come sono trattati i suoi dati e può leggere Termini e Informativa Privacy; resta la revoca in qualsiasi momento. Origine: design delle schermate AR PD Meter del 13/10/2026 (consenso = tocco su «Inizia», pannello di lettura di Termini e Privacy dentro il contenitore).
+- Stessa riduzione nella frase corrispondente del template Cliente AR PD Meter (`client-terms-ar-pd-meter-template/full/*.md`, v0.2.3) e nei README dei due template.
+- Lingue: it (autentico), en, es, fr, de.
+
 ### v1.3 — 2026-08-26 — rimosso il flusso «Mirror locale»
 - **§1.2** e **§3.4** (rimossa; la vecchia §3.5 diventa §3.4): eliminato il riferimento all'uso di AR PD Meter nelle esperienze ARShades Mirror — anticipatorio e non corrispondente al prodotto (il Mirror non misura la distanza pupillare; Master Mirror B6). Nessuna modifica al flusso web/app né al consenso espresso.
 - Lingue: it (autentico), en, es, fr, de.
@@ -130,6 +138,10 @@
 - Traduzioni: in preparazione.
 
 ## Client ARShades Integration Terms — Modello T&C Cliente
+
+### v0.2.3 — 2026-10-13 — AR PD Meter: frase sul flusso di consenso
+- **AR PD Meter — full**: la frase che ricalcava il §2.4 dei Termini AR PD Meter (versione/data + riepilogo di dati, finalità, conservazione, revoca) segue la v1.4 dei Termini: prima della misurazione l'Utente vede come sono trattati i suoi dati e può leggere Condizioni e Informativa Privacy; revoca in qualsiasi momento. Il template Servizi VTO non cambia (resta v0.2.2).
+- Lingue: it, en, es, fr, de.
 
 ### v0.2.2 — 2026-08-26 — allineamento al Master ARShades Mirror
 - **Servizi VTO — full**: blocco Mirror riscritto (postazione fornita da Spaarkly in noleggio e installata presso punti vendita, showroom o eventi del Cliente; spazio, alimentazione, connettività, custodia e condizioni materiali a cura del Cliente); Shoot & Share «al più tardi entro il giorno successivo alla sessione» (anche nelle formule vincolate del README).

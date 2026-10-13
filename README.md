@@ -56,6 +56,8 @@ Current version: **1.3** — effective **26 August 2026**. Supplemental to the A
 | Français | [terms-ar-pd-meter/fr.md](terms-ar-pd-meter/fr.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/fr.md` |
 | Deutsch | [terms-ar-pd-meter/de.md](terms-ar-pd-meter/de.md) | `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/terms-ar-pd-meter/de.md` |
 
+Estratti «in breve» (v1.0 del 13/10/2026, it/en/es/fr/de, italiano testo autentico; non sostituiscono i documenti): [terms-ar-pd-meter/summary/it.md](terms-ar-pd-meter/summary/it.md) e [privacy-policy/summary-ar-pd-meter/it.md](privacy-policy/summary-ar-pd-meter/it.md): i punti essenziali per il pannello Termini/Privacy dell'AR PD Meter, con il link al testo completo.
+
 ## Client ARShades Integration Terms — 🧩 TEMPLATE
 
 Current version: **0.2.2** — parametric **templates** (mustache `{{…}}` variables), not published legal terms. Used to generate the per-client white-label ARShades integration terms shown and accepted in the in-experience consent module: the client is the commercial counterparty of its users; Spaarkly provides the technology and remains the data controller for the processing described in the ARShades Privacy Policy. Mirroring the canonical split, there are **two independent templates** — **VTO Services** and **AR PD Meter (standalone)** — with **no cross-reference** between the generated documents even when a client uses both. Generated instances are **not** published in this repository (they live in the `ARS_TermsAndCond` Firestore collection) and must be reviewed by the client's counsel. Template files are excluded from GitHub Pages (`published: false`) so Liquid does not interpolate the variables — browse them on GitHub or via the raw URLs.
@@ -100,6 +102,10 @@ Cookie Policy del sito marketing ARShades — v1.0, in vigore dal 2026-07-22. Te
 
 **Spaarkly s.r.l.** — Via della Tecnica n. 18, 85100 Potenza, Italy
 Privacy contact: privacy@spaarkly.com
+
+## Da fare
+
+- **VTO: estratti «in breve»** di Termini Servizi ARShades e Informativa Privacy, come fatto per l'AR PD Meter (sei punti per documento, riga «non sostituisce il testo completo», link al testo completo), da mostrare nel pannello del consenso del VTO al posto dei testi interi. Promemoria di Michele del 13/10/2026.
 
 ---
 

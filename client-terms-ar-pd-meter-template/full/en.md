@@ -40,7 +40,7 @@ These terms ("AR PD Meter Terms") are presented to the User, together with the [
 <!-- BLOCK consenso-dati [CORE] -->
 ## Consent and data processing
 
-The start of the measurement requires the **express consent of the User, given to Spaarkly** as data controller, through the acceptance checkbox presented before the measurement. The consent flow indicates the version and date of these AR PD Meter Terms in force and summarizes the data processed, the purpose, the retention and the methods of withdrawal.
+The start of the measurement requires the **express consent of the User, given to Spaarkly** as data controller, through the acceptance checkbox presented before the measurement. Before the measurement the User is shown how their data are processed and can read these Terms and the ARShades Privacy Policy; they may withdraw consent at any time by interrupting the measurement or revoking camera access.
 
 Consent is managed as **local in-experience gating**: the measurement starts only after explicit consent and withdrawal is always available, with immediate interruption of the processing in progress. Since Spaarkly does not identify the end User, **no evidence of consent attributable to the User is retained**: the very start of the measurement, conditional on consent, provides evidence of it.
 

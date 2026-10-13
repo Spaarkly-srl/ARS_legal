@@ -1,6 +1,6 @@
 # AR PD METER — NUTZUNGSBEDINGUNGEN
 
-*ARShades-Lösungen* </br> *Version 1.3 — Zuletzt aktualisiert: 26. August 2026 — Datum des Inkrafttretens: 26. August 2026*
+*ARShades-Lösungen* </br> *Version 1.4 — Zuletzt aktualisiert: 13. Oktober 2026 — Datum des Inkrafttretens: 13. Oktober 2026*
 
 Die vorliegenden Bedingungen („AR PD Meter-Bedingungen") regeln die Nutzung der Funktion **AR PD Meter** durch den Nutzer. Sie sind **ergänzend** zu den [Nutzungsbedingungen — ARShades-Dienste](../terms/de.md) (die „Allgemeinen Bedingungen"), die durch Verweis einbezogen werden und auf AR PD Meter Anwendung finden, soweit nachstehend nicht abweichend geregelt. Im Konfliktfall gehen die vorliegenden AR PD Meter-Bedingungen in Bezug auf AR PD Meter vor.
 
@@ -20,7 +20,7 @@ Die vorliegenden Bedingungen („AR PD Meter-Bedingungen") regeln die Nutzung de
 
 2.3 Erteilt der Nutzer die Einwilligung nicht, so darf er AR PD Meter nicht nutzen. Der Nutzer kann gleichwohl die übrigen ARShades-Dienste nutzen, die eine solche Verarbeitung nicht erfordern.
 
-2.4 Der vor der Messung angezeigte Einwilligungsablauf gibt die Version und das Datum der geltenden AR PD Meter-Bedingungen an und fasst zusammen: die verarbeiteten Daten, den Zweck der Verarbeitung, die Aufbewahrung (sofortige Löschung nach der Verarbeitung) und die Modalitäten des Widerrufs der Einwilligung. Der Nutzer kann die Einwilligung jederzeit widerrufen, indem er die Messung abbricht oder den Kamerazugriff widerruft; der Widerruf berührt nicht die bereits durchgeführten Verarbeitungen.
+2.4 Vor der Messung wird dem Nutzer angezeigt, wie seine Daten verarbeitet werden, und er kann diese Bedingungen und die ARShades-Datenschutzerklärung lesen. Der Nutzer kann die Einwilligung jederzeit widerrufen, indem er die Messung abbricht oder den Kamerazugriff widerruft; der Widerruf berührt nicht die bereits durchgeführten Verarbeitungen.
 
 ## 3. WIE DIE DATEN DES NUTZERS VERARBEITET WERDEN
 

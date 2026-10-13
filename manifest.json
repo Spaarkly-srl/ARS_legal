@@ -4,7 +4,7 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-08-26",
+  "updated": "2026-10-13",
   "documents": [
     {
       "key": "privacy-policy",
@@ -41,6 +41,40 @@
         "es": "/privacy-policy/es.md",
         "ja": "/privacy-policy/ja.md"
       }
+    },
+    {
+      "key": "privacy-policy-summary-ar-pd-meter",
+      "title": {
+        "it": "La Privacy in breve — AR PD Meter",
+        "en": "AR PD Meter — Privacy in brief"
+      },
+      "status": "published",
+      "version": "1.0",
+      "authoritative_language": "it",
+      "effective_date": "2026-10-13",
+      "updated": "2026-10-13",
+      "languages": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de"
+      ],
+      "page": {
+        "it": "/privacy-policy/summary-ar-pd-meter/it/",
+        "en": "/privacy-policy/summary-ar-pd-meter/en/",
+        "es": "/privacy-policy/summary-ar-pd-meter/es/",
+        "fr": "/privacy-policy/summary-ar-pd-meter/fr/",
+        "de": "/privacy-policy/summary-ar-pd-meter/de/"
+      },
+      "raw": {
+        "it": "/privacy-policy/summary-ar-pd-meter/it.md",
+        "en": "/privacy-policy/summary-ar-pd-meter/en.md",
+        "es": "/privacy-policy/summary-ar-pd-meter/es.md",
+        "fr": "/privacy-policy/summary-ar-pd-meter/fr.md",
+        "de": "/privacy-policy/summary-ar-pd-meter/de.md"
+      },
+      "notes": "Plain-language summary of the ARShades Privacy Policy for AR PD Meter users, shown in the legal panel (Privacy tab) with a link to the full text; does not replace the Policy. Version 1.0 approved by Spaarkly (Michele Lo Russo) on 2026-10-13; Italian authoritative, en/es/fr/de courtesy translations reviewed by native legal-plain-language reviewers on 2026-10-13."
     },
     {
       "key": "privacy-policy-shopify",
@@ -119,10 +153,10 @@
         "en": "AR PD Meter — Terms and Conditions of Use"
       },
       "status": "published",
-      "version": "1.3",
+      "version": "1.4",
       "authoritative_language": "it",
-      "effective_date": "2026-08-26",
-      "updated": "2026-08-26",
+      "effective_date": "2026-10-13",
+      "updated": "2026-10-13",
       "languages": [
         "it",
         "en",
@@ -145,6 +179,40 @@
         "de": "/terms-ar-pd-meter/de.md"
       },
       "notes": "Supplemental to the ARShades Services Terms; includes measurement disclaimer and express biometric consent flow. es/fr/de courtesy translations added 2026-07-10. Italian authoritative; en/es/fr/de are courtesy translations."
+    },
+    {
+      "key": "terms-ar-pd-meter-summary",
+      "title": {
+        "it": "I Termini in breve — AR PD Meter",
+        "en": "AR PD Meter — The Terms in brief"
+      },
+      "status": "published",
+      "version": "1.0",
+      "authoritative_language": "it",
+      "effective_date": "2026-10-13",
+      "updated": "2026-10-13",
+      "languages": [
+        "it",
+        "en",
+        "es",
+        "fr",
+        "de"
+      ],
+      "page": {
+        "it": "/terms-ar-pd-meter/summary/it/",
+        "en": "/terms-ar-pd-meter/summary/en/",
+        "es": "/terms-ar-pd-meter/summary/es/",
+        "fr": "/terms-ar-pd-meter/summary/fr/",
+        "de": "/terms-ar-pd-meter/summary/de/"
+      },
+      "raw": {
+        "it": "/terms-ar-pd-meter/summary/it.md",
+        "en": "/terms-ar-pd-meter/summary/en.md",
+        "es": "/terms-ar-pd-meter/summary/es.md",
+        "fr": "/terms-ar-pd-meter/summary/fr.md",
+        "de": "/terms-ar-pd-meter/summary/de.md"
+      },
+      "notes": "Plain-language summary shown in the AR PD Meter legal panel (Terms tab) with a link to the full text; does not replace the Terms. Version 1.0 approved by Spaarkly (Michele Lo Russo) on 2026-10-13; Italian authoritative, en/es/fr/de courtesy translations reviewed by native legal-plain-language reviewers on 2026-10-13."
     },
     {
       "key": "client-terms-template",
@@ -185,10 +253,10 @@
         "en": "Client ARShades Integration Terms — AR PD Meter Template"
       },
       "status": "template",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "authoritative_language": "it",
       "effective_date": null,
-      "updated": "2026-08-26",
+      "updated": "2026-10-13",
       "languages": [
         "it",
         "en",

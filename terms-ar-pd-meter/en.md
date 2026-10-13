@@ -1,6 +1,6 @@
 # AR PD METER — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.3 — Last updated: 26 August 2026 — Effective date: 26 August 2026*
+*ARShades solutions* </br> *Version 1.4 — Last updated: 13 October 2026 — Effective date: 13 October 2026*
 
 These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature. They are **supplemental** to the [ARShades Services — Terms and Conditions of Use](../terms/en.md) (the "General Terms"), which are incorporated by reference and apply to AR PD Meter except as modified below. In case of conflict, these AR PD Meter Terms prevail with respect to AR PD Meter.
 
@@ -20,7 +20,7 @@ These terms ("AR PD Meter Terms") govern your use of the **AR PD Meter** feature
 
 2.3 If you do not consent, do not use AR PD Meter. You may still use the other ARShades Services, which do not require this processing.
 
-2.4 The consent flow presented before the measurement identifies the version and date of the AR PD Meter Terms in force and summarises: the data processed, the purpose of the processing, the retention (immediate deletion after processing) and how to withdraw consent. You may withdraw consent at any time by interrupting the measurement or revoking camera access; withdrawal does not affect processing already carried out.
+2.4 Before the measurement you are shown how your data are processed and you can read these Terms and the ARShades Privacy Policy. You may withdraw consent at any time by interrupting the measurement or revoking camera access; withdrawal does not affect processing already carried out.
 
 ## 3. HOW YOUR DATA ARE PROCESSED
 

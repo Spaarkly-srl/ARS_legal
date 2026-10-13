@@ -40,7 +40,7 @@ Le presenti condizioni («Condizioni AR PD Meter») sono presentate all'Utente, 
 <!-- BLOCK consenso-dati [CORE] -->
 ## Consenso e trattamento dei dati
 
-L'avvio della misurazione richiede il **consenso espresso dell'Utente, reso a Spaarkly** quale titolare del trattamento, mediante la casella di accettazione presentata prima della misurazione. Il flusso di consenso indica la versione e la data delle presenti Condizioni AR PD Meter in vigore e riepiloga i dati trattati, la finalità, la conservazione e le modalità di revoca.
+L'avvio della misurazione richiede il **consenso espresso dell'Utente, reso a Spaarkly** quale titolare del trattamento, mediante la casella di accettazione presentata prima della misurazione. Prima della misurazione l'Utente vede come sono trattati i suoi dati e può leggere le presenti Condizioni e l'Informativa Privacy ARShades; può revocare il consenso in qualsiasi momento interrompendo la misurazione o revocando l'accesso alla fotocamera.
 
 Il consenso è gestito come **gating locale in-experience**: la misurazione si avvia soltanto dopo il consenso esplicito e la revoca è sempre disponibile, con interruzione immediata del trattamento in corso. Poiché Spaarkly non identifica l'Utente finale, **non viene conservata alcuna prova del consenso associabile all'Utente**: ne dà evidenza l'avvio stesso della misurazione, subordinato al consenso.
 

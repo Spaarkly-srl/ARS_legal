@@ -1,6 +1,6 @@
 # AR PD METER — TERMINI E CONDIZIONI D'USO
 
-*Soluzioni ARShades* </br> *Versione 1.3 — Ultimo aggiornamento: 26 agosto 2026 — Data di efficacia: 26 agosto 2026*
+*Soluzioni ARShades* </br> *Versione 1.4 — Ultimo aggiornamento: 13 ottobre 2026 — Data di efficacia: 13 ottobre 2026*
 
 I presenti termini ("Termini AR PD Meter") disciplinano l'utilizzo della funzionalità **AR PD Meter** da parte dell'Utente. Essi sono **integrativi** dei [Termini e Condizioni d'Uso — Servizi ARShades](../terms/it.md) (i "Termini Generali"), che sono incorporati mediante rinvio e si applicano ad AR PD Meter salvo quanto di seguito modificato. In caso di conflitto, i presenti Termini AR PD Meter prevalgono con riguardo ad AR PD Meter.
 
@@ -20,7 +20,7 @@ I presenti termini ("Termini AR PD Meter") disciplinano l'utilizzo della funzion
 
 2.3 Se l'Utente non presta il consenso, non deve utilizzare AR PD Meter. L'Utente può comunque utilizzare gli altri Servizi ARShades, che non richiedono tale trattamento.
 
-2.4 Il flusso di consenso presentato prima della misurazione indica la versione e la data dei Termini AR PD Meter in vigore e riepiloga: i dati trattati, la finalità del trattamento, la conservazione (cancellazione immediata dopo l'elaborazione) e le modalità di revoca del consenso. L'Utente può revocare il consenso in qualsiasi momento interrompendo la misurazione o revocando l'accesso alla fotocamera; la revoca non pregiudica i trattamenti già effettuati.
+2.4 Prima della misurazione l'Utente vede come sono trattati i suoi dati e può leggere i presenti Termini e l'Informativa Privacy ARShades. L'Utente può revocare il consenso in qualsiasi momento interrompendo la misurazione o revocando l'accesso alla fotocamera; la revoca non pregiudica i trattamenti già effettuati.
 
 ## 3. COME SONO TRATTATI I DATI DELL'UTENTE
 

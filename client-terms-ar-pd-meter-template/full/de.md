@@ -40,7 +40,7 @@ Diese Bedingungen („AR PD Meter-Bedingungen") werden dem Nutzer zusammen mit d
 <!-- BLOCK consenso-dati [CORE] -->
 ## Einwilligung und Datenverarbeitung
 
-Der Start der Messung erfordert die **ausdrückliche Einwilligung des Nutzers, die gegenüber Spaarkly** als Verantwortlichem erteilt wird, über das vor der Messung angezeigte Annahmekästchen. Der Einwilligungsablauf gibt die Version und das Datum der geltenden AR PD Meter-Bedingungen an und fasst die verarbeiteten Daten, den Zweck, die Aufbewahrung und die Modalitäten des Widerrufs zusammen.
+Der Start der Messung erfordert die **ausdrückliche Einwilligung des Nutzers, die gegenüber Spaarkly** als Verantwortlichem erteilt wird, über das vor der Messung angezeigte Annahmekästchen. Vor der Messung wird dem Nutzer angezeigt, wie seine Daten verarbeitet werden, und er kann diese Bedingungen und die ARShades-Datenschutzerklärung lesen; er kann die Einwilligung jederzeit widerrufen, indem er die Messung abbricht oder den Kamerazugriff widerruft.
 
 Die Einwilligung wird als **lokales In-Experience-Gating** verwaltet: Die Messung startet erst nach der ausdrücklichen Einwilligung, und der Widerruf ist jederzeit möglich, mit sofortiger Unterbrechung der laufenden Verarbeitung. Da Spaarkly den Endnutzer nicht identifiziert, **wird kein dem Nutzer zuordenbarer Nachweis der Einwilligung aufbewahrt**: Beleg dafür ist der Start der Messung selbst, der von der Einwilligung abhängt.
 

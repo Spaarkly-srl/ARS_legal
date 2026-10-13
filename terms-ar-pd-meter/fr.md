@@ -1,6 +1,6 @@
 # AR PD METER — CONDITIONS D'UTILISATION
 
-*Solutions ARShades* </br> *Version 1.3 — Dernière mise à jour : 26 août 2026 — Date d'entrée en vigueur : 26 août 2026*
+*Solutions ARShades* </br> *Version 1.4 — Dernière mise à jour : 13 octobre 2026 — Date d'entrée en vigueur : 13 octobre 2026*
 
 Les présentes conditions (les «Conditions AR PD Meter») régissent l'utilisation de la fonctionnalité **AR PD Meter** par l'Utilisateur. Elles sont **complémentaires** des [Conditions d'Utilisation — Services ARShades](../terms/fr.md) (les «Conditions Générales»), qui sont incorporées par renvoi et s'appliquent à AR PD Meter sauf dans la mesure modifiée ci-dessous. En cas de conflit, les présentes Conditions AR PD Meter prévalent en ce qui concerne AR PD Meter.
 
@@ -20,7 +20,7 @@ Les présentes conditions (les «Conditions AR PD Meter») régissent l'utilisat
 
 2.3 Si l'Utilisateur ne donne pas son consentement, il ne doit pas utiliser AR PD Meter. L'Utilisateur peut néanmoins utiliser les autres Services ARShades, qui ne requièrent pas ce traitement.
 
-2.4 Le flux de consentement présenté avant la mesure indique la version et la date des Conditions AR PD Meter en vigueur et récapitule : les données traitées, la finalité du traitement, la conservation (suppression immédiate après le traitement) et les modalités de retrait du consentement. L'Utilisateur peut retirer son consentement à tout moment en interrompant la mesure ou en révoquant l'accès à la caméra ; le retrait ne porte pas atteinte aux traitements déjà effectués.
+2.4 Avant la mesure, l'Utilisateur voit comment ses données sont traitées et peut lire les présentes Conditions et la Politique de Confidentialité ARShades. L'Utilisateur peut retirer son consentement à tout moment en interrompant la mesure ou en révoquant l'accès à la caméra ; le retrait ne porte pas atteinte aux traitements déjà effectués.
 
 ## 3. COMMENT LES DONNÉES DE L'UTILISATEUR SONT TRAITÉES
 
