@@ -283,10 +283,10 @@
         "it": "Informativa Privacy — Sito web ARShades",
         "en": "Privacy Policy — ARShades Website"
       },
-      "status": "approved",
+      "status": "published",
       "version": "1.0.0",
       "authoritative_language": "it",
-      "effective_date": null,
+      "effective_date": "2026-10-21",
       "updated": "2026-10-21",
       "languages": [
         "it",
@@ -312,7 +312,7 @@
         "ja": "/privacy-website/ja.md",
         "es": "/privacy-website/es.md"
       },
-      "notes": "Privacy notice for the ARShades website only (consultant's final text of 2026-10-21): navigation logs, GA4 on consent, cookie-choice register, demo and trial request forms (email confirmation, Zoho Bigin CRM; unconfirmed requests kept 12 months only against abuse). 1.0.0 approved by Michele Lo Russo on 2026-10-21; in force from the launch of the new website. Translations added as they are completed."
+      "notes": "Privacy notice for the ARShades website only (consultant's final text of 2026-10-21): navigation logs, GA4 on consent, cookie-choice register, demo and trial request forms (email confirmation, Zoho Bigin CRM; unconfirmed requests kept 12 months only against abuse). 1.0.0 approved by Michele Lo Russo and published on 2026-10-21 in it/en/fr/de/es/ja. Italian authoritative; the other five languages are courtesy translations."
     },
     {
       "key": "cookie-policy",
@@ -320,10 +320,10 @@
         "it": "Cookie Policy",
         "en": "Cookie Policy"
       },
-      "status": "approved",
+      "status": "published",
       "version": "1.1.1",
       "authoritative_language": "it",
-      "effective_date": null,
+      "effective_date": "2026-10-21",
       "updated": "2026-10-21",
       "languages": [
         "it",
@@ -349,7 +349,7 @@
         "ja": "/cookie-policy/ja.md",
         "es": "/cookie-policy/es.md"
       },
-      "notes": "1.1.1 (consultant's final text) approved by Michele Lo Russo on 2026-10-21; in force from the launch of the new website (effective_date set then, status -> published). Until then the website keeps serving 1.0.1. Translations en/fr/de/es/ja added as they are completed (the 1.0.1 translations stay in git history)."
+      "notes": "1.1.1 (consultant's final text) approved by Michele Lo Russo and published on 2026-10-21 in it/en/fr/de/es/ja, replacing 1.0.1 through the website legal sync. Italian authoritative; the other five languages are courtesy translations. Previous versions remain in git history."
     }
   ]
 }
