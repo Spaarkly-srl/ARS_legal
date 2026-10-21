@@ -1,97 +1,55 @@
 # INFORMATIVA PRIVACY — SITO WEB ARSHADES
 
-*Sito web ARShades* </br> *Versione 1.0.0 — Ultimo aggiornamento: 21 ottobre 2026 — Data di efficacia: dalla pubblicazione sul nuovo sito web ARShades*
+*Versione 1.0.0 — Aggiornamento: 21 ottobre 2026 — Efficacia: dalla pubblicazione sul nuovo sito web ARShades*
 
+Questa informativa riguarda il **sito web di presentazione delle soluzioni ARShades** (il “Sito”). Le esperienze di prodotto, comprese le demo incorporate, sono descritte nell’[Informativa Privacy delle soluzioni ARShades](../privacy-policy/it.md). Per cookie e tecnologie similari consulta la [Cookie Policy del Sito](../cookie-policy/it.md).
 
-La presente **Informativa Privacy** descrive come **Spaarkly s.r.l.** (“Spaarkly”, “noi”) tratta i tuoi dati personali quando visiti o utilizzi il **sito web di presentazione delle soluzioni ARShades** (il “Sito”).
+## 1. Chi tratta i dati
 
-Questo documento riguarda **esclusivamente il Sito**. I trattamenti effettuati all’interno delle **esperienze di prodotto ARShades** (Virtual Try-On, 3D Viewer, VTO Explorer, AR PD Meter, Digital Mirrors, Gateway, Campaign Catalogues), comprese le demo incorporate nel Sito, sono regolati dall’[Informativa Privacy delle soluzioni ARShades](../privacy-policy/it.md). Per i cookie e le tecnologie similari utilizzati dal Sito, consulta la [Cookie Policy del Sito](../cookie-policy/it.md).
+Il titolare è **Spaarkly s.r.l.**, Via della Tecnica n. 18, 85100 Potenza (Italia). Per informazioni ed esercizio dei diritti: **privacy@spaarkly.com**.
 
-## 1. Titolare del trattamento
+## 2. Dati, finalità e basi giuridiche
 
-Il titolare del trattamento è **Spaarkly s.r.l.**, Via della Tecnica n. 18, 85100 Potenza (Italia).
-Per ogni questione relativa alla protezione dei dati puoi scriverci a **privacy@spaarkly.com**.
+**Navigazione e sicurezza.** Trattiamo indirizzo IP, data e ora, pagina richiesta, codice di risposta e informazioni sul browser per il funzionamento, la sicurezza e la diagnostica del Sito. La base giuridica è il nostro legittimo interesse a garantirne il corretto e sicuro funzionamento (art. 6.1.f GDPR).
 
-## 2. Quali dati trattiamo, perché e su quale base giuridica
+**Statistiche facoltative.** Solo con il tuo consenso utilizziamo **Google Analytics 4** per misurare visite e interazioni, tramite identificativi cookie, dati del dispositivo e del browser, pagine visitate, provenienza e posizione approssimativa. Google non registra né conserva gli indirizzi IP del traffico europeo, utilizzati per ricavare la posizione. Non utilizziamo Google Signals, funzionalità pubblicitarie o remarketing. La base giuridica è il consenso (art. 6.1.a GDPR): puoi rifiutarlo senza conseguenze sull’uso del Sito o revocarlo da **“Preferenze cookie”** nel footer.
 
-### a) Dati di navigazione e log di servizio
+**Scelte sui cookie.** Registriamo un identificativo casuale, data e ora, versione e lingua dell’informativa, categorie e scelta effettuata, senza IP né user-agent nel registro delle scelte. Lo facciamo per dimostrare il consenso, in adempimento degli obblighi degli artt. 5.2 e 7.1 GDPR (art. 6.1.c); per le altre scelte, la base è il legittimo interesse a rispettare e documentare le tue preferenze (art. 6.1.f).
 
-Durante la navigazione, i sistemi che ospitano il Sito registrano automaticamente dati tecnici la cui trasmissione è implicita nei protocolli Internet: indirizzo IP, data e ora della richiesta, pagina richiesta, codice di risposta, user-agent del browser. Utilizziamo questi log esclusivamente per garantire il **funzionamento, la sicurezza e la diagnostica** del Sito.
+**Richieste di demo e prova.** Raccogliamo nome e cognome, azienda e tipologia, paese, email aziendale, telefono, ruolo, dimensione del catalogo, prodotti di interesse e un eventuale messaggio, per gestire la richiesta e ricontattarti. Registriamo anche data, ora, versione e lingua della dichiarazione di lettura dell’informativa e dei Termini, per documentarla.
 
-- **Base giuridica:** legittimo interesse (art. 6, par. 1, lett. f, GDPR) al corretto e sicuro funzionamento del Sito.
-- **Conservazione:** di norma non oltre **30 giorni**.
+Ti inviamo un link di conferma valido **24 ore**. Solo dopo la conferma la richiesta entra nel CRM ed è presa in carico. Le richieste non confermate sono conservate esclusivamente per individuare e documentare abusi, tentativi di frode o atti di concorrenza sleale e tutelare i nostri diritti, anche in relazione a successive richieste delle autorità, senza ricontatti commerciali. Se ricevi una conferma senza aver presentato la richiesta, puoi ignorarla e segnalarcelo a **privacy@spaarkly.com**.
 
-### b) Statistiche d’uso del Sito (Google Analytics 4) — solo con il tuo consenso
+La base giuridica è l’esecuzione di misure precontrattuali richieste da te se agisci in proprio (art. 6.1.b GDPR), oppure il legittimo interesse a gestire la richiesta dell’azienda che rappresenti (art. 6.1.f). Per prevenire e documentare abusi, frodi e concorrenza sleale e documentare le dichiarazioni rese, la base è il nostro legittimo interesse alla tutela dei diritti (art. 6.1.f). Le comunicazioni obbligatorie alle autorità si fondano sull’obbligo di legge applicabile (art. 6.1.c).
 
-Se abiliti la categoria “Analytics” nel banner dei cookie, utilizziamo **Google Analytics 4** per statistiche aggregate sull’uso del Sito (pagine visitate, provenienza, interazioni). L’analytics è configurato in modalità privacy-friendly: consenso negato per impostazione predefinita (Google Consent Mode v2), anonimizzazione dell’indirizzo IP, nessun Google Signals, nessuna funzionalità pubblicitaria o di remarketing, nessuna profilazione cross-site.
+I campi obbligatori sono indicati nel modulo: senza di essi non possiamo gestire la richiesta; il messaggio è facoltativo. L’attivazione della prova in **ARShades Studio** è regolata dai Termini e dall’informativa della piattaforma.
 
-- **Base giuridica:** consenso (art. 6, par. 1, lett. a, GDPR), revocabile in ogni momento dal link “Preferenze cookie” nel footer.
-- **Conservazione:** i dati a livello di utente e di evento sono conservati da Google Analytics 4 per un massimo di **14 mesi**; i report aggregati, che non contengono dati personali, possono essere conservati più a lungo.
-- Il mancato consenso non ha alcuna conseguenza sull’uso del Sito.
+## 3. Per quanto conserviamo i dati
 
-### c) Prova delle scelte sui cookie
-
-Quando effettui una scelta nel banner dei cookie, registriamo sui nostri server una **prova minimale della scelta**: un identificativo casuale, la marca temporale, la versione e la lingua dell’informativa visualizzata, le categorie e l’azione — **senza indirizzo IP né user-agent**.
-
-- **Base giuridica:** legittimo interesse (art. 6, par. 1, lett. f, GDPR) ad assolvere l’obbligo di dimostrare il consenso (artt. 5, par. 2 e 7, par. 1, GDPR).
-- **Conservazione:** fino a **26 mesi**, poi rimozione automatica.
-
-### d) Moduli «Richiedi una demo» e «Attiva una prova»
-
-Il Sito ospita due moduli con cui la tua azienda può chiedere una demo delle soluzioni ARShades o l’attivazione di una prova gratuita. I dati raccolti sono: nome e cognome, azienda e tipologia di azienda, paese, email aziendale, numero di telefono, ruolo in azienda, dimensione del catalogo, prodotti di interesse e, facoltativamente, un messaggio; registriamo inoltre data e ora della tua dichiarazione di aver letto la presente informativa e i Termini e Condizioni del Sito, con la versione e la lingua dei testi.
-
-Dopo l’invio ti mandiamo un’email con un link di conferma valido **24 ore** (mittente `no-reply@arshades.com`, tramite il fornitore **ZeptoMail** di Zoho Corporation). La richiesta è presa in carico **solo dopo la conferma** dell’indirizzo email: da quel momento è registrata nel nostro CRM **Zoho Bigin** e ti ricontattiamo per dare seguito alla richiesta. Le richieste **non confermate** non vengono usate per contattarti: le conserviamo per **12 mesi** al solo scopo di individuare e documentare eventuali usi abusivi del modulo (ad esempio l’inserimento dell’indirizzo email di un’altra persona), poi vengono cancellate. Per la prova gratuita, l’attivazione avviene nella piattaforma ARShades Studio ed è regolata dai Termini e Condizioni e dall’informativa della piattaforma.
-
-- **Base giuridica:** esecuzione di misure precontrattuali adottate su tua richiesta (art. 6, par. 1, lett. b, GDPR) quando agisci in proprio; legittimo interesse (art. 6, par. 1, lett. f, GDPR) di Spaarkly e dell’azienda richiedente a gestire la richiesta quando agisci come referente di un’azienda. Per le richieste non confermate: legittimo interesse (art. 6, par. 1, lett. f, GDPR) a prevenire gli abusi del modulo e a tutelare i diritti di Spaarkly e delle persone coinvolte.
-- **Conservazione:** **24 mesi** dall’ultimo contatto utile, salvo instaurazione del rapporto contrattuale.
-- Il conferimento dei dati indicati come obbligatori è necessario per dare seguito alla richiesta; il messaggio è facoltativo.
-
-## 3. Destinatari dei dati
-
-I dati sono trattati dal personale autorizzato di Spaarkly e dai seguenti fornitori, che agiscono come responsabili del trattamento:
-
-| Fornitore | Servizio | Sede del trattamento |
-|---|---|---|
-| Google Ireland Ltd. / Google LLC | Hosting del Sito e database (Firebase, Google Cloud) | Unione Europea |
-| Google Ireland Ltd. / Google LLC | Google Analytics 4 (solo previo consenso; condivisione dei dati con altri prodotti Google disattivata) | UE / USA |
-| Zoho Corporation (ZeptoMail) | Invio delle email di conferma e di servizio | Unione Europea |
-| Zoho Corporation (Bigin) | CRM per la gestione delle richieste | Unione Europea |
-
-Non vendiamo i tuoi dati personali né li comunichiamo a terzi per finalità di marketing.
-
-## 4. Trasferimenti internazionali
-
-I dati sono trattati principalmente all’interno dell’Unione Europea. Per Google Analytics 4, Google LLC può trattare dati negli Stati Uniti: il trasferimento è assistito dalla decisione di adeguatezza per l’**EU–U.S. Data Privacy Framework** (Google LLC è certificata) e dalle **Clausole Contrattuali Standard** della Commissione Europea. I dati affidati a Zoho Corporation sono ospitati nell’Unione Europea; eventuali accessi tecnici da società del gruppo stabilite fuori dallo Spazio Economico Europeo sono disciplinati dalle Clausole Contrattuali Standard incluse nel contratto con il fornitore. Puoi ottenere copia delle garanzie applicabili scrivendo a **privacy@spaarkly.com**.
-
-## 5. Periodi di conservazione — riepilogo
-
-| Trattamento | Conservazione |
+| Dati | Durata |
 |---|---|
-| Log di servizio e sicurezza | Di norma non oltre 30 giorni |
-| Statistiche Google Analytics 4 | Dati utente/evento: massimo 14 mesi |
-| Prova delle scelte sui cookie | Fino a 26 mesi |
-| Richieste non confermate via email (solo per individuare e documentare abusi) | 12 mesi |
-| Richieste di demo e di prova nel CRM | 24 mesi dall’ultimo contatto utile |
-| Scelta sui cookie (cookie `ars_consent` sul tuo dispositivo) | 12 mesi |
+| Log di navigazione e sicurezza | Di norma 30 giorni dalla registrazione; più a lungo solo per accertare incidenti o tutelare diritti, per il tempo necessario |
+| Dati utente ed evento di Google Analytics 4 | Massimo 14 mesi; le statistiche rese anonime possono essere conservate più a lungo |
+| Registro delle scelte sui cookie | Fino a 26 mesi da ciascuna registrazione |
+| Scelta sui cookie sul dispositivo (`ars_consent`) | 12 mesi |
+| Richieste non confermate | 12 mesi dall’invio, poi cancellazione; in presenza di indagini o contestazioni concrete o richieste delle autorità, conserviamo oltre tale termine solo i dati pertinenti, per il tempo necessario o previsto dalla legge |
+| Richieste confermate e relative comunicazioni | 24 mesi dall’ultima interazione con te relativa alla richiesta; se nasce un rapporto contrattuale, si applicano i termini dell’informativa del servizio |
+| Log di consegna delle email presso ZeptoMail | Di norma 60 giorni dall’invio |
 
-## 6. Diritti dell’interessato
+## 4. Fornitori e trasferimenti
 
-Nei limiti previsti dagli artt. 15–22 GDPR, hai diritto di ottenere l’**accesso** ai tuoi dati, la **rettifica**, la **cancellazione**, la **limitazione** del trattamento, la **portabilità**, nonché di **opporti** al trattamento fondato sul legittimo interesse e di **revocare il consenso** in qualsiasi momento (per l’analytics, dal link “Preferenze cookie” nel footer), senza pregiudicare la liceità del trattamento anteriore alla revoca.
+I dati sono accessibili al personale autorizzato e ai fornitori che li trattano per nostro conto: **Google Ireland Ltd. / Google LLC**, per hosting e database (Firebase, Google Cloud) e, previo consenso, Google Analytics 4; **Zoho Corporation**, per le email di conferma e servizio (ZeptoMail) e la gestione delle richieste (Bigin). Possono essere comunicati alle autorità competenti nei casi previsti dalla legge o per tutelare i nostri diritti. Non vendiamo i dati né li comunichiamo a terzi per finalità di marketing.
 
-Puoi esercitare i tuoi diritti scrivendo a **privacy@spaarkly.com**. Hai inoltre diritto di proporre reclamo all’autorità di controllo competente (per l’Italia, il **Garante per la protezione dei dati personali** — www.garanteprivacy.it).
+Utilizziamo infrastrutture nell’UE per hosting, database, email e CRM. I servizi dei fornitori possono comportare trattamenti o accessi anche fuori dallo Spazio Economico Europeo. Per i trasferimenti a Google LLC negli Stati Uniti si applica l’**EU–U.S. Data Privacy Framework**, nei limiti della certificazione; negli altri casi si applicano le **Clausole Contrattuali Standard** della Commissione europea, comprese quelle previste per gli accessi extra SEE del gruppo Zoho. Puoi richiedere copia delle garanzie a **privacy@spaarkly.com**.
 
-## 7. Minori
+## 5. I tuoi diritti
 
-Il Sito è destinato a un pubblico professionale e non è rivolto a minori. Non raccogliamo consapevolmente dati personali di minori attraverso il Sito.
+Nei casi previsti dal GDPR puoi chiedere accesso, rettifica, cancellazione, limitazione e portabilità dei dati scrivendo a **privacy@spaarkly.com**. Puoi revocare il consenso in qualsiasi momento, senza pregiudicare la liceità del trattamento precedente; per l’analytics usa **“Preferenze cookie”**.
 
-## 8. Modifiche alla presente Informativa
+**Diritto di opposizione.** Puoi opporti in qualsiasi momento, per motivi connessi alla tua situazione particolare, ai trattamenti fondati sul legittimo interesse, scrivendo allo stesso indirizzo. Cesseremo il trattamento salvo motivi legittimi cogenti prevalenti o necessità di accertare, esercitare o difendere un diritto in sede giudiziaria.
 
-Potremo aggiornare la presente Informativa per riflettere modifiche del Sito, dei trattamenti o della normativa. La versione aggiornata è pubblicata su questa pagina con la data di ultimo aggiornamento; in caso di modifiche sostanziali ne daremo evidenza sul Sito.
+Puoi inoltre proporre reclamo all’autorità di controllo competente, in Italia il [Garante per la protezione dei dati personali](https://www.garanteprivacy.it).
 
-## 9. Contatti
+## 6. Aggiornamenti
 
-Spaarkly s.r.l. — Via della Tecnica n. 18, 85100 Potenza (Italia) — privacy@spaarkly.com.
-
----
-
-© Spaarkly s.r.l. Tutti i diritti riservati.
+La versione aggiornata è pubblicata su questa pagina con la relativa data. In caso di modifiche sostanziali ne daremo evidenza sul Sito.
