@@ -290,15 +290,18 @@
       "updated": "2026-10-21",
       "languages": [
         "it",
-        "en"
+        "en",
+        "fr"
       ],
       "page": {
         "it": "/privacy-website/it/",
-        "en": "/privacy-website/en/"
+        "en": "/privacy-website/en/",
+        "fr": "/privacy-website/fr/"
       },
       "raw": {
         "it": "/privacy-website/it.md",
-        "en": "/privacy-website/en.md"
+        "en": "/privacy-website/en.md",
+        "fr": "/privacy-website/fr.md"
       },
       "notes": "Privacy notice for the ARShades website only (consultant's final text of 2026-10-21): navigation logs, GA4 on consent, cookie-choice register, demo and trial request forms (email confirmation, Zoho Bigin CRM; unconfirmed requests kept 12 months only against abuse). 1.0.0 approved by Michele Lo Russo on 2026-10-21; in force from the launch of the new website. Translations added as they are completed."
     },
@@ -315,15 +318,18 @@
       "updated": "2026-10-21",
       "languages": [
         "it",
-        "en"
+        "en",
+        "fr"
       ],
       "page": {
         "it": "/cookie-policy/it/",
-        "en": "/cookie-policy/en/"
+        "en": "/cookie-policy/en/",
+        "fr": "/cookie-policy/fr/"
       },
       "raw": {
         "it": "/cookie-policy/it.md",
-        "en": "/cookie-policy/en.md"
+        "en": "/cookie-policy/en.md",
+        "fr": "/cookie-policy/fr.md"
       },
       "notes": "1.1.1 (consultant's final text) approved by Michele Lo Russo on 2026-10-21; in force from the launch of the new website (effective_date set then, status -> published). Until then the website keeps serving 1.0.1. Translations en/fr/de/es/ja added as they are completed (the 1.0.1 translations stay in git history)."
     }
