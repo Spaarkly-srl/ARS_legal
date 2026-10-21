@@ -46,7 +46,7 @@ We use infrastructure in the EU for hosting, database, email and CRM. The provid
 
 In the cases provided for by the GDPR, you can request access to your data and its rectification, erasure, restriction and portability by writing to **privacy@spaarkly.com**. You can withdraw your consent at any time, without affecting the lawfulness of earlier processing; for analytics, use **“Cookie preferences”**.
 
-**Right to object.** You can object at any time, on grounds relating to your particular situation, to processing based on legitimate interest, by writing to the same address. We will stop the processing unless there are compelling legitimate grounds which override, or a need for the establishment, exercise or defence of legal claims.
+**Right to object.** You can object at any time, on grounds relating to your particular situation, to processing based on legitimate interest, by writing to the same address. We will stop processing unless we can demonstrate compelling legitimate grounds that override your interests, rights and freedoms, or processing is necessary to establish, exercise or defend legal claims.
 
 You can also lodge a complaint with the competent supervisory authority; in Italy, this is the [Garante per la protezione dei dati personali](https://www.garanteprivacy.it) (the Italian Data Protection Authority).
 

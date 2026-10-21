@@ -10,7 +10,7 @@ The data controller is **Spaarkly s.r.l.**, Via della Tecnica n. 18, 85100 Poten
 
 Cookies are small files saved in your browser. *localStorage* and *IndexedDB* also store information on your device.
 
-- **Technical and necessary functional:** they store your cookie choices, language, theme and the photo you take in the VTO Explorer demo to try on frames. They are used exclusively for their respective requested functions and do not require consent under Article 122 of the Italian Privacy Code. For the personal data processed for these purposes, the legal basis under the GDPR is legitimate interest in providing those functions (Art. 6(1)(f)).
+- **Technical and necessary functional:** they store your cookie choices, language, theme and the photo you take in the VTO Explorer demo to try on frames. They are used only to provide the functions you request and do not require consent under Article 122 of the Italian Privacy Code. For the personal data processed for these purposes, the legal basis under the GDPR is legitimate interest in providing those functions (Art. 6(1)(f)).
 - **Analytics:** we activate **Google Analytics 4** only with your consent, to measure visits and interactions and to produce usage statistics (Art. 6(1)(a) GDPR). We do not use Google Signals, advertising features or remarketing.
 
 ## 2. Cookies and browser storage
