@@ -75,7 +75,13 @@ Current version: **0.2.2** — parametric **templates** (mustache `{{…}}` vari
 
 ## Cookie Policy
 
-Cookie Policy del sito marketing ARShades — v1.0, in vigore dal 2026-07-22. Testo autoritativo in italiano; en/fr/de/es/ja sono traduzioni.
+Cookie Policy del sito web ARShades — v1.0.1 in vigore dal 2026-07-22; **v1.1.0 approvata il 2026-10-21, in vigore dal lancio del nuovo sito** (`status: approved` nel manifest finché non è pubblicata). Testo autoritativo in italiano; en/fr/de/es/ja sono traduzioni.
+
+## Informativa Privacy del sito web
+
+Informativa Privacy del solo sito web ARShades (log di servizio, Google Analytics 4 su consenso, prova delle scelte sui cookie, moduli di richiesta demo e prova) — **v1.0.0 approvata il 2026-10-21, in vigore dal lancio del nuovo sito**. Testo autoritativo in italiano: [privacy-website/it.md](privacy-website/it.md) (raw: `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-website/it.md`); le altre lingue si aggiungono man mano. Distinta dall'Informativa Privacy delle soluzioni ARShades (`privacy-policy/`).
+
+## Cookie Policy — lingue
 
 | Language | File | Raw URL |
 |---|---|---|

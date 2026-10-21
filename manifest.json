@@ -4,7 +4,7 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-10-13",
+  "updated": "2026-10-21",
   "documents": [
     {
       "key": "privacy-policy",
@@ -283,24 +283,21 @@
         "it": "Informativa Privacy — Sito web ARShades",
         "en": "Privacy Policy — ARShades Website"
       },
-      "status": "draft",
-      "version": "0.1.0-draft",
+      "status": "approved",
+      "version": "1.0.0",
       "authoritative_language": "it",
       "effective_date": null,
-      "updated": "2026-07-23",
+      "updated": "2026-10-21",
       "languages": [
-        "it",
-        "en"
+        "it"
       ],
       "page": {
-        "it": "/privacy-website/it/",
-        "en": "/privacy-website/en/"
+        "it": "/privacy-website/it/"
       },
       "raw": {
-        "it": "/privacy-website/it.md",
-        "en": "/privacy-website/en.md"
+        "it": "/privacy-website/it.md"
       },
-      "notes": "Privacy notice for the ARShades marketing website only (GA4 on consent, cookie-consent proof log, Studio registration form up to the pending/email-verification phase, demo request form with Zoho Bigin CRM, Google Places as independent controller, admin area, hosting logs). Distinct from privacy-policy (ARShades solutions/services, end users) and from the future ARShades Studio privacy notice (business users). Sign-off prerequisites tracked in the draft banner."
+      "notes": "Privacy notice for the ARShades website only: hosting logs, GA4 on consent, cookie-consent proof log, demo and trial request forms (email confirmation, Zoho Bigin CRM). 1.0.0 approved by Michele Lo Russo on 2026-10-21; in force from the launch of the new website. Translations (en/fr/de/es/ja) added as they are completed."
     },
     {
       "key": "cookie-policy",
@@ -308,11 +305,11 @@
         "it": "Cookie Policy",
         "en": "Cookie Policy"
       },
-      "status": "published",
-      "version": "1.0.1",
+      "status": "approved",
+      "version": "1.1.0",
       "authoritative_language": "it",
-      "effective_date": "2026-07-22",
-      "updated": "2026-07-23",
+      "effective_date": null,
+      "updated": "2026-10-21",
       "languages": [
         "it",
         "en",
@@ -336,7 +333,8 @@
         "de": "/cookie-policy/de.md",
         "es": "/cookie-policy/es.md",
         "ja": "/cookie-policy/ja.md"
-      }
+      },
+      "notes": "1.1.0 approved by Michele Lo Russo on 2026-10-21; in force from the launch of the new website (effective_date set then, status -> published). Until then the website keeps serving 1.0.1."
     }
   ]
 }

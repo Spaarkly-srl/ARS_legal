@@ -1,18 +1,19 @@
 # SITO WEB ARSHADES — COOKIE POLICY
 
-*Sito marketing ARShades* </br> *Versione 1.0.1 — Ultimo aggiornamento: 23 luglio 2026 — Data di efficacia: 22 luglio 2026*
+*Sito web ARShades* </br> *Versione 1.1.0 — Ultimo aggiornamento: 21 ottobre 2026 — Data di efficacia: dalla pubblicazione sul nuovo sito web ARShades*
 
-La presente Cookie Policy integra l’[Informativa Privacy del Sito](../privacy-website/it.md) e descrive i cookie e le tecnologie similari (incluso il *localStorage*) utilizzati dal **sito marketing ARShades** di **Spaarkly s.r.l.** Riguarda esclusivamente il sito web di presentazione delle soluzioni ARShades; i cookie e le tecnologie impiegati all’interno delle esperienze di prodotto ARShades (ad esempio il Virtual Try-On avviato dall’Utente) sono descritti nell’Informativa Privacy delle soluzioni ARShades.
+
+La presente Cookie Policy integra l’[Informativa Privacy del Sito](../privacy-website/it.md) e descrive i cookie e le tecnologie similari (incluso il *localStorage* e l’*IndexedDB* del browser) utilizzati dal **sito web ARShades** di **Spaarkly s.r.l.** Riguarda esclusivamente il sito web di presentazione delle soluzioni ARShades; i cookie e le tecnologie impiegati all’interno delle esperienze di prodotto ARShades (ad esempio il Virtual Try-On avviato dall’Utente) sono descritti nell’[Informativa Privacy delle soluzioni ARShades](../privacy-policy/it.md).
 
 ## 1. Cosa sono i cookie
 
-I cookie sono piccoli file di testo che un sito memorizza sul tuo dispositivo. Tecnologie similari — come il *localStorage* del browser — salvano informazioni in modo analogo. La normativa europea (Direttiva ePrivacy, art. 122 del Codice Privacy e GDPR) richiede il consenso preventivo per ogni cookie o tecnologia similare che **non** sia strettamente necessario al funzionamento del sito.
+I cookie sono piccoli file di testo che un sito memorizza sul tuo dispositivo. Tecnologie similari — come il *localStorage* e l’*IndexedDB* del browser — salvano informazioni in modo analogo. La normativa europea (Direttiva ePrivacy, art. 122 del Codice Privacy e GDPR) richiede il consenso preventivo per ogni cookie o tecnologia similare che **non** sia strettamente necessario al funzionamento del sito o a un servizio che hai chiesto tu.
 
 ## 2. Categorie utilizzate
 
-- **Strettamente necessari / tecnici** — indispensabili al funzionamento del Sito: la tua scelta sui cookie, le preferenze di tema e di lingua, e i cookie di autenticazione dell’area amministrativa riservata. Non richiedono consenso.
+- **Strettamente necessari / tecnici** — indispensabili al funzionamento del Sito: la tua scelta sui cookie e le preferenze di tema e di lingua. Non richiedono consenso.
 - **Analytics** — cookie di misurazione di **Google Analytics 4**, usati esclusivamente per statistiche aggregate d’uso del Sito. **Sono installati solo se abiliti la categoria “Analytics” nel banner.** L’analytics è configurato in modalità privacy-friendly: consenso negato per impostazione predefinita (Google Consent Mode v2), anonimizzazione dell’indirizzo IP attiva, nessun Google Signals, nessuna funzionalità pubblicitaria o di remarketing, nessuna profilazione cross-site.
-- **Funzionali** — tecnologie caricate **solo su tua esplicita richiesta** (ad esempio l’autocompletamento dell’indirizzo nel form di registrazione o l’avvio di una demo interattiva). Poiché si attivano unicamente in seguito a una tua azione, non sono presenti nel banner iniziale ma sono descritte al §5.
+- **Funzionali** — dati salvati nel tuo browser per una funzione che usi tu; oggi soltanto la foto della demo del VTO Explorer (§4). Servono al servizio che hai chiesto, per questo non richiedono consenso e non compaiono nel banner.
 - **Marketing** — categoria prevista ma **attualmente non utilizzata**: il Sito non installa cookie pubblicitari né di profilazione. In caso di introduzione, il banner e la tabella saranno aggiornati e il consenso richiesto nuovamente.
 
 ## 3. Base giuridica e consenso
@@ -28,34 +29,27 @@ La tua scelta — incluso il rifiuto — è conservata per **12 mesi** nel cooki
 | Nome | Fornitore | Finalità | Durata | Categoria |
 |---|---|---|---|---|
 | `ars_consent` | Spaarkly (first-party) | Memorizza la tua scelta sui cookie (categorie, versione, data). | 12 mesi | Strettamente necessari |
-| `NEXT_LOCALE` | Spaarkly (first-party) | Impostato dal routing linguistico del sito per ricordare la lingua rilevata/selezionata. | Sessione | Strettamente necessari |
-| `theme` | Spaarkly (first-party) | Ricorda la preferenza di tema chiaro/scuro. | Persistente (localStorage) | Strettamente necessari |
+| `NEXT_LOCALE` | Spaarkly (first-party) | Ricorda la lingua del sito quando è diversa da quella del tuo browser o quando la cambi. | Sessione | Strettamente necessari |
+| `theme` | Spaarkly (first-party) | Ricorda la preferenza di tema chiaro/scuro, solo se la cambi. | Persistente (localStorage) | Strettamente necessari |
 | `_ga` | Google LLC (Google Analytics 4) | Google Analytics 4 — distingue gli utenti. | 2 anni | Analytics |
 | `_ga_<container>` | Google LLC (Google Analytics 4) | Google Analytics 4 — mantiene lo stato di sessione. | 2 anni | Analytics |
-| `__admin_session` | Spaarkly (first-party) | Autenticazione dell'area amministrativa riservata (solo pagine admin). | 5 giorni | Strettamente necessari |
-| `__admin_access` | Spaarkly (first-party) | Controllo di accesso all'area amministrativa riservata (solo pagine admin). | 1 anno | Strettamente necessari |
+| `ARS_CAPTURE_DB` | Spaarkly (first-party, SDK ARShades) | Conserva nel tuo browser la foto del viso che scatti nella demo del VTO Explorer, così provi tutte le montature senza rifarla. Esiste solo se scatti la foto e non viene inviata ai nostri server. | Finché non la elimini («Elimina la foto») o non cancelli i dati del Sito dal browser (IndexedDB) | Funzionali |
 
 <!-- cookie-table:end -->
 
 I cookie analytics (`_ga`, `_ga_<container>`) sono installati da Google solo dopo il tuo consenso; alla revoca vengono eliminati. I dati a livello di utente e di evento raccolti da Google Analytics 4 sono conservati per un massimo di **14 mesi**; i report statistici aggregati, che non contengono dati personali, possono essere conservati più a lungo.
 
-Oltre ai cookie elencati, il Sito utilizza alcuni **servizi caricati solo su tua esplicita richiesta** che non installano cookie: sono descritti al §5.
-
 ## 5. Cookie e tecnologie di terze parti
 
-L’unica terza parte che può installare cookie di misurazione su questo Sito è **Google LLC** (Google Analytics 4), e solo dopo il tuo consenso. Google LLC aderisce all’**EU–U.S. Data Privacy Framework**; per i dettagli sui trasferimenti internazionali di dati vedi l’[Informativa Privacy del Sito](../privacy-website/it.md).
+L’unica terza parte che installa cookie su questo Sito è **Google LLC** (Google Analytics 4), e solo dopo il tuo consenso. Google LLC aderisce all’**EU–U.S. Data Privacy Framework**; per i trasferimenti internazionali di dati vedi l’[Informativa Privacy del Sito](../privacy-website/it.md).
 
-Alcuni **servizi caricati solo su tua esplicita richiesta** non installano né persistono cookie su questo Sito (non compaiono quindi nella tabella del §4, che elenca i cookie e le tecnologie di memorizzazione):
-
-- **Demo interattive Virtual Try-On** servite da *webvto.it* (servizio Spaarkly): l’embed si carica solo quando clicchi per avviare la demo e dura per la sessione.
-- **API Google Maps Places**, usata dal campo di autocompletamento indirizzo del form di registrazione: si carica solo quando inizi a digitare in quel campo. Per questo servizio Google opera quale titolare autonomo del trattamento; i dettagli sono nell’[Informativa Privacy del Sito](../privacy-website/it.md).
-
-L’area amministrativa riservata e il form di registrazione utilizzano inoltre **Firebase Authentication** (Google/Firebase) per la gestione dell’accesso: tale servizio memorizza dati tecnici di sessione nel browser (IndexedDB) al solo fine di mantenere l’autenticazione, senza finalità di tracciamento o profilazione.
+Le **demo incorporate** nelle pagine del Sito (prova virtuale, cataloghi dimostrativi, VTO Explorer, 3D Viewer, demo Gateway) sono esperienze ARShades fornite da Spaarkly dai propri domini (*webvto.it*, *studio.arshades.it*, *api.arshades.com*, *arshades-gateway-demo.web.app*). Non installano cookie su questo Sito; possono salvare, sul proprio dominio, dati tecnici necessari all’esperienza (ad esempio la lingua o il catalogo aperto), senza tracciamento né profilazione. I trattamenti all’interno delle esperienze sono descritti nell’[Informativa Privacy delle soluzioni ARShades](../privacy-policy/it.md). La demo Gateway mostra una mappa di **Google Maps**: per questo servizio Google LLC opera come titolare autonomo del trattamento ([informativa privacy di Google](https://policies.google.com/privacy)).
 
 ## 6. Gestione delle preferenze
 
 - Usa il link **“Preferenze cookie”** presente nel footer di ogni pagina per rivedere o modificare le tue scelte in qualsiasi momento; la revoca del consenso Analytics comporta anche la cancellazione dei cookie `_ga*`.
-- Puoi inoltre eliminare o bloccare i cookie dalle impostazioni del browser (ciò può incidere su funzioni tecniche come la persistenza di tema e lingua).
+- La foto della demo VTO Explorer si cancella con il pulsante **«Elimina la foto»** nella demo.
+- Puoi inoltre eliminare o bloccare i cookie e i dati del Sito dalle impostazioni del browser (ciò può incidere su funzioni tecniche come la persistenza di tema e lingua).
 
 ## 7. Aggiornamenti della presente Cookie Policy
 
