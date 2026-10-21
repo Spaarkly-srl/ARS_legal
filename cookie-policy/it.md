@@ -18,7 +18,7 @@ I cookie sono piccoli file di testo che un sito memorizza sul tuo dispositivo. T
 
 ## 3. Base giuridica e consenso
 
-I cookie tecnici si fondano sul **legittimo interesse** (art. 6, par. 1, lett. f, GDPR); tutte le altre categorie si fondano esclusivamente sul tuo **consenso** (art. 6, par. 1, lett. a, GDPR), raccolto tramite il banner alla prima visita, con pari evidenza tra “Accetta tutti” e “Rifiuta tutti”.
+I cookie tecnici e i dati funzionali salvati per un servizio che hai chiesto tu si fondano sul **legittimo interesse** (art. 6, par. 1, lett. f, GDPR) e non richiedono consenso; la categoria Analytics (e la categoria Marketing, se mai introdotta) si fonda esclusivamente sul tuo **consenso** (art. 6, par. 1, lett. a, GDPR), raccolto tramite il banner alla prima visita, con pari evidenza tra “Accetta tutti” e “Rifiuta tutti”.
 
 La tua scelta — incluso il rifiuto — è conservata per **12 mesi** nel cookie first-party `ars_consent`. Una prova minimale del consenso (identificativo casuale, marca temporale, versione e lingua dell’informativa visualizzata nel banner, categorie e azione — **senza indirizzo IP né user-agent**) è registrata sui nostri server per il tempo necessario a dimostrare il consenso (fino a **26 mesi**) e poi rimossa automaticamente. In caso di rifiuto non ti sarà richiesto un nuovo consenso per almeno **6 mesi**, salvo modifiche sostanziali dell’informativa.
 

@@ -1,12 +1,11 @@
 # ARSHADES WEBSITE — PRIVACY POLICY
 
-> ⚠️ **DRAFT — NOT FINAL.** Document pending legal review, not yet in force. [[Prerequisites for sign-off: (1) persistence of `privacyNoticeAcknowledged*` (+ version and language) in the registration backend; (2) verification/activation of the Firestore TTL policy on `tokenExpiry` for `PendingRegistration` in staging and production; (3) implementation of the demo form backend flow (POST + ZeptoMail + Zoho Bigin) — §2.e describes the target state; (4) verification of console settings: GA4 with data sharing with other Google products disabled, ZeptoMail without content retention and without open/click tracking; (5) verification of the Zoho DPA and sub-processor list (extra-EEA access) for ZeptoMail and Bigin.]]
+*ARShades website* </br> *Version 1.0.0 — Last updated: 21 October 2026 — Effective date: from its publication on the new ARShades website*
 
-*ARShades marketing website* </br> *Version: draft — Last updated: 22 July 2026*
 
 This **Privacy Policy** describes how **Spaarkly s.r.l.** (“Spaarkly”, “we”) processes your personal data when you visit or use the **website presenting the ARShades solutions** (the “Site”).
 
-This document concerns **the Site only**. The processing carried out within the **ARShades product experiences** (Virtual Try-On, 3D Viewer, VTO Explorer, AR PD Meter, VTO Mirror, Gateway, Campaign Catalogue) is governed by the [Privacy Policy of the ARShades solutions](../privacy-policy/en.md). For the cookies and similar technologies used by the Site, see the [Website Cookie Policy](../cookie-policy/en.md).
+This document concerns **the Site only**. The processing carried out within the **ARShades product experiences** (Virtual Try-On, 3D Viewer, VTO Explorer, AR PD Meter, Digital Mirrors, Gateway, Campaign Catalogues), including the demos embedded in the Site, is governed by the [Privacy Policy of the ARShades solutions](../privacy-policy/en.md). For the cookies and similar technologies used by the Site, see the [Website Cookie Policy](../cookie-policy/en.md).
 
 ## 1. Data controller
 
@@ -17,101 +16,73 @@ For any matter concerning data protection you can write to us at **privacy@spaar
 
 ### a) Browsing data and service logs
 
-While you browse, the systems hosting the Site (Google Firebase infrastructure, **europe-west1** region, Belgium) automatically record technical data whose transmission is implicit in Internet protocols: IP address, date and time of the request, requested page, response code, browser user-agent. We use these logs exclusively to ensure the **operation, security and diagnostics** of the Site.
+While you browse, the systems hosting the Site automatically record technical data whose transmission is implicit in Internet protocols: IP address, date and time of the request, requested page, response code, browser user-agent. We use these logs exclusively to ensure the **operation, security and diagnostics** of the Site.
 
 - **Legal basis:** legitimate interest (art. 6(1)(f) GDPR) in the proper and secure operation of the Site.
-- **Retention:** for the time strictly necessary for security and diagnostic purposes, normally no longer than **30 days**.
+- **Retention:** normally no longer than **30 days**.
 
 ### b) Site usage statistics (Google Analytics 4) — only with your consent
 
-If you enable the “Analytics” category — by accepting all cookies from the banner or by selecting it in the preferences — we use **Google Analytics 4** for aggregate statistics on the Site's usage (pages visited, origin, interactions). Analytics is configured in a privacy-friendly mode: consent denied by default (**Google Consent Mode v2**), **IP address anonymization**, no Google Signals, no advertising or remarketing functionality, no cross-site profiling.
+If you enable the “Analytics” category in the cookie banner, we use **Google Analytics 4** for aggregate statistics on the Site's usage (pages visited, origin, interactions). Analytics is configured in a privacy-friendly mode: consent denied by default (Google Consent Mode v2), IP address anonymisation, no Google Signals, no advertising or remarketing functionality, no cross-site profiling.
 
 - **Legal basis:** consent (art. 6(1)(a) GDPR), revocable at any time via the “Cookie preferences” link in the footer.
-- **Retention:** user-level and event-level data collected by Google Analytics 4 is retained for a maximum of **14 months**; aggregate statistical reports, which contain no personal data, may be kept longer.
-- Refusing consent has no consequence whatsoever on your use of the Site.
+- **Retention:** user-level and event-level data is retained by Google Analytics 4 for a maximum of **14 months**; aggregate reports, which contain no personal data, may be kept longer.
+- Not giving consent has no consequence whatsoever for your use of the Site.
 
 ### c) Proof of your cookie choices
 
-When you make a choice in the cookie banner (acceptance, refusal or customisation), we record on our servers a **minimal proof of the choice**: a random identifier, the timestamp, the version and **language** of the policy shown in the banner, the categories and the action — **without IP address or user-agent**.
+When you make a choice in the cookie banner, we record on our servers a **minimal proof of the choice**: a random identifier, the timestamp, the version and language of the policy shown, the categories and the action — **without IP address or user-agent**.
 
-- **Legal basis:** legitimate interest (art. 6(1)(f) GDPR) in fulfilling the obligation to demonstrate consent (accountability, arts. 5(2) and 7(1) GDPR).
+- **Legal basis:** legitimate interest (art. 6(1)(f) GDPR) in fulfilling the obligation to demonstrate consent (arts. 5(2) and 7(1) GDPR).
 - **Retention:** up to **26 months**, then automatic removal.
 
-### d) ARShades Studio registration request form
+### d) “Request a demo” and “Start a trial” forms
 
-The Site hosts a form through which your company can request registration on the **ARShades Studio** platform. The data collected is:
+The Site hosts two forms through which your company can request a demo of the ARShades solutions or the activation of a free trial. The data collected is: first and last name, company and company type, country, business email, phone number, role in the company, catalogue size, products of interest and, optionally, a message; we also record the date and time of your declaration that you have read this Privacy Policy and the Site's Terms and Conditions, together with the version and language of the texts.
 
-- **company data:** company name, country, VAT number, company website, registered-office address (street, postal code, city, province) and — for Italy only — SDI code and/or PEC certified email address;
-- **contact details of the contact person:** first name, last name, business email, role in the company and, optionally, phone number;
-- **date and time** of your acceptance of the Terms and Conditions and of your acknowledgement of this notice, together with the **version and language** of the notice displayed.
+After you submit the form, we send you an email with a confirmation link valid for **24 hours** (sender `no-reply@arshades.com`, through the provider **ZeptoMail** by Zoho Corporation). The request is handled **only after the email address has been confirmed**: from that moment it is recorded in our CRM, **Zoho Bigin**, and we get back to you to follow up on the request. **Unconfirmed** requests are not used to contact you: we keep them for **12 months** for the sole purpose of detecting and documenting any abuse of the form (for example, entering another person's email address), after which they are deleted. For the free trial, activation takes place on the ARShades Studio platform and is governed by the platform's Terms and Conditions and privacy policy.
 
-The request undergoes **automated eligibility checks** (email and phone number format, technical verification of the business email domain, VAT number format): these are technical checks with no legal effects on the person; in case of a negative outcome you can always contact us at privacy@spaarkly.com.
-
-When you submit the form, the data is sent to the ARShades backend (Google Cloud, **europe-central2** region, Poland) and kept in a holding area until your email address is verified: we send you a verification email (sender `no-reply@arshades.com`, through the provider **ZeptoMail** — Zoho Corporation, European endpoint) containing a link valid for **7 days**. If you do not complete the verification within that period, **the request data is deleted automatically**; the email provider's technical delivery logs are retained for approximately **60 days**. We do not record IP address or user-agent together with the request.
-
-Upon completion of the verification and registration, the data flows into your ARShades Studio account and is processed in accordance with the privacy notice made available on the platform and the applicable contractual terms.
-
-- **Legal basis:** legitimate interest (art. 6(1)(f) GDPR) of Spaarkly and of the requesting company in handling the registration request submitted by the company contact person; where you act on your own behalf as a professional or sole trader, performance of pre-contractual measures taken at your request (art. 6(1)(b) GDPR).
-- **Retention:** **7 days** for unverified requests; upon completion, according to the terms applicable to the ARShades Studio account.
-- Providing the data marked as mandatory is necessary to follow up on the request; without it, the registration cannot be completed. The phone number is optional.
-
-### e) “Request a demo” form
-
-The Site hosts a form to request a demo of the ARShades solutions. The data collected is: first and last name, business email, company, role, country, catalogue type and size, areas of interest and, optionally, a message. We use this data to **assess and handle your demo request and to contact you back** for that purpose. The request is recorded in our CRM **Zoho Bigin** (European data center) and the related email communications are sent through **ZeptoMail** (Zoho Corporation, European endpoint).
-
-- **Legal basis:** legitimate interest (art. 6(1)(f) GDPR) of Spaarkly and of the requesting company in handling the request submitted by the company contact person; where you act on your own behalf as a professional or sole trader, performance of pre-contractual measures taken at your request (art. 6(1)(b) GDPR).
+- **Legal basis:** performance of pre-contractual measures taken at your request (art. 6(1)(b) GDPR) when you act on your own behalf; legitimate interest (art. 6(1)(f) GDPR) of Spaarkly and of the requesting company in handling the request when you act as a company's contact person. For unconfirmed requests: legitimate interest (art. 6(1)(f) GDPR) in preventing abuse of the form and protecting the rights of Spaarkly and of the people involved.
 - **Retention:** **24 months** from the last meaningful contact, unless a contractual relationship is established.
 - Providing the data marked as mandatory is necessary to follow up on the request; the message is optional.
 
-### f) Address autocomplete (Google Places) — only at your request
-
-In the registration form, the address field offers autocomplete suggestions based on the **Google Maps Places API**. The service activates **only when you start typing in the address field**: from that moment your browser establishes a connection with Google's servers — which entails the communication to Google of your **IP address and technical browser data** — and the typed text is transmitted to Google to generate the suggestions; when you select a suggestion, Google returns the structured address. For this service **Google acts as an independent data controller** (Google Controller-Controller Terms): for information see [Google's privacy policy](https://policies.google.com/privacy). You can always enter the address manually: if you do not type in the field with suggestions active, no data is sent to Google.
-
-- **Legal basis:** legitimate interest (art. 6(1)(f) GDPR) in facilitating the completion of the form; the service activates only following an explicit action of yours, and manual entry always remains available.
-
-### g) Restricted admin area
-
-The Site includes a non-public administrative area, reserved for authorised Spaarkly personnel, protected by authentication (**Firebase Authentication**) and technical session cookies. The area does not concern visitors of the Site; the related cookies are listed in the [Cookie Policy](../cookie-policy/en.md).
-
 ## 3. Recipients of the data
 
-The data is processed by authorised Spaarkly personnel and by the following providers:
+The data is processed by authorised Spaarkly personnel and by the following providers, which act as data processors:
 
-| Provider | Service | Role | Processing location |
-|---|---|---|---|
-| Google Ireland Ltd. / Google LLC | Hosting and database infrastructure (Firebase, Google Cloud) | Data processor | EU (europe-west1, europe-central2) |
-| Google Ireland Ltd. / Google LLC | Google Analytics 4 (only with your prior consent) | Data processor — data sharing with other Google products and services is disabled | EU/USA |
-| Google Ireland Ltd. / Google LLC | Google Maps Places API (only at your request) | **Independent data controller** (Google Controller-Controller Terms) | EU/USA |
-| Zoho Corporation (ZeptoMail) | Sending of verification and service emails | Data processor | EU (European endpoint) |
-| Zoho Corporation (Bigin) | CRM for handling demo requests | Data processor | EU (European data center) |
+| Provider | Service | Processing location |
+|---|---|---|
+| Google Ireland Ltd. / Google LLC | Site hosting and database (Firebase, Google Cloud) | European Union |
+| Google Ireland Ltd. / Google LLC | Google Analytics 4 (only with prior consent; data sharing with other Google products disabled) | EU / USA |
+| Zoho Corporation (ZeptoMail) | Sending of confirmation and service emails | European Union |
+| Zoho Corporation (Bigin) | CRM for handling requests | European Union |
 
 We do not sell your personal data, nor do we share it with third parties for marketing purposes.
 
 ## 4. International transfers
 
-The data is processed mainly within the European Union. Where a provider (in particular **Google LLC** for Google Analytics 4 and the Google Maps APIs) processes data in the United States, the transfer is supported, as the case may be: by the European Commission's adequacy decision for the **EU–U.S. Data Privacy Framework**, valid only for certified U.S. entities (Google LLC is certified); and/or by the **Standard Contractual Clauses** adopted by the European Commission. Data entrusted to **Zoho Corporation** (ZeptoMail, Bigin) is hosted in data centres within the European Union; any technical access by Zoho group companies established outside the European Economic Area (for example, for support purposes) is governed by the **Standard Contractual Clauses** included in the provider's Data Processing Addendum. [[Verification in progress: Zoho DPA and sub-processor list for ZeptoMail and Bigin.]] You can obtain a copy of the applicable safeguards by writing to **privacy@spaarkly.com**. For the Google Places service, Google processes the data as an independent data controller in accordance with its own privacy policy.
+The data is processed within the European Union. For Google Analytics 4, Google LLC may process data in the United States: the transfer is supported by the adequacy decision for the **EU–U.S. Data Privacy Framework** (Google LLC is certified) and by the European Commission's **Standard Contractual Clauses**. Data entrusted to Zoho Corporation is hosted in the European Union; any technical access by companies in its group established outside the European Economic Area is governed by the Standard Contractual Clauses included in the contract with the provider. You can obtain a copy of the applicable safeguards by writing to **privacy@spaarkly.com**.
 
 ## 5. Retention periods — summary
 
 | Processing | Retention |
 |---|---|
 | Service and security logs | Normally no longer than 30 days |
-| Google Analytics 4 statistics | User/event data: maximum 14 months (aggregate reports contain no personal data) |
+| Google Analytics 4 statistics | User/event data: maximum 14 months |
 | Proof of cookie choices | Up to 26 months |
-| Unverified registration requests | 7 days |
-| Email provider delivery logs (ZeptoMail) | Approximately 60 days |
-| Demo requests in the CRM | 24 months from the last meaningful contact |
+| Requests not confirmed by email (solely to detect and document abuse) | 12 months |
+| Demo and trial requests in the CRM | 24 months from the last meaningful contact |
 | Cookie choice (`ars_consent` cookie on your device) | 12 months |
 
 ## 6. Data subject rights
 
 Within the limits of arts. 15–22 GDPR, you have the right to obtain **access** to your data, **rectification**, **erasure**, **restriction** of processing and **portability**, as well as to **object** to processing based on legitimate interest and to **withdraw your consent** at any time (for analytics, via the “Cookie preferences” link in the footer), without affecting the lawfulness of the processing carried out before the withdrawal.
 
-You can exercise your rights by writing to **privacy@spaarkly.com**. You also have the right to lodge a complaint with the competent supervisory authority — for Italy, the Italian Data Protection Authority (**Garante per la protezione dei dati personali** — www.garanteprivacy.it).
+You can exercise your rights by writing to **privacy@spaarkly.com**. You also have the right to lodge a complaint with the competent supervisory authority (for Italy, the **Garante per la protezione dei dati personali**, the Italian Data Protection Authority — www.garanteprivacy.it).
 
 ## 7. Minors
 
-The Site and the ARShades Studio services are intended for a professional audience and are not directed at minors. We do not knowingly collect personal data of minors through the Site.
+The Site is intended for a professional audience and is not directed at minors. We do not knowingly collect personal data of minors through the Site.
 
 ## 8. Changes to this Privacy Policy
 

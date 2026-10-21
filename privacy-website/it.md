@@ -61,7 +61,7 @@ Non vendiamo i tuoi dati personali né li comunichiamo a terzi per finalità di 
 
 ## 4. Trasferimenti internazionali
 
-I dati sono trattati all’interno dell’Unione Europea. Per Google Analytics 4, Google LLC può trattare dati negli Stati Uniti: il trasferimento è assistito dalla decisione di adeguatezza per l’**EU–U.S. Data Privacy Framework** (Google LLC è certificata) e dalle **Clausole Contrattuali Standard** della Commissione Europea. I dati affidati a Zoho Corporation sono ospitati nell’Unione Europea; eventuali accessi tecnici da società del gruppo stabilite fuori dallo Spazio Economico Europeo sono disciplinati dalle Clausole Contrattuali Standard incluse nel contratto con il fornitore. Puoi ottenere copia delle garanzie applicabili scrivendo a **privacy@spaarkly.com**.
+I dati sono trattati principalmente all’interno dell’Unione Europea. Per Google Analytics 4, Google LLC può trattare dati negli Stati Uniti: il trasferimento è assistito dalla decisione di adeguatezza per l’**EU–U.S. Data Privacy Framework** (Google LLC è certificata) e dalle **Clausole Contrattuali Standard** della Commissione Europea. I dati affidati a Zoho Corporation sono ospitati nell’Unione Europea; eventuali accessi tecnici da società del gruppo stabilite fuori dallo Spazio Economico Europeo sono disciplinati dalle Clausole Contrattuali Standard incluse nel contratto con il fornitore. Puoi ottenere copia delle garanzie applicabili scrivendo a **privacy@spaarkly.com**.
 
 ## 5. Periodi di conservazione — riepilogo
 
