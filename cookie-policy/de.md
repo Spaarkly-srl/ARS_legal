@@ -1,6 +1,6 @@
 # COOKIE-RICHTLINIE — ARSHADES-WEBSITE
 
-*Version 1.1.1 — Aktualisiert: 21. Oktober 2026 — Wirksam: ab der Veröffentlichung auf der neuen ARShades-Website*
+*Version 1.2.0 — Aktualisiert: 22. Oktober 2026 — Wirksam: ab der Veröffentlichung auf der neuen ARShades-Website*
 
 Diese Cookie-Richtlinie beschreibt die Cookies und ähnlichen Technologien, die von der **Website zur Präsentation der ARShades-Lösungen** (die „Website“) verwendet werden, und ergänzt die [Datenschutzerklärung der Website](../privacy-website/de.md).
 
@@ -10,7 +10,7 @@ Verantwortlicher ist die **Spaarkly s.r.l.**, Via della Tecnica n. 18, 85100 Pot
 
 Cookies sind kleine Dateien, die im Browser gespeichert werden. Auch *localStorage* und *IndexedDB* speichern Informationen auf Ihrem Gerät.
 
-- **Technisch und funktional notwendig:** Diese speichern Ihre Cookie-Auswahl, die Sprache, das Farbschema und das Foto, das Sie in der Demo von VTO Explorer aufnehmen, um Fassungen anzuprobieren. Sie werden ausschließlich für die jeweils angeforderten Funktionen verwendet und erfordern nach Art. 122 des italienischen Datenschutzkodex keine Einwilligung. Für die zu diesen Zwecken verarbeiteten personenbezogenen Daten ist die Rechtsgrundlage nach der DSGVO das berechtigte Interesse an der Bereitstellung dieser Funktionen (Art. 6 Abs. 1 lit. f).
+- **Technisch und funktional notwendig:** Diese speichern Ihre Cookie-Auswahl, die Sprache und das Farbschema, schützen Formulare vor missbräuchlichen Übermittlungen und ermöglichen die angeforderten Funktionen, etwa das Speichern eines Fotos in VTO Explorer. Sie werden ausschließlich für die jeweils angeforderten Funktionen verwendet und erfordern nach Art. 122 des italienischen Datenschutzkodex keine Einwilligung. Für die zu diesen Zwecken verarbeiteten personenbezogenen Daten ist die Rechtsgrundlage nach der DSGVO das berechtigte Interesse an der Bereitstellung dieser Funktionen (Art. 6 Abs. 1 lit. f).
 - **Analyse:** Nur mit Ihrer Einwilligung aktivieren wir **Google Analytics 4**, um Besuche und Interaktionen zu messen und Nutzungsstatistiken zu erstellen (Art. 6 Abs. 1 lit. a DSGVO). Wir verwenden weder Google Signals noch Werbefunktionen oder Remarketing.
 
 ## 2. Cookies und Browserspeicher
@@ -22,13 +22,14 @@ Cookies sind kleine Dateien, die im Browser gespeichert werden. Auch *localStora
 | `ars_consent` — cookie | Spaarkly | Speichert die Cookie-Auswahl, auch eine Ablehnung. | 12 Monate ab der Auswahl | Technisch |
 | `NEXT_LOCALE` — cookie | Spaarkly | Merkt sich die Sprache der Website. | Sitzung | Technisch |
 | `theme` — localStorage | Spaarkly | Merkt sich das helle oder dunkle Farbschema, das Sie wählen. | Bis zur Löschung der Website-Daten aus dem Browser | Technisch |
+| `_GRECAPTCHA` — cookie | Google (reCAPTCHA Enterprise; www.google.com) | Risikoanalyse und Schutz der Formulare vor automatisierten und missbräuchlichen Übermittlungen. | 180 Tage | Technisch |
 | `_ga` — cookie | Google LLC (Google Analytics 4) | Unterscheidet Nutzer in den Statistiken. | Nominell 2 Jahre | Analyse |
 | `_ga_<container>` — cookie | Google LLC (Google Analytics 4) | Hält den Status der Messsitzung aufrecht. | Nominell 2 Jahre | Analyse |
 | `ARS_CAPTURE_DB` — IndexedDB | Spaarkly | Speichert lokal das Foto Ihres Gesichts, das Sie in der Demo von VTO Explorer aufnehmen, um es bei der Anprobe von Fassungen wiederzuverwenden; das Foto wird nicht an unsere Server gesendet. | Bis zur Verwendung von „Foto löschen“ oder zur Löschung der Website-Daten aus dem Browser | Funktional notwendig |
 
 <!-- cookie-table:end -->
 
-Die aufgeführten Cookies sind **First-Party-Cookies**, die auf der Domain der Website gespeichert werden, auch wenn sie von Google Analytics verwendet werden. Das Ablaufdatum der Analyse-Cookies kann bei Besuchen erneuert werden; der Browser kann ihre tatsächliche Dauer begrenzen.
+Die auf der Domain der Website gespeicherten Cookies sind **First-Party-Cookies**, auch wenn sie von Google Analytics verwendet werden. Das Cookie `_GRECAPTCHA`, das auf der Domain von Google gespeichert wird, ist ein **Third-Party-Cookie**. Das Ablaufdatum der Analyse-Cookies kann bei Besuchen erneuert werden; der Browser kann ihre tatsächliche Dauer begrenzen.
 
 Die Speicherdauer von **14 Monaten** für Nutzer- und Ereignisdaten in Google Analytics ist von der Dauer der Cookies zu unterscheiden. Informationen zu den erhobenen Daten, Empfängern, internationalen Übermittlungen und Ihren Rechten finden Sie in der [Datenschutzerklärung der Website](../privacy-website/de.md).
 

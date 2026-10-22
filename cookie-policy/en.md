@@ -1,6 +1,6 @@
 # COOKIE POLICY — ARSHADES WEBSITE
 
-*Version 1.1.1 — Updated: 21 October 2026 — Effective: from its publication on the new ARShades website*
+*Version 1.2.0 — Updated: 22 October 2026 — Effective: from its publication on the new ARShades website*
 
 This Cookie Policy describes the cookies and similar technologies used by the **website presenting the ARShades solutions** (the “Site”) and supplements the [Website Privacy Policy](../privacy-website/en.md).
 
@@ -10,7 +10,7 @@ The data controller is **Spaarkly s.r.l.**, Via della Tecnica n. 18, 85100 Poten
 
 Cookies are small files saved in your browser. *localStorage* and *IndexedDB* also store information on your device.
 
-- **Technical and necessary functional:** they store your cookie choices, language, theme and the photo you take in the VTO Explorer demo to try on frames. They are used only to provide the functions you request and do not require consent under Article 122 of the Italian Privacy Code. For the personal data processed for these purposes, the legal basis under the GDPR is legitimate interest in providing those functions (Art. 6(1)(f)).
+- **Technical and necessary functional:** they store your cookie choices, language and theme, protect forms from abusive submissions and support the functions you request, such as saving a photo in VTO Explorer. They are used only to provide the functions you request and do not require consent under Article 122 of the Italian Privacy Code. For the personal data processed for these purposes, the legal basis under the GDPR is legitimate interest in providing those functions (Art. 6(1)(f)).
 - **Analytics:** we activate **Google Analytics 4** only with your consent, to measure visits and interactions and to produce usage statistics (Art. 6(1)(a) GDPR). We do not use Google Signals, advertising features or remarketing.
 
 ## 2. Cookies and browser storage
@@ -22,13 +22,14 @@ Cookies are small files saved in your browser. *localStorage* and *IndexedDB* al
 | `ars_consent` — cookie | Spaarkly | Stores your cookie choice, including a refusal. | 12 months from your choice | Technical |
 | `NEXT_LOCALE` — cookie | Spaarkly | Remembers the Site's language. | Session | Technical |
 | `theme` — localStorage | Spaarkly | Remembers the light or dark theme you choose. | Until the Site's data is cleared from the browser | Technical |
+| `_GRECAPTCHA` — cookie | Google (reCAPTCHA Enterprise; www.google.com) | Risk analysis and protection of forms from automated and abusive submissions. | 180 days | Technical |
 | `_ga` — cookie | Google LLC (Google Analytics 4) | Distinguishes users in the statistics. | Nominally 2 years | Analytics |
 | `_ga_<container>` — cookie | Google LLC (Google Analytics 4) | Maintains the state of the measurement session. | Nominally 2 years | Analytics |
 | `ARS_CAPTURE_DB` — IndexedDB | Spaarkly | Keeps the photo of your face that you take in the VTO Explorer demo locally, so it can be reused when you try on frames; the photo is not sent to our servers. | Until “Delete photo” is used or the Site's data is cleared from the browser | Necessary functional |
 
 <!-- cookie-table:end -->
 
-The cookies listed are **first-party**, saved on the Site's domain, even when used by Google Analytics. The expiry of the Analytics cookies may be renewed with your visits; the browser may limit their actual duration.
+Cookies saved on the Site's domain are **first-party**, even when used by Google Analytics. The `_GRECAPTCHA` cookie, saved on Google's domain, is **third-party**. The expiry of the Analytics cookies may be renewed with your visits; the browser may limit their actual duration.
 
 The retention of user and event data in Google Analytics for **14 months** is separate from the duration of the cookies. For the data collected, recipients, international transfers and your rights, see the [Website Privacy Policy](../privacy-website/en.md).
 

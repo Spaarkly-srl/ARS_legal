@@ -75,11 +75,11 @@ Current version: **0.2.2** — parametric **templates** (mustache `{{…}}` vari
 
 ## Cookie Policy
 
-Cookie Policy del sito web ARShades — **v1.1.1 pubblicata e in vigore dal 2026-10-21** (testo definitivo del consulente approvato da Michele Lo Russo); sostituisce la v1.0.1. Testo autoritativo in italiano; en/fr/de/es/ja sono traduzioni di cortesia della 1.1.1. Il sito riceve i testi attraverso il sync da questo repository.
+Cookie Policy del sito web ARShades — **v1.2.0, aggiornamento del 2026-10-22**: aggiunge il cookie tecnico di terza parte `_GRECAPTCHA` per la protezione dei moduli, con durata di 180 giorni. Formulazione italiana approvata da Michele Lo Russo il 22/10/2026; le altre clausole approvate della 1.1.1 restano invariate. Testo autoritativo in italiano; en/fr/de/es/ja sono traduzioni di cortesia. Il sito riceve i testi attraverso il sync da questo repository.
 
 ## Informativa Privacy del sito web
 
-Informativa Privacy del solo sito web ARShades (navigazione e sicurezza, Google Analytics 4 su consenso, registro delle scelte sui cookie, richieste di demo e prova) — **v1.0.0 pubblicata e in vigore dal 2026-10-21** (testo definitivo del consulente approvato da Michele Lo Russo). Testo autoritativo in italiano: [privacy-website/it.md](privacy-website/it.md) (raw: `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-website/it.md`); en/fr/de/es/ja sono traduzioni di cortesia (stessi percorsi con la sigla della lingua). Distinta dall'Informativa Privacy delle soluzioni ARShades (`privacy-policy/`).
+Informativa Privacy del solo sito web ARShades — **v1.1.0, aggiornamento del 2026-10-22**: allinea messaggio obbligatorio, email aziendale per la demo e personale ammessa per la prova; descrive reCAPTCHA Enterprise, Google fornitore e il criterio di conservazione. Formulazione italiana approvata da Michele Lo Russo il 22/10/2026; le altre clausole approvate della 1.0.0 restano invariate. Testo autoritativo in italiano: [privacy-website/it.md](privacy-website/it.md) (raw: `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-website/it.md`); en/fr/de/es/ja sono traduzioni di cortesia (stessi percorsi con la sigla della lingua). Distinta dall'Informativa Privacy delle soluzioni ARShades (`privacy-policy/`).
 
 ## Cookie Policy — lingue
 

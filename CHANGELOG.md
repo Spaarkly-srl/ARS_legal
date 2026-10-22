@@ -2,6 +2,12 @@
 
 ## Repository
 
+### 2026-10-22 — Allineamento delle informative ai moduli e a reCAPTCHA
+
+- **Informativa Privacy del sito web → v1.1.0**: messaggio obbligatorio per demo e prova; email aziendale richiesta per la demo, personale ammessa per la prova; dati, finalità, base giuridica, fornitore e criterio di conservazione di reCAPTCHA Enterprise.
+- **Cookie Policy del sito web → v1.2.0**: cookie di terza parte `_GRECAPTCHA` di Google per analisi del rischio e protezione dei moduli, durata rilevata di 180 giorni; aggiornate le descrizioni dei cookie necessari e della prima/terza parte.
+- Formulazione italiana approvata da Michele Lo Russo il 22/10/2026. Traduzioni di cortesia en/fr/es/de/ja con traduttore, revisore e lettore indipendente; inglese completato prima delle altre lingue. Le altre clausole approvate sono preservate. URL invariati; la sincronizzazione del sito usa le nuove versioni. I 180 giorni riguardano il cookie, non un termine massimo di conservazione di tutti i dati presso Google.
+
 ### 2026-10-21 — Pubblicazione dei testi definitivi del sito web in sei lingue
 - Pubblicate **Informativa Privacy del sito web 1.0.0** e **Cookie Policy 1.1.1**, già approvate da Michele Lo Russo: `status: published`, `effective_date: 2026-10-21`, italiano testo autentico e traduzioni di cortesia en/fr/de/es/ja. Nessuna modifica ai dodici testi approvati.
 - README e note del manifest aggiornati; il workflow esistente notifica il sito marketing e avvia la sincronizzazione delle copie pubblicate.
