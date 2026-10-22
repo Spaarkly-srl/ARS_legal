@@ -4,7 +4,7 @@
   "pages_base_url": "https://spaarkly-srl.github.io/ARS_legal",
   "raw_base_url": "https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main",
   "contact": "privacy@spaarkly.com",
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "documents": [
     {
       "key": "privacy-policy",
@@ -284,10 +284,10 @@
         "en": "Privacy Policy — ARShades Website"
       },
       "status": "published",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "authoritative_language": "it",
-      "effective_date": "2026-10-21",
-      "updated": "2026-10-21",
+      "effective_date": "2026-10-22",
+      "updated": "2026-10-22",
       "languages": [
         "it",
         "en",
@@ -312,7 +312,7 @@
         "ja": "/privacy-website/ja.md",
         "es": "/privacy-website/es.md"
       },
-      "notes": "Privacy notice for the ARShades website only (consultant's final text of 2026-10-21): navigation logs, GA4 on consent, cookie-choice register, demo and trial request forms (email confirmation, Zoho Bigin CRM; unconfirmed requests kept 12 months only against abuse). 1.0.0 approved by Michele Lo Russo and published on 2026-10-21 in it/en/fr/de/es/ja. Italian authoritative; the other five languages are courtesy translations."
+      "notes": "Website-only privacy notice. Version 1.1.0 aligns demo/trial forms (mandatory messages; business email for demos, personal email allowed for trials) and describes Google reCAPTCHA Enterprise processing, provider and retention criterion. Italian wording approved by Michele Lo Russo on 2026-10-22; other approved clauses retained from 1.0.0. Italian authoritative; en/fr/es/de/ja are courtesy translations."
     },
     {
       "key": "cookie-policy",
@@ -321,10 +321,10 @@
         "en": "Cookie Policy"
       },
       "status": "published",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "authoritative_language": "it",
-      "effective_date": "2026-10-21",
-      "updated": "2026-10-21",
+      "effective_date": "2026-10-22",
+      "updated": "2026-10-22",
       "languages": [
         "it",
         "en",
@@ -349,7 +349,7 @@
         "ja": "/cookie-policy/ja.md",
         "es": "/cookie-policy/es.md"
       },
-      "notes": "1.1.1 (consultant's final text) approved by Michele Lo Russo and published on 2026-10-21 in it/en/fr/de/es/ja, replacing 1.0.1 through the website legal sync. Italian authoritative; the other five languages are courtesy translations. Previous versions remain in git history."
+      "notes": "Version 1.2.0 adds the necessary third-party _GRECAPTCHA cookie used by Google reCAPTCHA Enterprise for form abuse protection, with an observed 180-day cookie lifetime. Italian wording approved by Michele Lo Russo on 2026-10-22; other approved clauses retained from 1.1.1. Italian authoritative; en/fr/es/de/ja are courtesy translations. Previous versions remain in git history."
     }
   ]
 }

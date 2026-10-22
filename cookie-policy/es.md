@@ -1,6 +1,6 @@
 # POLÍTICA DE COOKIES — SITIO WEB ARSHADES
 
-*Versión 1.1.1 — Actualización: 21 de octubre de 2026 — Entrada en vigor: desde su publicación en el nuevo sitio web de ARShades*
+*Versión 1.2.0 — Actualización: 22 de octubre de 2026 — Entrada en vigor: desde su publicación en el nuevo sitio web de ARShades*
 
 La presente Política de Cookies describe las cookies y las tecnologías similares que utiliza el **sitio web de presentación de las soluciones ARShades** (el «Sitio») y complementa la [Política de Privacidad del Sitio](../privacy-website/es.md).
 
@@ -10,7 +10,7 @@ El responsable del tratamiento es **Spaarkly s.r.l.**, Via della Tecnica n. 18, 
 
 Las cookies son pequeños archivos que se guardan en el navegador. El *localStorage* y el *IndexedDB* también conservan información en su dispositivo.
 
-- **Técnicas y funcionales necesarias:** guardan las elecciones sobre las cookies, el idioma, el tema y la foto que usted toma en la demo VTO Explorer para probarse las monturas. Se utilizan exclusivamente para las respectivas funciones solicitadas y no requieren consentimiento conforme al art. 122 del Código de Privacidad italiano. Para los datos personales tratados con estos fines, la base jurídica según el RGPD es el interés legítimo en prestar dichas funciones (art. 6.1.f)).
+- **Técnicas y funcionales necesarias:** permiten recordar sus elecciones sobre las cookies, el idioma y el tema, proteger los formularios frente a envíos abusivos y utilizar las funciones solicitadas, como guardar una foto en VTO Explorer. Se utilizan exclusivamente para las respectivas funciones solicitadas y no requieren consentimiento conforme al art. 122 del Código de Privacidad italiano. Para los datos personales tratados con estos fines, la base jurídica según el RGPD es el interés legítimo en prestar dichas funciones (art. 6.1.f)).
 - **Analítica:** solo con su consentimiento activamos **Google Analytics 4**, para medir las visitas y las interacciones y obtener estadísticas de uso (art. 6.1.a) RGPD). No utilizamos Google Signals, funcionalidades publicitarias ni remarketing.
 
 ## 2. Cookies y almacenamiento en el navegador
@@ -22,13 +22,14 @@ Las cookies son pequeños archivos que se guardan en el navegador. El *localStor
 | `ars_consent` — cookie | Spaarkly | Guarda la elección sobre las cookies, incluido el rechazo. | 12 meses desde la elección | Técnicas |
 | `NEXT_LOCALE` — cookie | Spaarkly | Recuerda el idioma del Sitio. | Sesión | Técnicas |
 | `theme` — localStorage | Spaarkly | Recuerda el tema claro u oscuro que elija. | Hasta que se borren del navegador los datos del Sitio | Técnicas |
+| `_GRECAPTCHA` — cookie | Google (reCAPTCHA Enterprise; www.google.com) | Análisis del riesgo y protección de los formularios frente a envíos automatizados y abusivos. | 180 días | Técnicas |
 | `_ga` — cookie | Google LLC (Google Analytics 4) | Distingue a los usuarios en las estadísticas. | 2 años nominales | Analítica |
 | `_ga_<container>` — cookie | Google LLC (Google Analytics 4) | Mantiene el estado de la sesión de medición. | 2 años nominales | Analítica |
 | `ARS_CAPTURE_DB` — IndexedDB | Spaarkly | Conserva localmente la foto del rostro que toma en la demo VTO Explorer para reutilizarla al probarse las monturas; la foto no se envía a nuestros servidores. | Hasta que se use «Eliminar la foto» o se borren del navegador los datos del Sitio | Funcionales necesarias |
 
 <!-- cookie-table:end -->
 
-Las cookies enumeradas son **propias**: se guardan en el dominio del Sitio, incluso cuando las utiliza Google Analytics. La caducidad de las cookies analíticas puede renovarse con las visitas; el navegador puede limitar su duración efectiva.
+Las cookies que se guardan en el dominio del Sitio son **propias**, incluso cuando las utiliza Google Analytics. La cookie `_GRECAPTCHA`, que se guarda en el dominio de Google, es **de terceros**. La caducidad de las cookies analíticas puede renovarse con las visitas; el navegador puede limitar su duración efectiva.
 
 Los **14 meses** de conservación de los datos de usuario y de evento en Google Analytics son independientes de la duración de las cookies. Para los datos recabados, los destinatarios, las transferencias internacionales y los derechos, consulte la [Política de Privacidad del Sitio](../privacy-website/es.md).
 

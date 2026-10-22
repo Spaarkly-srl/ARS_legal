@@ -1,6 +1,6 @@
 # POLITIQUE RELATIVE AUX COOKIES — SITE WEB ARSHADES
 
-*Version 1.1.1 — Mise à jour : 21 octobre 2026 — Entrée en vigueur : à compter de sa publication sur le nouveau site web ARShades*
+*Version 1.2.0 — Mise à jour : 22 octobre 2026 — Entrée en vigueur : à compter de sa publication sur le nouveau site web ARShades*
 
 La présente Politique relative aux cookies décrit les cookies et technologies similaires utilisés par le **site web de présentation des solutions ARShades** (le « Site ») et complète la [Politique de confidentialité du Site](../privacy-website/fr.md).
 
@@ -10,7 +10,7 @@ Le responsable du traitement est **Spaarkly s.r.l.**, Via della Tecnica n. 18, 8
 
 Les cookies sont de petits fichiers enregistrés dans le navigateur. Le *localStorage* et l’*IndexedDB* conservent eux aussi des informations sur votre appareil.
 
-- **Techniques et fonctionnels nécessaires :** ils mémorisent les choix relatifs aux cookies, la langue, le thème et la photo que vous prenez dans la démo VTO Explorer pour essayer les montures. Ils sont utilisés exclusivement pour les fonctions demandées auxquelles ils correspondent et ne requièrent pas de consentement au sens de l’art. 122 du Code italien de la protection des données personnelles. Pour les données personnelles traitées à ces fins, la base juridique au titre du RGPD est l’intérêt légitime à fournir ces fonctions (art. 6, par. 1, point f).
+- **Techniques et fonctionnels nécessaires :** ils permettent de mémoriser vos choix relatifs aux cookies, la langue et le thème, de protéger les formulaires contre les envois abusifs et d’utiliser les fonctions demandées, comme l’enregistrement d’une photo dans VTO Explorer. Ils sont utilisés exclusivement pour les fonctions demandées auxquelles ils correspondent et ne requièrent pas de consentement au sens de l’art. 122 du Code italien de la protection des données personnelles. Pour les données personnelles traitées à ces fins, la base juridique au titre du RGPD est l’intérêt légitime à fournir ces fonctions (art. 6, par. 1, point f).
 - **Analytique :** uniquement avec votre consentement, nous activons **Google Analytics 4** pour mesurer les visites et les interactions et en tirer des statistiques d’utilisation (art. 6, par. 1, point a, RGPD). Nous n’utilisons ni Google Signals, ni fonctionnalités publicitaires, ni remarketing.
 
 ## 2. Cookies et stockage dans le navigateur
@@ -22,13 +22,14 @@ Les cookies sont de petits fichiers enregistrés dans le navigateur. Le *localSt
 | `ars_consent` — cookie | Spaarkly | Mémorise le choix relatif aux cookies, y compris le refus. | 12 mois à compter du choix | Techniques |
 | `NEXT_LOCALE` — cookie | Spaarkly | Retient la langue du Site. | Session | Techniques |
 | `theme` — localStorage | Spaarkly | Retient le thème clair ou sombre que vous choisissez. | Jusqu’à la suppression des données du Site dans le navigateur | Techniques |
+| `_GRECAPTCHA` — cookie | Google (reCAPTCHA Enterprise; www.google.com) | Analyse du risque et protection des formulaires contre les envois automatisés et abusifs. | 180 jours | Techniques |
 | `_ga` — cookie | Google LLC (Google Analytics 4) | Distingue les utilisateurs dans les statistiques. | 2 ans (durée nominale) | Analytique |
 | `_ga_<container>` — cookie | Google LLC (Google Analytics 4) | Maintient l’état de la session de mesure. | 2 ans (durée nominale) | Analytique |
 | `ARS_CAPTURE_DB` — IndexedDB | Spaarkly | Conserve localement la photo de votre visage que vous prenez dans la démo VTO Explorer pour la réutiliser lors de l’essayage des montures ; la photo n’est pas envoyée à nos serveurs. | Jusqu’à l’utilisation de « Supprimer la photo » ou la suppression des données du Site dans le navigateur | Fonctionnels nécessaires |
 
 <!-- cookie-table:end -->
 
-Les cookies listés sont des cookies **propriétaires**, enregistrés sur le domaine du Site, même lorsqu’ils sont utilisés par Google Analytics. La date d’expiration des cookies analytiques peut être renouvelée au fil des visites ; le navigateur peut en limiter la durée effective.
+Les cookies enregistrés sur le domaine du Site sont des cookies **propriétaires**, même lorsqu’ils sont utilisés par Google Analytics. Le cookie `_GRECAPTCHA`, enregistré sur le domaine de Google, est un cookie **tiers**. La date d’expiration des cookies analytiques peut être renouvelée au fil des visites ; le navigateur peut en limiter la durée effective.
 
 La conservation pendant **14 mois** des données relatives aux utilisateurs et aux événements dans Google Analytics est distincte de la durée des cookies. Pour les données collectées, les destinataires, les transferts internationaux et vos droits, consultez la [Politique de confidentialité du Site](../privacy-website/fr.md).
 
