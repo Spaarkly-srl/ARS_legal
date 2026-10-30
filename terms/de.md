@@ -234,7 +234,7 @@ Für Nutzer, die in anderen Ländern ansässig sind, gilt die Schutzklausel nach
 
 **Spaarkly s.r.l.**  
 Sitz der Gesellschaft: Via della Tecnica 18, 85100 Potenza, Italien  
-P. IVA und Eintragungsnummer im Handelsregister (Registro delle Imprese) Potenza: 02077620769  
+P. IVA und Registernummer im Handelsregister (Registro delle Imprese) Potenza: 02077620769  
 Stammkapital 514,29 €, voll eingezahlt  
 E-Mail: legal@spaarkly.com
 
