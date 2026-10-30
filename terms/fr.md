@@ -1,6 +1,6 @@
 # CONDITIONS GÉNÉRALES D'UTILISATION — SERVICES ARSHADES
 
-*Solutions ARShades* </br> *Version 1.4 — Dernière mise à jour : 26 août 2026 — Date d'entrée en vigueur : 26 août 2026*
+*Solutions ARShades* </br> *Version 1.4.1 — Dernière mise à jour : 30 octobre 2026 — Date d'entrée en vigueur : 26 août 2026*
 
 Les présentes Conditions remplacent les **«ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use»** du 21 mars 2025.
 
@@ -230,10 +230,12 @@ Pour les Utilisateurs résidant dans d'autres pays, la clause de sauvegarde pré
 
 19.7 **Langue.** Les présentes Conditions sont rédigées en langue italienne, qui constitue le texte faisant foi ([terms/it.md](it.md)). La présente version française et toute autre traduction sont fournies à titre de simple commodité ; en cas de divergence, la version italienne prévaut.
 
-## 20. CONTACT
+## 20. CONTACT ET INFORMATIONS SUR LA SOCIÉTÉ
 
-**Spaarkly s.r.l.**
-P. IVA IT02077620769
+**Spaarkly s.r.l.**  
+Siège social : Via della Tecnica 18, 85100 Potenza, Italie  
+P. IVA et numéro d'immatriculation au Registre des entreprises de Potenza : 02077620769  
+Capital social de 514,29 €, entièrement libéré  
 Email : legal@spaarkly.com
 
 Pour les questions relatives à la confidentialité : privacy@spaarkly.com (voir la [Politique de Confidentialité](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/fr/)).

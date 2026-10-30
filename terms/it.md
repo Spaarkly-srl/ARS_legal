@@ -1,6 +1,6 @@
 # TERMINI E CONDIZIONI D'USO — SERVIZI ARSHADES
 
-*Soluzioni ARShades* </br> *Versione 1.4 — Ultimo aggiornamento: 26 agosto 2026 — Data di efficacia: 26 agosto 2026*
+*Soluzioni ARShades* </br> *Versione 1.4.1 — Ultimo aggiornamento: 30 ottobre 2026 — Data di efficacia: 26 agosto 2026*
 
 I presenti Termini sostituiscono i **«ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use»** del 21 marzo 2025.
 
@@ -230,10 +230,12 @@ Per gli Utenti residenti in altri Paesi si applica la clausola di salvaguardia d
 
 19.7 **Lingua.** I presenti Termini sono redatti in lingua italiana, che costituisce il testo facente fede. Le traduzioni, inclusa quella inglese, sono fornite per sola comodità; in caso di divergenza prevale la versione italiana.
 
-## 20. CONTATTI
+## 20. CONTATTI E DATI SOCIETARI
 
-**Spaarkly s.r.l.**
-P. IVA IT02077620769
+**Spaarkly s.r.l.**  
+Sede legale: Via della Tecnica 18, 85100 Potenza, Italia  
+P.IVA e iscrizione Registro Imprese di Potenza: 02077620769  
+Capitale sociale €514,29 interamente versato  
 Email: legal@spaarkly.com
 
 Per le questioni in materia di privacy: privacy@spaarkly.com (v. l'[Informativa Privacy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/it/)).

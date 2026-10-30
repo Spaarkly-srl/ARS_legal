@@ -1,6 +1,6 @@
 # ARSHADES SERVICES — TERMS AND CONDITIONS OF USE
 
-*ARShades solutions* </br> *Version 1.4 — Last updated: 26 August 2026 — Effective date: 26 August 2026*
+*ARShades solutions* </br> *Version 1.4.1 — Last updated: 30 October 2026 — Effective date: 26 August 2026*
 
 These Terms supersede the **"ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** dated 21 March 2025.
 
@@ -230,10 +230,12 @@ For Users residing in other countries, the savings clause in Section 13 applies:
 
 19.7 **Language.** These Terms are drawn up in Italian, which is the authoritative text ([terms/it.md](it.md)). This English version and any other translations are provided for convenience only; in case of discrepancy, the Italian version prevails.
 
-## 20. CONTACT
+## 20. CONTACT AND COMPANY DETAILS
 
-**Spaarkly s.r.l.**
-VAT No. IT02077620769
+**Spaarkly s.r.l.**  
+Registered office: Via della Tecnica 18, 85100 Potenza, Italy  
+VAT No. and Potenza Companies Register number: 02077620769  
+Share capital €514.29, fully paid up  
 Email: legal@spaarkly.com
 
 For privacy matters: privacy@spaarkly.com (see the [Privacy Policy](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/en/)).

@@ -34,7 +34,7 @@ Limited to data processed in connection with Shopify; the ARShades end-user expe
 
 ## ARShades Services — Terms & Conditions
 
-Current version: **1.4** — effective **26 August 2026**. Covers ARShades Virtual Try-On, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
+Current version: **1.4.1** (editorial update of 30 October 2026: company details in §20) — effective **26 August 2026**. Covers ARShades Virtual Try-On, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue; supersedes the ARShades VTO Terms and Conditions of Use dated 21 March 2025. AR PD Meter is governed by its own terms (below). The Italian version is the authoritative text; en/es/fr/de are courtesy translations.
 
 | Language | File | Raw URL |
 |---|---|---|
