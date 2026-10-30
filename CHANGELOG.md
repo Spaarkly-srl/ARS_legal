@@ -2,6 +2,10 @@
 
 ## Repository
 
+### 2026-10-30 — Termini Servizi 1.4.1: dati societari nel §20
+- **Termini e Condizioni — Servizi ARShades → v1.4.1** (it/en/es/fr/de): il §20 diventa «Contatti e dati societari» con sede legale (Via della Tecnica 18, 85100 Potenza), P.IVA e numero di iscrizione al Registro delle Imprese di Potenza (02077620769), capitale sociale €514,29 interamente versato ed email `legal@spaarkly.com`. Il link «Note legali» del sito punta a questo titolo (`/terms#dati-societari`: l'ancora la assegna il sito, il testo resta markdown semplice anche per le copie usate dalle app). Le righe del blocco vanno ora a capo (prima risultavano su un'unica riga).
+- Rimette la sede legale tolta il 10/07/2026, perché il sito deve mostrare i dati societari; §1.1 invariato. Aggiornamento editoriale approvato da Michele Lo Russo il 30/10/2026: nessuna modifica sostanziale, data di efficacia invariata (26/08/2026).
+
 ### 2026-10-22 — Allineamento delle informative ai moduli e a reCAPTCHA
 
 - **Informativa Privacy del sito web → v1.1.0**: messaggio obbligatorio per demo e prova; email aziendale richiesta per la demo, personale ammessa per la prova; dati, finalità, base giuridica, fornitore e criterio di conservazione di reCAPTCHA Enterprise.

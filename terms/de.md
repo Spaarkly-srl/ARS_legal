@@ -1,6 +1,6 @@
 # NUTZUNGSBEDINGUNGEN — ARSHADES-DIENSTE
 
-*ARShades-Lösungen* </br> *Version 1.4 — Zuletzt aktualisiert: 26. August 2026 — Datum des Inkrafttretens: 26. August 2026*
+*ARShades-Lösungen* </br> *Version 1.4.1 — Zuletzt aktualisiert: 30. Oktober 2026 — Datum des Inkrafttretens: 26. August 2026*
 
 Die vorliegenden Bedingungen ersetzen die **„ARShades Virtual Try-On (VTO) Service — Terms and Conditions of Use"** vom 21. März 2025.
 
@@ -230,10 +230,12 @@ Für Nutzer, die in anderen Ländern ansässig sind, gilt die Schutzklausel nach
 
 19.7 **Sprache.** Die vorliegenden Bedingungen sind in italienischer Sprache abgefasst, die den verbindlichen Text darstellt ([terms/it.md](it.md)). Diese deutsche Fassung sowie alle sonstigen Übersetzungen werden ausschließlich zur Erleichterung bereitgestellt; im Falle von Abweichungen ist die italienische Fassung maßgeblich.
 
-## 20. KONTAKT
+## 20. KONTAKT UND ANGABEN ZUM UNTERNEHMEN
 
-**Spaarkly s.r.l.**
-P. IVA IT02077620769
+**Spaarkly s.r.l.**  
+Sitz der Gesellschaft: Via della Tecnica 18, 85100 Potenza, Italien  
+P. IVA und Eintragungsnummer im Handelsregister (Registro delle Imprese) Potenza: 02077620769  
+Stammkapital 514,29 €, voll eingezahlt  
 E-Mail: legal@spaarkly.com
 
 Für Fragen zum Datenschutz: privacy@spaarkly.com (siehe die [Datenschutzerklärung](https://spaarkly-srl.github.io/ARS_legal/privacy-policy/de/)).

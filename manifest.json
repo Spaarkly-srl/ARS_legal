@@ -119,10 +119,10 @@
         "en": "ARShades Services — Terms and Conditions of Use"
       },
       "status": "published",
-      "version": "1.4",
+      "version": "1.4.1",
       "authoritative_language": "it",
       "effective_date": "2026-08-26",
-      "updated": "2026-08-26",
+      "updated": "2026-10-30",
       "languages": [
         "it",
         "en",
@@ -144,7 +144,7 @@
         "fr": "/terms/fr.md",
         "de": "/terms/de.md"
       },
-      "notes": "Covers VTO, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). v1.3 (2026-07-10) adds the 3D Viewer service to §1.2 and a Google Play clause to §10. Italian authoritative; en/es/fr/de are courtesy translations."
+      "notes": "Covers VTO, 3D Viewer, VTO Explorer, Mirror, Gateway and Campaign Catalogue. Supersedes the ARShades VTO Terms of 21 March 2025. AR PD Meter is governed by the dedicated terms (key: terms-ar-pd-meter). v1.3 (2026-07-10) adds the 3D Viewer service to §1.2 and a Google Play clause to §10. Italian authoritative; en/es/fr/de are courtesy translations. v1.4.1 (2026-10-30, editorial) adds the company details to §20 (registered office, Companies Register, share capital); effective date unchanged."
     },
     {
       "key": "terms-ar-pd-meter",
