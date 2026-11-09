@@ -1,6 +1,6 @@
 # INFORMATIVA PRIVACY — SITO WEB ARSHADES
 
-*Versione 1.1.0 — Aggiornamento: 22 ottobre 2026 — Efficacia: dalla pubblicazione sul nuovo sito web ARShades*
+*Versione 1.2.0 — Aggiornamento: 9 novembre 2026 — Efficacia: dalla pubblicazione sul Sito*
 
 Questa informativa riguarda il **sito web di presentazione delle soluzioni ARShades** (il “Sito”). Le esperienze di prodotto, comprese le demo incorporate, sono descritte nell’[Informativa Privacy delle soluzioni ARShades](../privacy-policy/it.md). Per cookie e tecnologie similari consulta la [Cookie Policy del Sito](../cookie-policy/it.md).
 
@@ -26,6 +26,10 @@ La base giuridica è l’esecuzione di misure precontrattuali richieste da te se
 
 I campi obbligatori, incluso il messaggio, sono indicati nel modulo: senza di essi non possiamo gestire la richiesta. L’attivazione della prova in **ARShades Studio** è regolata dai Termini e dall’informativa della piattaforma.
 
+**Messaggi dal modulo «Contattaci».** Raccogliamo nome e cognome, email, azienda (facoltativa), argomento e messaggio, per risponderti. Puoi utilizzare anche un indirizzo email personale. Come per le richieste di demo e prova, registriamo la dichiarazione di lettura dell’informativa e dei Termini e ti inviamo un link di conferma valido **24 ore**: solo dopo la conferma il messaggio arriva al nostro team e viene preso in carico. I messaggi non confermati sono conservati come le richieste non confermate, per le stesse finalità.
+
+La base giuridica è il nostro legittimo interesse a rispondere a chi ci scrive (art. 6.1.f GDPR) oppure, se ci scrivi in proprio per concludere un contratto con noi, l’esecuzione di misure precontrattuali richieste da te (art. 6.1.b). Per i messaggi non confermati e per documentare la dichiarazione valgono le basi giuridiche indicate per le richieste di demo e prova. I campi obbligatori sono indicati nel modulo: senza di essi non possiamo risponderti.
+
 ## 3. Per quanto conserviamo i dati
 
 | Dati | Durata |
@@ -35,8 +39,8 @@ I campi obbligatori, incluso il messaggio, sono indicati nel modulo: senza di es
 | Dati utente ed evento di Google Analytics 4 | Massimo 14 mesi; le statistiche rese anonime possono essere conservate più a lungo |
 | Registro delle scelte sui cookie | Fino a 26 mesi da ciascuna registrazione |
 | Scelta sui cookie sul dispositivo (`ars_consent`) | 12 mesi |
-| Richieste non confermate | 12 mesi dall’invio, poi cancellazione; in presenza di indagini o contestazioni concrete o richieste delle autorità, conserviamo oltre tale termine solo i dati pertinenti, per il tempo necessario o previsto dalla legge |
-| Richieste confermate e relative comunicazioni | 24 mesi dall’ultima interazione con te relativa alla richiesta; se nasce un rapporto contrattuale, si applicano i termini dell’informativa del servizio |
+| Richieste e messaggi non confermati | 12 mesi dall’invio, poi cancellazione; in presenza di indagini o contestazioni concrete o richieste delle autorità, conserviamo oltre tale termine solo i dati pertinenti, per il tempo necessario o previsto dalla legge |
+| Richieste e messaggi confermati e relative comunicazioni | 24 mesi dall’ultima interazione con te relativa alla richiesta o al messaggio; se nasce un rapporto contrattuale, si applicano i termini dell’informativa del servizio |
 | Log di consegna delle email presso ZeptoMail | Di norma 60 giorni dall’invio |
 
 ## 4. Fornitori e trasferimenti

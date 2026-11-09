@@ -284,10 +284,10 @@
         "en": "Privacy Policy — ARShades Website"
       },
       "status": "published",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "authoritative_language": "it",
-      "effective_date": "2026-10-22",
-      "updated": "2026-10-22",
+      "effective_date": "2026-11-09",
+      "updated": "2026-11-09",
       "languages": [
         "it",
         "en",
@@ -312,7 +312,7 @@
         "ja": "/privacy-website/ja.md",
         "es": "/privacy-website/es.md"
       },
-      "notes": "Website-only privacy notice. Version 1.1.0 aligns demo/trial forms (mandatory messages; business email for demos, personal email allowed for trials) and describes Google reCAPTCHA Enterprise processing, provider and retention criterion. Italian wording approved by Michele Lo Russo on 2026-10-22; other approved clauses retained from 1.0.0. Italian authoritative; en/fr/es/de/ja are courtesy translations."
+      "notes": "Website-only privacy notice. Version 1.2.0 adds the «Contattaci» contact form of the Company page (data, email confirmation, legal basis; same retention as demo/trial requests); Italian wording approved by Michele Lo Russo on 2026-11-09. Version 1.1.0 aligned demo/trial forms (mandatory messages; business email for demos, personal email allowed for trials) and describes Google reCAPTCHA Enterprise processing, provider and retention criterion. Italian wording approved by Michele Lo Russo on 2026-10-22; other approved clauses retained from 1.0.0. Italian authoritative; en/fr/es/de/ja are courtesy translations."
     },
     {
       "key": "cookie-policy",
