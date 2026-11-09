@@ -1,6 +1,6 @@
 # DATENSCHUTZERKLÄRUNG — ARSHADES-WEBSITE
 
-*Version 1.1.0 — Aktualisiert: 22. Oktober 2026 — Wirksam: ab der Veröffentlichung auf der neuen ARShades-Website*
+*Version 1.2.0 — Aktualisiert: 9. November 2026 — Wirksam: ab der Veröffentlichung auf der Website*
 
 Diese Datenschutzerklärung betrifft die **Website zur Präsentation der ARShades-Lösungen** (die „Website“). Die Produkterlebnisse, einschließlich der eingebetteten Demos, sind in der [Datenschutzerklärung der ARShades-Lösungen](../privacy-policy/de.md) beschrieben. Informationen zu Cookies und ähnlichen Technologien finden Sie in der [Cookie-Richtlinie der Website](../cookie-policy/de.md).
 
@@ -26,6 +26,10 @@ Rechtsgrundlage ist die Durchführung vorvertraglicher Maßnahmen, die auf Ihre 
 
 Die Pflichtfelder, einschließlich der Nachricht, sind im Formular gekennzeichnet: Ohne sie können wir die Anfrage nicht bearbeiten. Die Aktivierung der Testphase in **ARShades Studio** unterliegt den Nutzungsbedingungen und der Datenschutzerklärung der Plattform.
 
+**Kontaktaufnahme über das Formular „Kontakt“.** Wir erheben Vor- und Nachnamen, E-Mail-Adresse, Firmenname (optional), Thema und Nachricht, um Ihnen zu antworten. Sie können auch eine private E-Mail-Adresse verwenden. Wie bei den Anfragen für Demo und Testphase erfassen wir Ihre Erklärung, die Datenschutzerklärung und die Nutzungsbedingungen gelesen zu haben, und senden Ihnen einen Bestätigungslink, der **24 Stunden** gültig ist: Erst nach der Bestätigung wird die Nachricht an unser Team weitergeleitet und bearbeitet. Nicht bestätigte Nachrichten werden wie nicht bestätigte Anfragen und zu denselben Zwecken gespeichert.
+
+Rechtsgrundlage ist unser berechtigtes Interesse, denjenigen zu antworten, die uns schreiben (Art. 6 Abs. 1 lit. f DSGVO), oder, wenn Sie uns im eigenen Namen schreiben, um einen Vertrag mit uns abzuschließen, die Durchführung vorvertraglicher Maßnahmen, die auf Ihre Anfrage erfolgen (Art. 6 Abs. 1 lit. b). Für nicht bestätigte Nachrichten und zur Dokumentation der Erklärung gelten die bei den Anfragen für Demo und Testphase genannten Rechtsgrundlagen. Die Pflichtfelder sind im Formular gekennzeichnet: Ohne sie können wir Ihnen nicht antworten.
+
 ## 3. Wie lange wir die Daten speichern
 
 | Daten | Dauer |
@@ -35,8 +39,8 @@ Die Pflichtfelder, einschließlich der Nachricht, sind im Formular gekennzeichne
 | Nutzer- und Ereignisdaten von Google Analytics 4 | Höchstens 14 Monate; anonymisierte Statistiken können länger gespeichert werden |
 | Protokoll der Cookie-Auswahl | Bis zu 26 Monate ab der jeweiligen Aufzeichnung |
 | Cookie-Auswahl auf dem Gerät (`ars_consent`) | 12 Monate |
-| Nicht bestätigte Anfragen | 12 Monate ab dem Absenden, danach Löschung; bei konkreten Untersuchungen oder Streitigkeiten oder bei Anfragen der Behörden speichern wir über diese Frist hinaus nur die relevanten Daten, so lange wie erforderlich oder gesetzlich vorgesehen |
-| Bestätigte Anfragen und zugehörige Korrespondenz | 24 Monate ab der letzten Interaktion mit Ihnen zu der Anfrage; kommt ein Vertragsverhältnis zustande, gelten die Fristen der Datenschutzerklärung des Dienstes |
+| Nicht bestätigte Anfragen und Nachrichten | 12 Monate ab dem Absenden, danach Löschung; bei konkreten Untersuchungen oder Streitigkeiten oder bei Anfragen der Behörden speichern wir über diese Frist hinaus nur die relevanten Daten, so lange wie erforderlich oder gesetzlich vorgesehen |
+| Bestätigte Anfragen und Nachrichten sowie zugehörige Korrespondenz | 24 Monate ab der letzten Interaktion mit Ihnen zu der Anfrage oder Nachricht; kommt ein Vertragsverhältnis zustande, gelten die Fristen der Datenschutzerklärung des Dienstes |
 | E-Mail-Zustellprotokolle bei ZeptoMail | In der Regel 60 Tage ab dem Versand |
 
 ## 4. Anbieter und Übermittlungen

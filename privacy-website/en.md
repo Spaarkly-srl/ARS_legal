@@ -1,6 +1,6 @@
 # PRIVACY POLICY — ARSHADES WEBSITE
 
-*Version 1.1.0 — Updated: 22 October 2026 — Effective: from its publication on the new ARShades website*
+*Version 1.2.0 — Updated: 9 November 2026 — Effective: from its publication on the Site*
 
 This privacy policy concerns the **website presenting the ARShades solutions** (the “Site”). The product experiences, including the embedded demos, are described in the [Privacy Policy of the ARShades solutions](../privacy-policy/en.md). For cookies and similar technologies, see the [Website Cookie Policy](../cookie-policy/en.md).
 
@@ -26,6 +26,10 @@ The legal basis is the performance of pre-contractual measures taken at your req
 
 Mandatory fields, including the message, are marked in the form: without them we cannot handle the request. Activation of the trial in **ARShades Studio** is governed by the platform's Terms and privacy policy.
 
+**Messages from the “Contact us” form.** We collect full name, email address, company (optional), topic and message, to reply to you. You can also use a personal email address. As with demo and trial requests, we record your declaration that you have read the privacy policy and the Terms, and we send you a confirmation link valid for **24 hours**: only after confirmation is the message delivered to our team and handled. Unconfirmed messages are kept in the same way as unconfirmed requests, for the same purposes.
+
+The legal basis is our legitimate interest in replying to those who write to us (Art. 6(1)(f) GDPR) or, if you write to us on your own behalf to enter into a contract with us, the performance of pre-contractual measures taken at your request (Art. 6(1)(b)). For unconfirmed messages and to document the declaration, the legal bases set out for demo and trial requests apply. Mandatory fields are marked in the form: without them we cannot reply to you.
+
 ## 3. How long we keep the data
 
 | Data | Retention period |
@@ -35,8 +39,8 @@ Mandatory fields, including the message, are marked in the form: without them we
 | Google Analytics 4 user and event data | Maximum 14 months; anonymised statistics may be kept longer |
 | Log of cookie choices | Up to 26 months after each record is made |
 | Cookie choice on your device (`ars_consent`) | 12 months |
-| Unconfirmed requests | 12 months from submission, then deletion; where there are actual investigations, disputes or requests from the authorities, we keep only the relevant data beyond that period, for as long as necessary or as provided for by law |
-| Confirmed requests and related communications | 24 months from the last interaction with you concerning the request; if a contractual relationship arises, the retention periods in the service's privacy policy apply |
+| Unconfirmed requests and messages | 12 months from submission, then deletion; where there are actual investigations, disputes or requests from the authorities, we keep only the relevant data beyond that period, for as long as necessary or as provided for by law |
+| Confirmed requests and messages, and related communications | 24 months from the last interaction with you concerning the request or message; if a contractual relationship arises, the retention periods in the service's privacy policy apply |
 | Email delivery logs at ZeptoMail | Normally 60 days from sending |
 
 ## 4. Providers and transfers

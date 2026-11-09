@@ -79,7 +79,7 @@ Cookie Policy del sito web ARShades — **v1.2.0, aggiornamento del 2026-10-22**
 
 ## Informativa Privacy del sito web
 
-Informativa Privacy del solo sito web ARShades — **v1.1.0, aggiornamento del 2026-10-22**: allinea messaggio obbligatorio, email aziendale per la demo e personale ammessa per la prova; descrive reCAPTCHA Enterprise, Google fornitore e il criterio di conservazione. Formulazione italiana approvata da Michele Lo Russo il 22/10/2026; le altre clausole approvate della 1.0.0 restano invariate. Testo autoritativo in italiano: [privacy-website/it.md](privacy-website/it.md) (raw: `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-website/it.md`); en/fr/de/es/ja sono traduzioni di cortesia (stessi percorsi con la sigla della lingua). Distinta dall'Informativa Privacy delle soluzioni ARShades (`privacy-policy/`).
+Informativa Privacy del solo sito web ARShades — **v1.2.0, aggiornamento del 2026-11-09**: aggiunge il modulo «Contattaci» della pagina Azienda (dati, conferma via email, base giuridica, stessi tempi di conservazione di demo e prova). Formulazione italiana approvata da Michele Lo Russo il 09/11/2026; le altre clausole della 1.1.0 restano invariate. Testo autoritativo in italiano: [privacy-website/it.md](privacy-website/it.md) (raw: `https://raw.githubusercontent.com/Spaarkly-srl/ARS_legal/main/privacy-website/it.md`); en/fr/de/es/ja sono traduzioni di cortesia (stessi percorsi con la sigla della lingua). Distinta dall'Informativa Privacy delle soluzioni ARShades (`privacy-policy/`).
 
 ## Cookie Policy — lingue
 

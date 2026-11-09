@@ -1,6 +1,6 @@
 # POLÍTICA DE PRIVACIDAD — SITIO WEB ARSHADES
 
-*Versión 1.1.0 — Actualización: 22 de octubre de 2026 — Entrada en vigor: desde su publicación en el nuevo sitio web de ARShades*
+*Versión 1.2.0 — Actualización: 9 de noviembre de 2026 — Entrada en vigor: desde su publicación en el Sitio*
 
 La presente política de privacidad se refiere al **sitio web de presentación de las soluciones ARShades** (el «Sitio»). Las experiencias de producto, incluidas las demos integradas, se describen en la [Política de Privacidad de las soluciones ARShades](../privacy-policy/es.md). Para las cookies y las tecnologías similares, consulte la [Política de Cookies del Sitio](../cookie-policy/es.md).
 
@@ -26,6 +26,10 @@ La base jurídica es la aplicación, a petición suya, de medidas precontractual
 
 Los campos obligatorios, incluido el mensaje, se indican en el formulario: sin ellos no podemos gestionar la solicitud. La activación de la prueba en **ARShades Studio** se rige por los Términos y la política de privacidad de la plataforma.
 
+**Mensajes del formulario «Contacta con nosotros».** Recabamos nombre y apellidos, correo electrónico, empresa (opcional), asunto y mensaje, para responderle. Puede utilizar también un correo electrónico personal. Al igual que en las solicitudes de demo y de prueba, registramos la declaración de haber leído la política de privacidad y los Términos y le enviamos un enlace de confirmación válido durante **24 horas**: solo tras la confirmación el mensaje llega a nuestro equipo y se gestiona. Los mensajes no confirmados se conservan del mismo modo que las solicitudes no confirmadas, con las mismas finalidades.
+
+La base jurídica es nuestro interés legítimo en responder a quienes nos escriben (art. 6.1.f) RGPD) o, si nos escribe en nombre propio para celebrar un contrato con nosotros, la aplicación, a petición suya, de medidas precontractuales (art. 6.1.b)). Para los mensajes no confirmados y para documentar la declaración se aplican las bases jurídicas indicadas para las solicitudes de demo y de prueba. Los campos obligatorios se indican en el formulario: sin ellos no podemos responderle.
+
 ## 3. Durante cuánto tiempo conservamos los datos
 
 | Datos | Duración |
@@ -35,8 +39,8 @@ Los campos obligatorios, incluido el mensaje, se indican en el formulario: sin e
 | Datos de usuario y de evento de Google Analytics 4 | Máximo 14 meses; las estadísticas anonimizadas pueden conservarse durante más tiempo |
 | Registro de elecciones sobre cookies | Hasta 26 meses desde cada registro |
 | Elección sobre cookies en el dispositivo (`ars_consent`) | 12 meses |
-| Solicitudes no confirmadas | 12 meses desde el envío y después se suprimen; si existen investigaciones o controversias concretas o solicitudes de las autoridades, conservamos más allá de ese plazo solo los datos pertinentes, durante el tiempo necesario o previsto por la ley |
-| Solicitudes confirmadas y comunicaciones relacionadas | 24 meses desde la última interacción con usted relativa a la solicitud; si surge una relación contractual, se aplican los plazos de la política de privacidad del servicio |
+| Solicitudes y mensajes no confirmados | 12 meses desde el envío y después se suprimen; si existen investigaciones o controversias concretas o solicitudes de las autoridades, conservamos más allá de ese plazo solo los datos pertinentes, durante el tiempo necesario o previsto por la ley |
+| Solicitudes y mensajes confirmados y comunicaciones relacionadas | 24 meses desde la última interacción con usted relativa a la solicitud o al mensaje; si surge una relación contractual, se aplican los plazos de la política de privacidad del servicio |
 | Registros de entrega de los correos electrónicos en ZeptoMail | Por norma general, 60 días desde el envío |
 
 ## 4. Proveedores y transferencias

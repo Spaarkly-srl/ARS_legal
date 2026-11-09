@@ -1,6 +1,6 @@
 # POLITIQUE DE CONFIDENTIALITÉ — SITE WEB ARSHADES
 
-*Version 1.1.0 — Mise à jour : 22 octobre 2026 — Entrée en vigueur : à compter de sa publication sur le nouveau site web ARShades*
+*Version 1.2.0 — Mise à jour : 9 novembre 2026 — Entrée en vigueur : à compter de sa publication sur le Site*
 
 La présente politique de confidentialité concerne le **site web de présentation des solutions ARShades** (le « Site »). Les expériences de produit, y compris les démos intégrées, sont décrites dans la [Politique de confidentialité des solutions ARShades](../privacy-policy/fr.md). Pour les cookies et technologies similaires, consultez la [Politique relative aux cookies du Site](../cookie-policy/fr.md).
 
@@ -26,6 +26,10 @@ La base juridique est l’exécution de mesures précontractuelles prises à vot
 
 Les champs obligatoires, y compris le message, sont signalés dans le formulaire : sans eux, nous ne pouvons pas gérer la demande. L’activation de l’essai dans **ARShades Studio** est régie par les Conditions générales et la politique de confidentialité de la plateforme.
 
+**Messages envoyés via le formulaire « Contactez-nous ».** Nous collectons vos prénom et nom, l’adresse e-mail, l’entreprise (facultative), le sujet et le message, pour vous répondre. Vous pouvez aussi utiliser une adresse e-mail personnelle. Comme pour les demandes de démo et d’essai, nous enregistrons votre déclaration de prise de connaissance de la politique de confidentialité et des Conditions générales et nous vous envoyons un lien de confirmation valable **24 heures** : ce n’est qu’après la confirmation que le message parvient à notre équipe et est pris en charge. Les messages non confirmés sont conservés dans les mêmes conditions que les demandes non confirmées, pour les mêmes finalités.
+
+La base juridique est notre intérêt légitime à répondre aux personnes qui nous écrivent (art. 6, par. 1, point f, RGPD) ou, si vous nous écrivez pour votre propre compte en vue de conclure un contrat avec nous, l’exécution de mesures précontractuelles prises à votre demande (art. 6, par. 1, point b). Pour les messages non confirmés et pour documenter la déclaration, les bases juridiques applicables sont celles indiquées pour les demandes de démo et d’essai. Les champs obligatoires sont signalés dans le formulaire : sans eux, nous ne pouvons pas vous répondre.
+
 ## 3. Durée de conservation des données
 
 | Données | Durée |
@@ -35,8 +39,8 @@ Les champs obligatoires, y compris le message, sont signalés dans le formulaire
 | Données relatives aux utilisateurs et aux événements dans Google Analytics 4 | 14 mois au maximum ; les statistiques anonymisées peuvent être conservées plus longtemps |
 | Registre des choix relatifs aux cookies | Jusqu’à 26 mois à compter de chaque enregistrement |
 | Choix relatif aux cookies sur l’appareil (`ars_consent`) | 12 mois |
-| Demandes non confirmées | 12 mois à compter de l’envoi, puis suppression ; en présence d’enquêtes ou de contestations concrètes ou de demandes des autorités, nous ne conservons au-delà de ce délai que les données pertinentes, pendant le temps nécessaire ou prévu par la loi |
-| Demandes confirmées et échanges correspondants | 24 mois à compter de la dernière interaction avec vous concernant la demande ; si une relation contractuelle s’établit, les délais prévus par la politique de confidentialité du service s’appliquent |
+| Demandes et messages non confirmés | 12 mois à compter de l’envoi, puis suppression ; en présence d’enquêtes ou de contestations concrètes ou de demandes des autorités, nous ne conservons au-delà de ce délai que les données pertinentes, pendant le temps nécessaire ou prévu par la loi |
+| Demandes et messages confirmés et échanges correspondants | 24 mois à compter de la dernière interaction avec vous concernant la demande ou le message ; si une relation contractuelle s’établit, les délais prévus par la politique de confidentialité du service s’appliquent |
 | Journaux de remise des e-mails chez ZeptoMail | En règle générale, 60 jours à compter de l’envoi |
 
 ## 4. Fournisseurs et transferts

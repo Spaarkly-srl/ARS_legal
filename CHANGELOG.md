@@ -2,6 +2,10 @@
 
 ## Repository
 
+### 2026-11-09 — Informativa Privacy del sito web 1.2.0: modulo «Contattaci»
+- **Informativa Privacy del sito web → v1.2.0** (it/en/fr/de/es/ja): nuovo paragrafo «Messaggi dal modulo «Contattaci»» della pagina Azienda (nome e cognome, email, azienda facoltativa, argomento e messaggio; email personale ammessa; dichiarazione di lettura e link di conferma di 24 ore come per demo e prova; il messaggio arriva al team solo dopo la conferma; i messaggi non confermati sono conservati come le richieste non confermate). Base giuridica: legittimo interesse a rispondere (art. 6.1.f) oppure misure precontrattuali per chi scrive in proprio (art. 6.1.b); per i messaggi non confermati e la dichiarazione valgono le basi già indicate per demo e prova. Tabella dei tempi: le righe delle richieste valgono anche per i messaggi (12 mesi non confermati, 24 mesi confermati, come nel backend).
+- Formulazione italiana approvata da Michele Lo Russo il 09/11/2026. Traduzioni di cortesia en/fr/es/de/ja con traduttore, revisore e lettore indipendente; inglese completato prima delle altre lingue. Le altre clausole della 1.1.0 restano invariate. URL invariati.
+
 ### 2026-10-30 — Termini Servizi 1.4.1: dati societari nel §20
 - **Termini e Condizioni — Servizi ARShades → v1.4.1** (it/en/es/fr/de): il §20 diventa «Contatti e dati societari» con sede legale (Via della Tecnica 18, 85100 Potenza), P.IVA e numero di iscrizione al Registro delle Imprese di Potenza (02077620769), capitale sociale €514,29 interamente versato ed email `legal@spaarkly.com`. Il link «Note legali» del sito punta a questo titolo (`/terms#dati-societari`: l'ancora la assegna il sito, il testo resta markdown semplice anche per le copie usate dalle app). Le righe del blocco vanno ora a capo (prima risultavano su un'unica riga).
 - Rimette la sede legale tolta il 10/07/2026, perché il sito deve mostrare i dati societari; §1.1 invariato. Aggiornamento editoriale approvato da Michele Lo Russo il 30/10/2026: nessuna modifica sostanziale, data di efficacia invariata (26/08/2026).
